@@ -9,7 +9,7 @@
 
 # Part 5
 
-- **University-hospital janitor**
+- **University PhD advisor**
 - **University-hospital police officers**
 
 ### The Unsampled World at Clover St.
