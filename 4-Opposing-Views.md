@@ -12,7 +12,7 @@
 - **University PhD advisor**
 - **University-hospital police officers**
 
-### The Unsampled World at Clover St.
+## The Unsampled World at Clover St.
 
 My sister came to our apartment and brought my mom and I to her dark-red mid-size crossover, that I thought looked like a car that symbolized the Devil. Compared to the cars my mom and I drove, it was much newer, much nicer, dark red. She was working as a nurse at the time and making a middle class income. My mom was working two jobs with a low income, and I was a doctoral student.
 
@@ -52,9 +52,9 @@ As my sister must've thought, I'd be getting just standard quality care. What a 
 - Was suddenly made credible for the first time thanks to ChatGPT, as my MHDPA research had been made in the earlier years thanks to the explosion of transformers, which also, next to RL for human feedback, underpins ChatGPT
  - And even more recently, has been made more credible with real-time RL robotics (which [I was one of the first to do](#real-time-rl-robotics)), and apparently even OpenAI's "Q*" project, for which the CEO, Sam Altman, was, not long after I was (17 days), terminated
 
-### University of Rochester's Strong Hospital
+## University of Rochester's Strong Hospital
 
-#### Sarah
+### Sarah
 
 <!--
 > [!NOTE]
@@ -95,7 +95,7 @@ I showed my MHDPA innovation paper to Sarah. She was amazed that she could read 
 
 Not that my lucidity needed further evidence, but I explained the methods of late-2022 ChatGPT to inpatient and visitors, in early-February, Winter, 2019, while drugs were altering and innovating on the functioning of my biological neural networks.
 
-#### Hudson
+### Hudson
 
 Our other companion was Hudson, who caught me as I was being discharged and handed me this letter in an envelope, that I opened later from my apartment:
 
@@ -124,7 +124,7 @@ I was told a court order would be acquired if I didn't take them, even as I was 
 >
 > Jeremiah is a fellow hobbit, and brave.<!--He looks like the Cowardly Lion from Wizard of Oz, but he neither thinks he's cowardly—his spirit animal is a lion—nor is. Jeremiah is brave. Jeremiah is a hobbit, a fellow hobbit.-->
 
-### From RL to "Many Worlds"
+## From RL to "Many Worlds"
 
 > To do:
 
