@@ -422,7 +422,7 @@ And after all of this, [literally nothing was cured](https://www.reddit.com/r/ku
 </p>
 -->
 
-### "Medical Leave"
+### "Medical Leave" Semesters
 
 Before my recovery<!-- from the benzos-->, I built the disease prognostication website. I wouldn't be emphasizing this so much if not for the outcome of my PhD that will be discussed in future chapters, but it was my idea that I had to argue for, build, and prove to convince them it was a good idea. Through brain damage, I built it, proved the concept to bosses and other researchers through hard work and an actual prototype, and presented it at a conference in DC where I had to retake a dose of benzos once to cognitively function. They took the idea after liking my version, they gave me no credit, not even for arguing for it<!--convincing them--><!-- it was a good idea-->, and they hired their own team to build it with plans for patenting. <!--I believe, at this time though, Henry had aranged them as the source of my funding via the "Udall Center grant," "designed to support innovation and discovery in Parkinson's Disease."-->
 
