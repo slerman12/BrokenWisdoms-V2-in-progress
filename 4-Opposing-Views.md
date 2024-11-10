@@ -282,7 +282,7 @@ Not that my lucidity needed further evidence, but I explained the methods of lat
 >
 > ### Janitor Friend
 >
-> Sarah gave me permission to share this. I'm not sure I'm doing it justice. While in the hospital, separate from this stay when I was hospitalized, Sarah had sex with a 50-something year old janitor, still while she was hospitalized, in one of the psychiatric units, for psychiatric care. They got into a relationship afterwards, even when she got out. She ended up breaking up with him.
+> Sarah gave me permission to share this. I'm not sure I'm doing it justice. While in the hospital, separate from this stay when I was hospitalized, Sarah had sex with a 50-something year old janitor, still while she was hospitalized in one of the psychiatric units for psychiatric care. They got into a relationship afterwards, even when she got out. She ended up breaking up with him.
 >
 > Sarah was also treated with benzos. Benzos are like GHB. Both are GABA agonists. The two aren't exactly the same. GHB activates GHB receptors. But like the "date rape drug," benzos disinhibit a person's personality. Outside of confinement, or without high doses of disinhibiting drugs, it's unknown whether Sarah, and the 50-something year old janitor, would've had sex.
 >
