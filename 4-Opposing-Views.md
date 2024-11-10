@@ -334,6 +334,7 @@ I was told a court order would be acquired if I didn't take them, even as I was 
 >
 > Jeremiah is a fellow hobbit, and brave.<!--He looks like the Cowardly Lion from Wizard of Oz, but he neither thinks he's cowardly—his spirit animal is a lion—nor is. Jeremiah is brave. Jeremiah is a hobbit, a fellow hobbit.-->
 
+<!--
 ## From RL to "Many Worlds"
 
 > To do:
@@ -367,6 +368,3 @@ Before my area exam, I was building a vision transformer for generalizing across
 <!-- [TO DO:: Add Henry quote from interview about worrying about AI being like "worrying about traffic regulation on Mars"] --><!-- I'm the martian, perhaps who will undergo a hard "execution"] -->
 <!--
 Also before my area exam, I taught Henry "sequence-to-sequence attention" from my office, in a state of misery that I couldn't convey, as I was also working on further innovations to MHDPA, now suffering due to grad-level classes, TAship, impending area exam, and the brain damage. I tried to tell Henry what was going on and he couldn't understand the severity, giving me an anecdote about his son's medication.
-
-Henry edited down my MHDPA innovation paper to submit to a workshop, cut down some pages, and I submitted it. It was rejected. At this point, I myself, like Henry, doubted that the paper really had value. Amid my brain damage, there was nothing but despair.
-
