@@ -1,12 +1,3 @@
-<p align="center">
-<a href="https://github.com/user-attachments/assets/fc7da86b-64c3-4ae7-9e77-2e79023b1525">
- <picture>
-   <source width="65%" media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/04008b45-a765-43d8-97f2-c2c47cf57212">
-   <img width="65%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/user-attachments/assets/fc7da86b-64c3-4ae7-9e77-2e79023b1525">
-</picture>
-</a>
-</p>
-
 # Part 6
 
 - **University PhD advisor**
@@ -291,6 +282,15 @@ And in Spring, 2020, I worked in the office at the Med Center as my brain was ju
 Had I taken a medical leave at the peak of this, and where the work was most intense, throughout the Spring, 2019 semester, I would've lost my salary, and wouldn't have been able to return for a long time, since the benzo brain damage was just getting started, in which case I most likely would've lost my health insurance, been delayed on all this work, including the area exam, for yet another year at least (including the time to write it), and, given [Henry's tenuous status having announced his intention to accept a directorship offer from the NSF](#red-light-at-clover-st), most likely would've been terminated for not having an advisor.
 
 ## Red Light at Clover St. 
+
+<p align="center">
+<a href="https://github.com/user-attachments/assets/fc7da86b-64c3-4ae7-9e77-2e79023b1525">
+ <picture>
+   <source width="65%" media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/04008b45-a765-43d8-97f2-c2c47cf57212">
+   <img width="65%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/user-attachments/assets/fc7da86b-64c3-4ae7-9e77-2e79023b1525">
+</picture>
+</a>
+</p>
 
 > [!NOTE]
 > ### Buffy
