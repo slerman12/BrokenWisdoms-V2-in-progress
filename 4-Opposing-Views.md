@@ -106,7 +106,7 @@ Not that my lucidity needed further evidence, but I explained the methods of lat
 >
 > In addition to disinhibiting drugs, the hospital environment is oppressive. It can be lonely. And the janitor perhaps helped her. The hospital's responsibility isn't to fire the janitor who she got into a relationship with, nor to increase the oppressiveness of the care units, but to provide care units that sufficiently socialize and help a patient, without overexposing them to drugs that increase impulsiveness, disinhibition, and so on. 
 
-## Kids
+### Kids
 
 > [!NOTE]
 > ### Mobi
