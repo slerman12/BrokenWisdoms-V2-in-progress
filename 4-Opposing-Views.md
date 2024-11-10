@@ -10,6 +10,7 @@
 # Part 5
 
 - **University PhD advisor**
+- **University-hospital janitor**
 - **University-hospital police officers**
 
 ## The Unsampled World at Clover St.
@@ -94,6 +95,16 @@ My brother-in-law came in with my sister and I explained to him relational reaso
 I showed my MHDPA innovation paper to Sarah. She was amazed that she could read it since usually, she said, that kind of stuff isn't readable, and brought up one more synchronicity. Her mom was a writer who had a published short story in a Stephen King anthology, a writer of horror. I was indeed in a hospitalization that was like a pretty good short story in an otherwise Stephen King anthology/horror. 
 
 Not that my lucidity needed further evidence, but I explained the methods of late-2022 ChatGPT to inpatient and visitors, in early-February, Winter, 2019, while drugs were altering and innovating on the functioning of my biological neural networks.
+
+> [!NOTE]
+>
+> ### Janitor Friend
+>
+> Sarah gave me permission to share this. I'm not sure I'm doing it justice. While in the hospital, separate from this stay when I was hospitalized, Sarah had sex with a 50-something year old janitor, still while she was hospitalized, in one of the psychiatric units, for psychiatric care. They got into a relationship afterwards, even when she got out. She ended up breaking up with him.
+>
+> Sarah was also treated with benzos. Benzos are like GHB. Both are GABA agonists. The two aren't exactly the same. GHB activates GHB receptors. But like the "date rape drug," benzos disinhibit a person's personality. Outside of confinement, and without high doses of disinhibiting drugs, it's unknowable whether Sarah, and the 50-something year old janitor, would've had sex.
+>
+> In addition to disinhibating drugs, the hospital environment is oppressive. It can be lonely. And the janitor perhaps helped her. The hospital's responsibility isn't to fire the janitor who she got into a relationship with, nor to increase the oppressiveness of the care units, but to provide care units that sufficently socialize and help a patient, without overexposing them to drugs that increase impulsiveness, disinhibition, and so on. 
 
 ### Hudson
 
