@@ -227,7 +227,7 @@ As my sister must've thought, I'd be getting just standard quality care. What a 
 
 - ChatGPT claims to use RL
 - LLM's "exploration strategy" via beam search type methods can inspire RL
-- Applied to RL environments, this equates to the "Many Worlds" concept, except now intelligent, and if differentiable, optimizable towards a purpose
+- Applied to RL environments, this equates to the "Many Worlds" concept, except now intelligent if those environments are differentiable or optimizable towards a purpose
  - And taking inspiration from MHDPA, can be applied to multi-headed particles, as my own theory does
 - I studied RL throughout my PhD
  - I did RL my whole PhD
