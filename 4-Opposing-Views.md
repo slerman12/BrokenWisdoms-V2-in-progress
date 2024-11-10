@@ -120,6 +120,8 @@ Not that my lucidity needed further evidence, but I explained the methods of lat
 > YouTube, Quora, and Wikipedia are how I taught myself physics.
 >
 > Before that, I took an AP class in high school that I didn't score high enough on to get college credits for, and I took a community college class at Monroe Community College in the summer after my freshman year, that I got an A in, that my university, the University of Rochester, didn’t even matriculate, because it was a community college.
+>
+> Schools are coercive torture camps. They should exist to socialize kids, while humble themselves from the status of being educational, which when it comes to both ideas and wisdom, they are easily and quietly outdone by services on the internet that are more fun and uncoercive.
 
 ### Hudson
 
