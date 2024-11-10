@@ -1,7 +1,7 @@
 # Part 5
 
 - **University-hospital janitor**
-- **University-hospital adolescent psychiatrists**
+- **University-hospital child and adolescent psychiatrists**
 - **University-hospital police officers**
 
 ## Henry Kautz
