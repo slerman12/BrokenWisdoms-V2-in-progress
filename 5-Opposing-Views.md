@@ -192,6 +192,8 @@ My family besides me also have higher-level degrees. My mom, a master's degree i
 
 #### Grey, and GABA Downregulation
 
+Before my area exam, I taught Henry "sequence-to-sequence attention" from my office, in a state of misery that I couldn't convey, as I was also working on my application of MHDPA for vision in RL, now suffering due to grad-level classes, TAship, impending area exam, and the brain damage. I tried to tell Henry what was going on regarding the benzo agony and he couldn't understand the severity, giving me an anecdote about his son's medication.
+
 At after the 6 month point, I started gradually reducing the dose, now entering the ["hungover" chemical waterboarding phase](https://www.reddit.com/r/depression/comments/cksl7u/health_disaster_brain_damage_alopecia_universalis/).
 
 They say the only thing to fear is fear itself: GABA downregulation is fear itself. The experience is like being in a warzone. It's like burning alive—without stop—more than a year, torture. The neurochemical experience is literally what you go through if you're in a warzone, and being chased by a predator, while in the middle of having a seizure: hellfire, indescribable pain. I remember staying up nights shaking, just shaking, electricity swarming through me, my face curled, deformed as I tensed and agonized all night unless I got some sleep if I was lucky and then waking up feeling like that, again, for the rest of the day, every day, for months like this. 
