@@ -176,7 +176,7 @@ Charles also sent me an email:
 > Nice job this morning.  I along with the other committee members were impressed with your presentation and overall approaches. Exciting work ahead! 
 > ### $\Huge &#8221;$
 > 
-And by chance, since the other 7 faculty didn't, Chenliang CC'd me on his confirmation:
+And by chance since the other 7 faculty didn't, Chenliang CC'd me on his confirmation:
 
 > ### $\Huge &#8220;$
 > I attended Sam's area exam and approved the assessment made by the committee.
