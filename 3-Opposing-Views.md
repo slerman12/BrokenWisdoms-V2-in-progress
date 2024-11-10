@@ -1,12 +1,3 @@
-<p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/da92b978-0e8a-4c27-9d77-82b40ca7a911">
- <picture>
-   <source width="55%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/0492d0ae-d9cc-40ec-b86d-8af1b12c7a13">
-   <img width="55%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/da92b978-0e8a-4c27-9d77-82b40ca7a911">
-</picture>
-</a>
-</p>
-
 # Part 4
 
 - **University Med Center**
@@ -70,6 +61,15 @@ Unlike my mom not being able to in Uzbekistan, I got into the PhD program. I was
 Before accepting me into his doctoral candidacy, Henry connected me to Charles Venuto at the Center for Health and Technology a year into their efforts to model Parkinson's disease (PD) progression. Charles hired me as an undergrad researcher to work with another student, a friend of mine from an on-campus living community, in the UR Medicine Saunders Research Building, where I took on the responsibility of modeling Parkinson's disease for the next several years, including having co-led with that friend the PPMI Data Challenge project, a high-profile data contest hosted by the Michael J. Fox Foundation, which asked, "What factors at baseline predict clinical progression?"
 
 ## Charles Venuto
+
+<p align="center">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/da92b978-0e8a-4c27-9d77-82b40ca7a911">
+ <picture>
+   <source width="55%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/0492d0ae-d9cc-40ec-b86d-8af1b12c7a13">
+   <img width="55%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/da92b978-0e8a-4c27-9d77-82b40ca7a911">
+</picture>
+</a>
+</p>
 
 Charles was my Med Center advisor.
 
