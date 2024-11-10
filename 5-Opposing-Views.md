@@ -2,11 +2,7 @@
 
 - **University PhD advisor**
 
-## Benzo Torture
-
-### Area Exam (and All As)
-
-#### Flying Colors
+## Flying Colors
 
 <!--
 The first psychiatrist was young, soft and gentle-eyed. Maybe not a rookie, but close enough to still have enthusiasm. The kind of guy who wears his scrubs like he’s one step away from happy hour, the sort who still remembers what it was like to be human and not just some overworked automaton. I walked with him down the hall, and I think he thought I was sharp. I think he thought I was actually interesting to talk to. And sure, I was under the sweet haze of benzos, so I felt sharp. It wasn’t so much my intellect as it was the way the drug draped everything in a golden glow. I was brilliant. I was lucid. My thoughts were all connected in this colorful, radiant thread that I could almost touch. I was the goddamn sun. I was a walking TED Talk. Let's call this luminescence, "flying colors"—a term stolen from Henry.
@@ -54,6 +50,10 @@ Also before my area exam, I taught Henry "sequence-to-sequence attention" from m
 
 Henry edited down my MHDPA innovation paper to submit to a workshop, cut down some pages, and I submitted it. It was rejected. At this point, I myself, like Henry, doubted that the paper really had value. Amid my brain damage, there was nothing but despair.
 -->
+
+## Benzo Torture
+
+### Area Exam (and All As)
 
 #### Step by Step<!--Classes, Paper, and Research-->
 
@@ -188,7 +188,7 @@ My uncle was worried I wouldn't pass, and we all celebrated joyfully that I did.
 
 My family besides me also have higher-level degrees. My mom, a master's degree in music theory. My uncles Slava and Sasha, PhDs, in physics and mathematics, respectively. My cousins, PhDs in dermatology and pharmacology. My sister, nurse practitioner (master's degree). And my best friend, also in a PhD program (immunology) but in another city. All were proud of me. None knew all the details of the hospitalizations. Henry of course didn't either. This book is the real-time processing of that memory and the rest of these memories, all traumatic and extremely hard to write (see the number of commits this book has, look through the commits to see how hard I struggled to express any of this, and other versions of this book in other repos and on my other GitHubs, maybe that I will make private, where some of this effort to describe and editing also took place), into writing.
 
-### Hell
+### Hellmouth and Hellfire
 
 #### Grey, and GABA Downregulation
 
@@ -283,7 +283,7 @@ And in Spring, 2020, I worked in the office at the Med Center as my brain was ju
 
 Had I taken a medical leave at the peak of this, and where the work was most intense, throughout the Spring, 2019 semester, I would've lost my salary, and wouldn't have been able to return for a long time, since the benzo brain damage was just getting started, in which case I most likely would've lost my health insurance, been delayed on all this work, including the area exam, for yet another year at least (including the time to write it), and, given [Henry's tenuous status having announced his intention to accept a directorship offer from the NSF](#red-light-at-clover-st), most likely would've been terminated for not having an advisor.
 
-## Red Light at Clover St. 
+### Red Light at Clover St. 
 
 <p align="center">
 <a href="https://github.com/user-attachments/assets/fc7da86b-64c3-4ae7-9e77-2e79023b1525">
