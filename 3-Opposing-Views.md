@@ -82,14 +82,9 @@ I hope Charles and his colleagues may find the above diagram (["5 Computational 
 
 Charles was very supportive as my advisor. He was left-handed. My grandpa was also left-handed. On the website, though, Charles was red-handed.
 
-<p align="center">
-<a href="https://github.com/user-attachments/assets/fc7da86b-64c3-4ae7-9e77-2e79023b1525">
- <picture>
-   <source width="65%" media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/04008b45-a765-43d8-97f2-c2c47cf57212">
-   <img width="65%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/user-attachments/assets/fc7da86b-64c3-4ae7-9e77-2e79023b1525">
-</picture>
-</a>
-</p>
+> [!NOTE]
+>
+> Placeholder image
 
 ## Henry Kautz
 
