@@ -335,7 +335,7 @@ Henry thought Chenliang would be better due to his having more experience in dee
 >
 > Buffy the Vampire Slayer was my and Henry's favorite show.
 > 
-> In Season 6, Buffy's advisor Giles had to leave. His reason was, ["<!--[I] w-->Wish I could stay, [...] Wish I could slay your demons, [...] But I'm standing in the way."](https://youtu.be/4YKg6016rTQ?si=o4e-46-oq1laf_23)
+> In Season 6 of Buffy, Buffy's advisor Giles decided to leave. His reason was, ["<!--[I] w-->Wish I could stay, [...] Wish I could slay your demons, [...] But I'm standing in the way."](https://youtu.be/4YKg6016rTQ?si=o4e-46-oq1laf_23)
 
 <!--
 Chenliang was younger than Henry, a good amount closer to my age than Henry's, and didn't have tenure yet, though he acquired it [a couple years after accepting me into his lab. ]() -->
