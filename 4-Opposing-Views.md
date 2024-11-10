@@ -104,7 +104,7 @@ Not that my lucidity needed further evidence, but I explained the methods of lat
 >
 > Sarah was also treated with benzos. Benzos are like GHB. Both are GABA agonists. The two aren't exactly the same. GHB activates GHB receptors. But like the "date rape drug," benzos disinhibit a person's personality. Outside of confinement, and without high doses of disinhibiting drugs, it's unknown whether Sarah, and the 50-something year old janitor, would've had sex.
 >
-> In addition to disinhibating drugs, the hospital environment is oppressive. It can be lonely. And the janitor perhaps helped her. The hospital's responsibility isn't to fire the janitor who she got into a relationship with, nor to increase the oppressiveness of the care units, but to provide care units that sufficently socialize and help a patient, without overexposing them to drugs that increase impulsiveness, disinhibition, and so on. 
+> In addition to disinhibiting drugs, the hospital environment is oppressive. It can be lonely. And the janitor perhaps helped her. The hospital's responsibility isn't to fire the janitor who she got into a relationship with, nor to increase the oppressiveness of the care units, but to provide care units that sufficiently socialize and help a patient, without overexposing them to drugs that increase impulsiveness, disinhibition, and so on. 
 
 ### Hudson
 
