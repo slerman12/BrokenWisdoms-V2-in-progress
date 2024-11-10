@@ -1,3 +1,12 @@
+<p align="center">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e8deed05-4b48-4844-ac9b-ffa98b680efe">
+ <picture>
+   <source width="82%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e8deed05-4b48-4844-ac9b-ffa98b680efe">
+   <img width="82%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e8deed05-4b48-4844-ac9b-ffa98b680efe">
+</picture>
+</a>
+</p>
+
 # Part 6
 
 - **University PhD advisors**
