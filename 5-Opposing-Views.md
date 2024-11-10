@@ -9,7 +9,7 @@
 
 # Part 6
 
-- **University PhD advisor**
+- **University PhD advisors**
 - **University PhD committee members**
 - **University CS department Chair**
 
