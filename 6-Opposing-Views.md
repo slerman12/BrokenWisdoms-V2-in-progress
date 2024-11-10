@@ -58,7 +58,7 @@ As Niaz said, "I don't know what he was thinking."
   
 AI has many dangerous applications, from [scamming people](https://www.business-standard.com/world-news/how-deepfake-version-of-elon-musk-became-internet-s-biggest-scammer-124081402000_1.html), to [military uses](https://www.politico.eu/article/robots-coming-ukraine-testing-ground-ai-artificial-intelligence-powered-combat-war-russia/), to [mass survelliance](https://bigdatachina.csis.org/the-ai-surveillance-symbiosis-in-china/#:~:text=With%20regard%20to%20China%2C%20it,data%20acquired%20through%20government%20contracts.) that are being developed in labs with paper quotas and ethics standards like Chenliang's. That pressure to turn out papers by every conference deadline means a lot of research ends up getting farmed out of students before proper thought, care, and consideration to consequences can be given. Many AI research labs currently work like factories, research-paper factories.
 
-### Second and Third Hair Regrowths
+### Second and Third Hair Regrowths, and Third Induced Hair Loss
 
 My pubic hair grew back in 2021 while doing a strict steak/salmon-only diet with some Paleo leniency — it was definitely still grown back while I was doing that diet in December, 2021 — and fell out gradually, as the "Paleo" component of my diet, by the modern less-strict "certified" standard, had more intensely included  high-carb "Paleo" snacks, such as those with dark cocoa, coconut, honey, and nut butter type ingredients, nor was my social life exactly resuscitated. 
 
