@@ -229,10 +229,11 @@ As my sister must've thought, I'd be getting just standard quality care. What a 
 - ChatGPT claims to use RL
 - LLM's "exploration strategy" via beam search type methods can inspire RL
 - Applied to RL environments, this equates to the "Many Worlds" concept, except now intelligent if those environment samplings are differentiable / optimizable towards a purpose
+- After RGH hospitalization, was making a computer vision encoder architecture (A.K.A., a kind of vision transformer, early 2019) of disentangled MHDPA representations for use in an episodic memory to increase generalization across levels in RL
 - I studied RL throughout my PhD
 - I did RL my whole PhD
-- Implemented everything
-- After hospitlization, was making a computer vision encoder architetcure of disentangled MHDPA representations for use in an episodic memory to increase generalization across levels in RL
+- Implemented everything, even was building a library called [UnifiedRL](https://github.com/slerman12/UnifiedRL) 
+
 <!--
 - ChatGPT claims to use RL
 - LLM's "exploration strategy" via beam search type methods can inspire RL
