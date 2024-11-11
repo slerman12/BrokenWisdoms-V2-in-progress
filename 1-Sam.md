@@ -46,15 +46,33 @@ My uncle Slava was the first of my grandparents' descendants to be born, followe
       - Psychiatry at the University of Rochester's Strong Hospital
       - Benzodiazepine ("Benzos") Mechanism of Action
       - My Trauma
-    - Part 3 (University PhD advisors, University-hospital police officers, University-hospital nurses, University psychiatric ward janitor, University PhD committee members, University CS department Chair, University Deans)
+    - Part 3 (University-hospital ambulance, University-hospital system, University-hospital nurses, University-hospital geriatric unit, University-hospital nutritionists)
+      - My Grandma's Hair, Nails, and Dementia
+        - Childhood
+        - Nails
+        - The Probable Cause of My Grandma's Dementia
+      - How My Grandpa Died
+        - Lyubimey V'nuk
+        - Surgery
+        - Transit
+      - When My Grandma Died
+        - Food
+        - Numerical Timings
+        - Massages
+      - Geriatric Unit Hospitalization
+      - Second Induced Hair Loss
+    - Part 4 (University Med Center)
       - PhD Program
         - Embassy Interview
         - Immigration
       - Charles Venuto
+    - Part 5 (University psychiatric ward janitor, University-hospital child and adolescent psychiatrists, University-hospital police officers)
       - Henry Kautz <!--(Limitations of Western philosophy)-->
         - Fall, 2018 Semester, and the Dead Marshes
       - C<!--Psychosis c-->risis
-          - Yogic Grace Guidances
+          - Tao as the Optimization of a Differentiable Universe
+          - I Ching and Synchronicity Hypothesized Mechanisms
+          - Wind
           - Rochester General Hospital (RGH)
             - Christmas Eve/Day, 2018
             - Catatonia, or Kundalini Emergency
@@ -62,46 +80,51 @@ My uncle Slava was the first of my grandparents' descendants to be born, followe
           - The Unsampled World at Clover St.
           - University of Rochester's Strong Hospital
             - Sarah
-              - I Ching and Synchronicity Hypothesized Mechanisms
+              - Janitor Friend
+              - Kids
             - Hudson
             - Jeremiah
-          - Flying colors
-      - Area exam (and All As)
-      - Hell
-      - Machinery Behind the Curtain
-      - Suicide Attempt
-      - Beginnings of Recovery
+    - Part 6 (University PhD advisor) 
+      - Flying colors
+      - Benzo Torture
+        - Area exam (and All As)
+          - Step by Step
+          - Outpatient Doctor
+          - Classes and Discipline
+          - Brain Damage
+          - Rehearsal in Front of Uncle and Mom
+          - Inability To Defend
+          - Oral Defense
+          - with Flying Colors
+        - Hellmouth and Hellfire
+          - Grey, and GABA Downregulation
+          - Teeth-Falling-Out Literal Nightmare
+          - Suicide Attempt
+        - Machinery Behind the Curtain
+        - Beginnings of Recovery
+        - "Medical Leave" Semesters
+        - Termination Likely if Actual Medical Leave When Most Needed
       - Red Light at Clover St.
         - Buffy
         - Giles
+    - Part 7 (University PhD advisors, University PhD committee members, University CS department Chair)
       - Chenliang Xu
-      - Comedic Aside: Sexier moments during Chenliang advising:
-        - Psyche hospitalization
-      - My grandma's childhood
-      - Nails
-      - The probable cause of my grandma's dementia
-      - How my grandpa died
-      - When my grandma died
-      - Ascent of a Jewish old grandpa
-      - Geriatric unit hospitalization
-      - Second induced hair loss
-      - Kids
-        - Harry
-      - Future hair regrowths
-          - Mobi
-      - Food
-        - High quality food in the medical system
-      - On the note of synchronicities
-      - Intimacy healing
-      - The artificial and synthetic
-      - AI
+        - AI
+        - Second and Third Hair Regrowths
+        - Factory Food
+          - High Quality Food in the Medical System
       - Dyada Slava
-      - Niaz Abdolrahim (okay, some not-tragedy)
+      - Niaz Abdolrahim
       - Chris Kanan
+        - UnifiedML
+        - B-, or "Sam Hasn't Been Put Through Enough Systems, the Sequel-Sequel"
       - Tom Howard
+        - Employer "Affirmative Consent" isn't a Thing
+        - Real-Time RL Robotics
       - Charles Venuto
       - Recap
       - Michael L. Scott
+        - Summary of why interim
 - [**Disproof**](3-Disproof.md)
     - Part 4
       - Email: 10/27/2023
