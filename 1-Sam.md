@@ -32,6 +32,8 @@ My uncle Slava was the first of my grandparents' descendants to be born, followe
 
 - [**Sam**](1-Sam.md)
   - Prologue
+    - War
+    - Asya and Yury
     - Sam and Marina of Samarkand and Maracanda
 
 - [**Opposing Views**](2-Opposing-Views.md)
