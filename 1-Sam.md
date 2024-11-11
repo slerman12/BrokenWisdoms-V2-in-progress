@@ -84,7 +84,7 @@ My uncle Slava was the first of my grandparents' descendants to be born, followe
               - Kids
             - Hudson
             - Jeremiah
-    - Part 6 (University PhD advisor) 
+    - Part 6 (University-hospital psychiatrists, University outpatient doctor, University PhD advisor) 
       - Flying colors
       - Benzo Torture
         - Area exam (and All As)
