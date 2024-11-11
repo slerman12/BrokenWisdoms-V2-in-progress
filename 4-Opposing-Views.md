@@ -229,13 +229,21 @@ As my sister must've thought, I'd be getting just standard quality care. What a 
 - ChatGPT claims to use RL
 - LLM's "exploration strategy" via beam search type methods can inspire RL
 - Applied to RL environments, this equates to the "Many Worlds" concept, except now intelligent if those environment samplings are differentiable / optimizable towards a purpose
+- I studied RL throughout my PhD
+- I did RL my whole PhD
+- Implemented everything
+- After hospitlization, was making a computer vision encoder architetcure of disentangled MHDPA representations for use in an episodic memory to increase generalization across levels in RL
+<!--
+- ChatGPT claims to use RL
+- LLM's "exploration strategy" via beam search type methods can inspire RL
+- Applied to RL environments, this equates to the "Many Worlds" concept, except now intelligent if those environment samplings are differentiable / optimizable towards a purpose
  - And taking inspiration from MHDPA, can be applied to multi-headed particles, as my own theory does
 - I studied RL throughout my PhD
  - I did RL my whole PhD
  - Implemented everything
 - Was suddenly made credible for the first time thanks to ChatGPT, as my MHDPA research had been made in the earlier years thanks to the explosion of transformers, which also, next to RL for human feedback, underpins ChatGPT
  - And even more recently, has been made more credible with real-time RL robotics (which [I was one of the first to do](#real-time-rl-robotics)), and apparently even OpenAI's "Q*" project, for which the CEO, Sam Altman, was, not long after I was (17 days), terminated
-
+-->
 > To do: Write:
 > 
 > Before my area exam, I was building a vision transformer for generalizing across Sonic the Hedgehog levels, but I didn’t realize it was a vision transformer (in the Computer Vision domain) since it was purely applied to reinforcement learning, and the crux of it for me was to use disentangled relational representations as queries to the episodic memory (k-nearest neighbors, made differentiable via weighted averaging attributed rewards), meant to give the episodic memory more generalizability since the relational representations extracted parts and their relations rather than the full entangled context, effectively treating the MHDPA heads like an ensemble of independent memory queries using my disentangling method from my earlier paper. This is still an extremely insightful symbolic understanding of how models can generalize across domains, where the relational representations are the generalizable components and the episodic memory was like the parameterized or recurrently-stored knowledge trained into models today via giant data corpora, except in both cases more explicitly programmed in as novel inductive biases. None of this was appreciated by my department, whatsoever. 
