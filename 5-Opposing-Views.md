@@ -34,7 +34,7 @@ The first psychiatrist was young, calm, cool, soft, gentle eyed. As we walked do
 
 I convinced him—or perhaps he would’ve agreed with my worry anyway—and he reassured me that I’d be weaned off the drugs before discharge.
 
-A week or two later, the second psychiatrist entered. She was an Asian woman, stern and astute, detached and efficient. After glancing at my chart, she said the tapering schedule was too fast, and that the outpatient psychiatrist would handle it after discharge. The first psychiatrist, self-doubting, noticed/remembered my worry and emphasized that he had intended to taper me off before discharge. She dismissed his effort. She disagreed and reassured me that I’d be tapered right after discharge.
+A week or two later, the second psychiatrist entered. She was an Asian woman, stern and astute, detached and efficient. After glancing at my chart, she said the tapering schedule was too fast, and that the outpatient psychiatrist would handle it after discharge. The first psychiatrist, self-doubting, noticed my worry and emphasized that he had intended to taper me off before discharge. She dismissed his effort. She disagreed and reassured me that I’d be tapered right after discharge.
 
 The benzos were prescribed without any effort to learn what had been happening with me, and this lack of investigation was on top of me being given Risperdal, a strong antipsychotic.
 
