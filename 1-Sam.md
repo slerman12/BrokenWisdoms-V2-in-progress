@@ -75,7 +75,7 @@ My uncle Slava was the first of my grandparents' descendants to be born, followe
           - Wind
           - Rochester General Hospital (RGH)
             - Christmas Eve/Day, 2018
-            - Catatonia, or Kundalini Emergency
+            - Catatonia, or Yogic Guidances
           - Discharge from RGH
           - The Unsampled World at Clover St.
           - University of Rochester's Strong Hospital
