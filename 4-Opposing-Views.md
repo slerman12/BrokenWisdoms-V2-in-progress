@@ -232,7 +232,7 @@ As my sister must've thought, I'd be getting just standard quality care. What a 
 - After RGH hospitalization, was making a computer vision encoder architecture (A.K.A., a kind of vision transformer, early 2019) of disentangled MHDPA representations for use in an episodic memory to increase generalization across levels in RL
 - I studied RL throughout my PhD
 - I did RL my whole PhD
-- Implemented everything, even was building a Keras-type library back in 2018 with neural episodic control, and a couple years later, a library called [UnifiedRL](https://github.com/slerman12/UnifiedRL) 
+- Implemented everything, even built a Keras-type library back in 2018 with neural episodic control that generalized to my Med Center research, and a couple years later, was building a library called [UnifiedRL](https://github.com/slerman12/UnifiedRL) 
 
 <!--
 - ChatGPT claims to use RL
