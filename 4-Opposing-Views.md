@@ -119,7 +119,7 @@ A nurse was there to help thaw my legs to prevent hypothermia and frostbite.  My
 
 The nurse remarked on some damages I had. 
 
-#### Catatonia, or Kundalini Emergency
+#### Catatonia, or Yogic Guidances
 
 <!--Then in a different bed, while doctors or nurses or attendants were in the room, I felt some strange thing happen with my tongue and throat, like my tongue was going back into it: my mouth opened wide, and i-->
 <!--
