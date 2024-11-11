@@ -1,6 +1,6 @@
 # Part 5
 
-- **University-hospital janitor**
+- **University psychiatric ward janitor**
 - **University-hospital child and adolescent psychiatrists**
 - **University-hospital police officers**
 
