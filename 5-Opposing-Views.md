@@ -54,7 +54,7 @@ She appeared a week or two after the first one, who said I'd be taped off before
 The benzos were prescribed without any effort to learn what had been happening with me, and this lack of investigation was on top of me being given Risperdal, a strong antipsychotic.
 -->
 
-In case the durations of those conversations don't make this clear, to be clear: the benzos, and Risperadol, were prescribed without any effort to learn what had happened or had been happening to me.
+In case the durations of those conversations don't make this clear, to be clear: the benzos, and Risperadol, were prescribed without any effort to learn what had happened or had been happening to me, the same ones that were also threatened to be taken at court order, and, later, prescribed indefinitely.
 <!--The benzos, and Risperadol for that matter, were prescribed without any effort to learn what had been happening with me.-->
 
 <!--
