@@ -324,7 +324,7 @@ Sree introduced me to [Piazza](#kids), which is a great educational tool.
 
 And in Spring, 2020, I worked in the office at the Med Center as my brain was just barely entering the first vestiges of recovery. I was [coming into the Med Center office regularly, working on the disease prognostication data and models on-site, and exercising again.](https://www.facebook.com/share/p/ShD9b4SeSA9Ebzbq/) 
 
-### Termination Likely if Actual Medical Leave When Most Needed
+### Termination Likely if Actual Medical Leave *At Least* When Most Needed
 
 <!--Had I taken a medical leave at the peak of this, and where the work was most intense, throughout the Spring, 2019 semester, I would've lost my salary, and wouldn't have been able to return for a long time, since the benzo brain damage was just getting started, in which case I most likely would've lost my health insurance, been delayed on [classes, TAship, and the area exam](5-Benzo-Torture.md)--><!-- (a many-page paper and oral defense, for which a master's degree is awarded, the biggest defense other than the thesis)--><!--, for yet another year at least (not to mention the time to write it), and, given [Henry's tenuous status having announced his intention to accept a directorship offer from the NSF](#red-light-at-clover-st), most likely would've been terminated for still having to do all of those things and not having an advisor, seeing as my next advisor, Chenliang, [would not have](#chenliang-xu) accepted me if I still had to do all of those things and had neither a published paper nor an area exam and resultant master's degree under my belt.--> <!--So taking a medical leave wasn't even an opportunity afforded me during the highest peak of the induced suffering by the same institution.-->
 
