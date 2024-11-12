@@ -373,4 +373,4 @@ To this day, Henry hasn’t acknowledged that what I was arguing to him about, h
 
 ### Stuck in Traffic
 
-The bigger crime, is that the Deans Heinzelman and Vamivakas (see "University of Rochester, <a href="https://www.rochester.edu/college/deans/">Meet the Deans</a>"), who had not retired, were filled in on all of what preceded, including the medical malpractices, and all of what follows, at least to the extent that I can verify via email. They ignored my emails and didn't respond to them.
+The bigger red light, is that the Deans Heinzelman and Vamivakas (see "University of Rochester, <a href="https://www.rochester.edu/college/deans/">Meet the Deans</a>"), who had not retired, were filled in on all of what preceded, including the medical malpractices, and all of what follows, at least to the extent that I can verify via email. They ignored my emails and didn't respond to them.
