@@ -90,11 +90,11 @@ By the time of discharge, the color film was faded, the "flying colors" had fade
 
 <!--The Hell was indescribable, literally. Attempted to write it 500 times. I'll put it in the "Benzo Torture" document. It was like Schindler's List-grey, not even a little girl carrying an umbrella.-->
 
-The Hell was indescribable.
+<!--The Hell was indescribable.-->
 
 Apparently, [it is not uncommon for outpatient doctors to continue a course of benzos after inpatient psychiatrists expect discontinuation.](https://thischangedmypractice.com/long-term-benzodiazepine-mortality-schizophrenia/)
 
-Perhaps "flying colors" has something to do with the reason.
+<!--Perhaps "flying colors" has something to do with the reason.-->
 
 #### Classes and Discipline
 
