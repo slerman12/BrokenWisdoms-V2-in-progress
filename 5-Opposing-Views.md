@@ -373,4 +373,4 @@ To this day, Henry hasn’t acknowledged that what I was arguing to him about, h
 
 ### Stuck in Traffic
 
-The bigger red light, is that the Deans Heinzelman and Vamivakas (see <a href="https://www.rochester.edu/college/deans/">"University of Rochester, Meet the Deans"</a>), who had not retired, were filled in on all of what preceded, including the medical malpractices, and all of what follows, at least to the extent that I can verify via email. They ignored my emails, with explanations of everything that preceded and follows, and didn't respond to them.
+The bigger red light, is that the Deans Heinzelman and Vamivakas (see <a href="https://www.rochester.edu/college/deans/">"University of Rochester, Meet the Deans"</a>), who had not retired, were filled in on all of what preceded, including the medical malpractices, and all of what follows, at least to the extent that I can verify via email. They ignored my emails, with explanations of everything that preceded and follows, and didn't respond to them, with the preceding and following events happening under their watch or at least in their inbox.
