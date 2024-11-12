@@ -92,7 +92,7 @@ By the time of discharge, the color film was faded, the "flying colors" had fade
 
 <!--The Hell was indescribable.-->
 
-Apparently, [it is not uncommon for outpatient doctors to continue a course of benzos after inpatient psychiatrists expect discontinuation](https://thischangedmypractice.com/long-term-benzodiazepine-mortality-schizophrenia/).
+<!--Apparently, [it is not uncommon for outpatient doctors to continue a course of benzos after inpatient psychiatrists expect discontinuation](https://thischangedmypractice.com/long-term-benzodiazepine-mortality-schizophrenia/).-->
 
 <!--Perhaps "flying colors" has something to do with the reason.-->
 
@@ -156,6 +156,8 @@ What goes beyond the articulation of the dangers of benzos, or the inconsistenci
 To explain that or anything to them, the pressure was higher with each subsequent psychiatrist because my "flying colors" were increasingly faded. The preceding trauma took the last 5 years for me to process into a form that I could write, let alone speak, let alone boil down into a spoonful under pressure. Depending on which version of this book you are reading, the description of that crisis might be largely omited.
 
 My "flying colors" were increasingly faded, the clarity, the ease with which I could make my case, <!--impoverished and--> starved. And with them, my ability to defend myself was diminished. If "flying colors" couldn’t carry me through these clinical encounters, I was left to the mercy of whatever was written on the page of my medical records—unless some shred of my credibility could pierce through their established protocols. The longer I stayed on the drugs, the harder it became to make my case and more necessary. Each passing day carved through my capacity to advocate for myself, while the pressure to convince them to stop the drugs, as their effects on and in my body accumulated, mounted.
+
+Apparently, [it is not uncommon for outpatient doctors to continue a course of benzos after inpatient psychiatrists expect discontinuation](https://thischangedmypractice.com/long-term-benzodiazepine-mortality-schizophrenia/).
 
 #### Oral Defense
 
