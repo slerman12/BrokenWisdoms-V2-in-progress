@@ -158,7 +158,7 @@ Not only is that contribution uncredited, since I'm not credited as an author on
 
 That’s a lot of money I helped bring into their institution, an institution that also, independently, happens to be responsible for coerced permanent damage against me, literal torture and blatant abuse, <!--that I did the maximum amount of work possible for,--> and having paid me less than minimum wage.<!-- for all of it.-->
 
-Just to put this into perspective, the debt I had to pay off to them, >$20,000, is a huge-fuck-ton of money for me! 
+Just to put this into perspective, the debt I had to pay off to them, >$20,000, is a huge-fuck-ton of money drawn from minimum wage savings.
 
 ## Chris Kanan
 
