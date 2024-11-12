@@ -145,7 +145,7 @@ Since being terminated, I had to pay more than $20,000 of student debt, since <!
 
 ### Almost-Million-Dollar Grants
 
-I came up with, proposed, taught, wrote, and made diagrams for many of the main ideas of their two grants, totalling almost a $million brought into their institution.
+I came up with, proposed, taught, wrote, and made diagrams for many of the main ideas of two of their grants, totalling almost a $million brought into their institution.
 <!--
 My advisor decided I didn’t have enough papers, just before my [next paper publication](https://docs.google.com/presentation/d/1nZFXtz2hJQlAsiLW-nuxRDPh97-UAj_g7eN326vTL8k/edit?usp=sharing) was accepted for publciation, while it was still under review with positive reviews.
 
