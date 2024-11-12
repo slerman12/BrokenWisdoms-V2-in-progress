@@ -143,6 +143,16 @@ However, that lab is the least of the work I did ([here](5-Early-work-in-program
 
 Since being terminated, I had to pay more than $20,000 to the University of Rochester, since <!--my family was poor when I was an undergrad, and--> the loans were temporarily subsidized for only as long as I was a student or PhD student. Thanks to drawing from my savings, I paid off all of it.
 
+### Almost-million-dollar grants
+
+My advisor decided I didn’t have enough papers, just before my [next paper publication](https://docs.google.com/presentation/d/1nZFXtz2hJQlAsiLW-nuxRDPh97-UAj_g7eN326vTL8k/edit?usp=sharing) was accepted for publciation, while it was still under review with positive reviews.
+
+For that group, [I built a whole GitHub for them, including the data generation and pipeline, and all of the experiments](https://github.com/AGI-init/XRDs/tree/main).
+
+And helped write their almost-million-dollar grant, including coming up with, proposing, and teaching some of the main ideas, uncredited.
+
+That’s a lot of money I helped bring into their institution to have had to *give them* money, an institution that also, independently, happens to be responsible for coerced permanent damage against me, literal torture, and blatant abuse of my work.
+
 ## Chris Kanan
 
 <p align="center">
