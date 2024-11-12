@@ -141,7 +141,7 @@ However, that lab is the least of the work I did ([here](5-Early-work-in-program
 
 ### >$20,000 Debt
 
-Since being terminated, I had to pay more than $20,000 of studnet debt, since <!--my family was poor when I was an undergrad, and--> the loans were temporarily subsidized for only as long as I was a student or PhD student. Thanks to drawing from my savings, I paid off all of it.
+Since being terminated, I had to pay more than $20,000 of student debt, since <!--my family was poor when I was an undergrad, and--> the loans were temporarily subsidized for only as long as I was a student or PhD student. Thanks to drawing from my savings, I paid off all of it.
 
 ### Almost-Million-Dollar Grants
 
