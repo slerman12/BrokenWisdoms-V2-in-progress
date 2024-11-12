@@ -92,7 +92,7 @@ By the time of discharge, the color film was faded, the "flying colors" had fade
 
 <!--The Hell was indescribable.-->
 
-Apparently, [it is not uncommon for outpatient doctors to continue a course of benzos after inpatient psychiatrists expect discontinuation.](https://thischangedmypractice.com/long-term-benzodiazepine-mortality-schizophrenia/)
+Apparently, [it is not uncommon for outpatient doctors to continue a course of benzos after inpatient psychiatrists expect discontinuation](https://thischangedmypractice.com/long-term-benzodiazepine-mortality-schizophrenia/).
 
 <!--Perhaps "flying colors" has something to do with the reason.-->
 
