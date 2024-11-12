@@ -371,4 +371,14 @@ To this day, Henry hasn’t acknowledged that what I was arguing to him about, h
 
 ### Stuck in Traffic
 
+<p align="center">
+<a href="https://www.rochester.edu/college/deans/">
+<picture>
+  <source width="30%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/f8c02d65-819a-43ad-afc9-a4ecb908fe37">
+  <img width="30%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/f8c02d65-819a-43ad-afc9-a4ecb908fe37">
+</picture></a>
+<br>From: University of Rochester, <a href="https://www.rochester.edu/college/deans/">Meet the Deans</a>.
+</a>
+</p>
+
 The bigger red light, is that the Deans Heinzelman and Vamivakas (see <a href="https://www.rochester.edu/college/deans/">"University of Rochester, Meet the Deans"</a>), who had not retired, were filled in on all of what preceded, including the medical malpractices (on me), and all of what follows, at least to the extent that I can verify via email. They ignored my emails, with explanations of everything that preceded and follows, and didn't respond to them, with the preceding and following events happening under their watch or at least in their inbox.
