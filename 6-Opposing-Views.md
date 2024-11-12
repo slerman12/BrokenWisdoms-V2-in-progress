@@ -70,7 +70,7 @@ However, adding this seems to undermine just how severe the injustice we're talk
 
 The bullies at the University of Rochester's hospital and research institutions don't understand that they botched every action they took in their judgments, treatments, policies, decision-making, and (as will be shown, though hopefully it's apparent already) rulings, and did everything humanly possible, sometimes by blunder rather than on purpose, to take away and waste my dignity, money, social life, physical body, and work.
 
-`I was farmed in a factory, physically maimed/mangled/disfigured, and disposed of after 6 years.`
+`I was farmed in a factory, physically maimed/mangled/disfigured, and disposed of.`
 
 ### Factory Food
 
