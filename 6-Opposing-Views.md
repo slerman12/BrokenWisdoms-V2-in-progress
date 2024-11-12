@@ -160,7 +160,7 @@ That’s a lot of money I helped bring into their institution, an institution th
 
 Just to put this into perspective, the debt I had to pay off to them, >$20,000, is a huge-fuck-ton of money drawn from less than minimum wage savings.
 
-During this time, I've continued my physics work, built on my philosophy work, and have been writing this book, rather than doing the world's biggest, historical, medical malpractice and worker's compensation, personal injury lawsuit ever.
+During this time, I've continued my physics work, built on my philosophy work, and have been writing this book, rather than doing the world's biggest, historical, medical malpractice and worker's compensation, personal injury lawsuit ever. I hope they spend my >$20,000 wisely.
 
 ## Chris Kanan
 
