@@ -45,7 +45,10 @@ A week or two later, the second psychiatrist entered. She was an Asian woman, st
 -->
 The second psychiatrist was Asian, taller than him. They were in my ward. She was stern about the tapering schedule being too fast. The first psychiatrist still felt belief based on the first conversation about tapering me off. He mentioned it, to see if that was the energy (meaning, he brought it up kind of hesitantly, self-doubting). She was stern, but reassured I was going to be tapered right after discharge. That was the only time I saw her. It was a 2 minute conversation. 
 
+<!--
 The benzos were prescribed without any effort to learn what had been happening with me, and this lack of investigation was on top of me being given Risperdal, a strong antipsychotic.
+-->
+The benzos, and Risperadol for that matter, were prescribed without any effort to learn what had been happening with me.
 
 <!--
 #### From RL to "Many Worlds," and Other Research
