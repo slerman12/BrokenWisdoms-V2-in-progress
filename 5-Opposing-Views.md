@@ -110,6 +110,18 @@ It's the hardest thing, to describe how I can get all As and do extraordinarily 
 During one meeting, I taught Henry "sequence-to-sequence attention" from my office, in a state of misery that I couldn't convey. In that meeting, I tried to tell him what was going on and he couldn't understand the severity, but gave me an anecdote about his son's medication. Henry was beyond supportive, and I feel bad that he was powerless in helping me beyond how much he did. Actually. This isn't an indictment of him.
 -->
 
+- Daily meditation
+- Strict Paleo diet
+- Cold showers, and Wim Hof method
+- Asceticisms, including:
+  - No movies
+  - No TV shows
+  - etc.
+ 
+Meanwhile:
+
+- Benzos and antipsychotics
+
 #### Brain Damage
 
 I told the third psychiatrist I thought I was brain damaged, and that I was in physical pain, that I had [tinnitus](https://www.reddit.com/r/kundalini/comments/j1finq/tinnitus_in_just_left_ear/), and that I'd read from multiple scientific studies that [brain damage from benzos may be permanent](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10309976/), and he didn't care about the [many scientific studies](https://pubmed.ncbi.nlm.nih.gov/15762814/) I may have hypothetically read, because every word I said was devoid of believability—not colorless from outside, but agitated/irky/murky, like my inner anxiety was attacking him. So he reacted by saying that increasing the dose would be the best course of action. I begged him to taper, and he said if I was having all those negative symptoms, that he should increase the dose. Out of fear that he would, I had to withold the intensity of how I expressed the active experience I was observing.
