@@ -103,7 +103,7 @@ My uncle Slava was the first of my grandparents' descendants to be born, followe
         - Machinery Behind the Curtain
         - Beginnings of Recovery
         - "Medical Leave" Semesters
-        - Termination Likely if Actual Medical Leave When Most Needed
+        - Termination Likely if Actual Medical Leave *At Least* When Most Needed
       - Red Light at Clover St.
         - Buffy
         - Giles
