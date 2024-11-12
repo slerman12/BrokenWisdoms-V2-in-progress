@@ -154,7 +154,7 @@ For that group, [I built a whole GitHub for them, including much of the data gen
 And helped write their almost-million-dollar grant, including coming up with, proposing, and teaching some of the main ideas, uncredited.
 -->
 
-I'm not even credited as an author on the grants, let alone paid anything proportional to my contribution.
+I'm not even credited as an author on the grants, nor have been paid anything proportional to my contribution.
 
 That’s a lot of money I helped bring into their institution, an institution that also, independently, happens to be responsible for coerced permanent damage against me, literal torture and blatant abuse, <!--that I did the maximum amount of work possible for,--> and having paid me less than minimum wage.<!-- for all of it.-->
 
