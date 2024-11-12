@@ -330,7 +330,7 @@ And in Spring, 2020, I worked in the office at the Med Center as my brain was ju
 
 Had I taken a medical leave at the peak of this, and where the work was most intense, throughout the Spring, 2019 semester, I would've lost my salary, and wouldn't have been able to return for a long time, since the benzo brain damage was just getting started, in which case I most likely would've lost my health insurance, been delayed on all this work, including the area exam, for yet another year at least (including the time to write it), and, given [Henry's tenuous status having announced his intention to accept a directorship offer from the NSF](#red-light-at-clover-st), most likely would've been terminated for not having an advisor.
 
-Actually, *termination all but guaranteed if medical leave at any point*. Chenliang would later accept me into his group, after Henry left, on the condition that I submit a top-venue computer vision conference paper by the end of that summer. I would never have been able to do that if I didn't build on my interaction effects work (at the Medical Center), that I later transferred to computer vision to meet his requirement.
+Actually, *termination all but guaranteed if medical leave at any point*. Chenliang would later accept me into his group, after Henry left, on the condition that I submit a top-venue computer vision conference paper by the end of that summer. I would never have been able to do that if I didn't build on my interaction effects work at the Medical Center during this benzo torture period, working, that I later transferred to computer vision to meet his requirement.
 
 ## Red Light at Clover St. 
 
