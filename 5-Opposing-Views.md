@@ -3,6 +3,7 @@
 - **University-hospital psychiatrists**
 - **University outpatient doctor**
 - **University PhD advisor**
+- **University Dean**
 <!--- **Wendi Heinzelman and Nick Vamivakas**-->
 
 ## Flying Colors
@@ -380,9 +381,9 @@ Until Henry's retirement in 2022, which he didn't warn me about and came to me a
 
 To this day, Henry hasn’t acknowledged that what I was arguing to him about, had implemented, and had innovated on in 2018—MHDPA, the method that underpins transformers such as those used in AI models like ChatGPT—was worth crediting me for to any of the other faculty, committee members, or future committee members, including those who exploited my work or ruled me negatively in the years to come. And while that wouldn't be an issue had he been oblivious to what followed, he isn't. The exploitation and rulings to come are all in his knowledge. Though he recently retired, it's not that hard to reply to an email chain and write, "Wow, our student was incredibly right!" or something <!--meaningfully crediting me-->to that effect, to at least give me some credit from the University of Rochester, given the huge foresight and work delivered to him by his own student before even 5 groups in the world had used the method, let alone every iPhone and AI research lab and AI foundation model, as has become the case now.
 
-<!--
-### Stuck in Traffic
 
+### Stuck in Traffic
+<!--
 <p align="center">
 <a href="https://www.rochester.edu/college/deans/">
 <picture>
@@ -395,5 +396,7 @@ To this day, Henry hasn’t acknowledged that what I was arguing to him about, h
 
 The bigger red light, is that Wendi Heinzelman and Nick Vamivakas, were filled in on all of what preceded, including the medical malpractices (on me), and all of what follows, at least to the extent that I can >know. They didn't respond to my emails. I did my best to explain *everything* that preceded and follows, the preceding and following events happening at least in their inbox or asked to be forwarded to them.
 -->
+The bigger red light, is that Dean Wendi Heinzelman should've been filled in on all of what happened. I sent an email about all of the medical ,alpractices that I asked to be shared, and CC'd her on all of my emails after the subsequent events. She didn't respond. She ignored. Those emails are lying in her inbox.
+<!--preceded, including the medical malpractices (on me), and all of what follows, at least to the extent that I can >know. They didn't respond to my emails. I did my best to explain *everything* that preceded and follows, the preceding and following events happening at least in their inbox or asked to be forwarded to them.-->
 <!--who had not retired, -->
 <!--, if not directly under their watch,-->
