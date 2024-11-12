@@ -84,7 +84,7 @@ My uncle Slava was the first of my grandparents' descendants to be born, followe
               - Kids
             - Hudson
             - Jeremiah
-    - Part 6 (University PhD advisor, University Deans) 
+    - Part 6 (University PhD advisor, Wendi Heinzelman and Nick Vamivakas) 
       - Flying colors
       - Benzo Torture
         - Area exam (and All As)
