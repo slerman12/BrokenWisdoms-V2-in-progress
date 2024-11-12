@@ -37,7 +37,7 @@ Enter the second psychiatrist. Asian woman, stern, serious. Her posture screamed
 The second psychiatrist, an Asian woman, looked stern and astute, came in on the momentum of her previous post, and without much thought just changed the schedule. She was standing next to the first psychiatrist, who hesitantly, self-doubtingly told her that he'd planned to taper me off before the discharge since I was worried, but she was dismissive, about the original plan and our preferances in that regard. She said the tapering schedule was too fast and the outpatient doctor, the psychiatrist after the hospitalization, would wean me off, but this time, she gave the reassurance to me, that I'd be tapered right after discharge.
 -->
 
-The first psychiatrist was young, calm, cool, soft, gentle eyed. As we walked down the hall, he seemed to think I was sharp—not because of my intellect, but because the benzos wrapped an effortless clarity around everything I said. Let’s call this clarity "flying colors"—a term I borrow from Henry.
+The first psychiatrist was young, calm, cool, soft, gentle eyed. As we walked down the hall, he seemed to think I was sharp—not because of my everyday personality, but because the benzos wrapped an effortless clarity around everything I said. Let’s call this clarity "flying colors"—a term I borrow from Henry.
 
 I convinced him—or perhaps he would’ve agreed with my worry anyway—and he reassured me that I’d be weaned off the benzos before discharge.
 
