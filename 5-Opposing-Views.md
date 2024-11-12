@@ -128,7 +128,7 @@ Meanwhile:
 
 #### Brain Damage
 
-I told the third psychiatrist I thought I was brain damaged, and that I was in physical pain, that I had [tinnitus](https://www.reddit.com/r/kundalini/comments/j1finq/tinnitus_in_just_left_ear/), and that I'd read from multiple scientific studies that [brain damage from benzos may be permanent](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10309976/), and he didn't care about the [many scientific studies](https://pubmed.ncbi.nlm.nih.gov/15762814/) I may have hypothetically read, because every word I said was devoid of believability—not colorless from outside, but agitated/irky/murky, like my inner anxiety was attacking him. So he reacted by saying that increasing the dose would be the best course of action. I begged him to taper, and he said if I was having all those negative symptoms, that he should increase the dose. Out of fear that he would, I had to withold the intensity of how I expressed the active experience I was observing.
+I told the third psychiatrist I thought I was brain damaged, and that I was in physical pain, and that I'd read from multiple scientific studies that [brain damage from benzos may be permanent](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10309976/), and he didn't care about the [many scientific studies](https://pubmed.ncbi.nlm.nih.gov/15762814/) I may have hypothetically read, because every word I said was devoid of believability—not colorless from outside, but agitated/irky/murky, like my inner anxiety was attacking him. So he reacted by saying that increasing the dose would be the best course of action. I begged him to taper, and he said if I was having all those negative symptoms, that he should increase the dose. Out of fear that he would, I had to withold the intensity of how I expressed the active experience I was observing.
 
 <p align="center">
 <picture>
@@ -144,7 +144,7 @@ I saw him for about 4 or 5 months and don't remember his name, my cognition was 
 
 [Nobody understands neurodegeneration](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-024-03437-5), but what I suffered was physical brain damage.
 
-Besides [tinnitus](https://www.reddit.com/r/kundalini/comments/j1finq/tinnitus_in_just_left_ear/): [a constant rightward spinning sensation](https://www.reddit.com/r/kundalini/comments/h8n3ve/lopsided_and_slanted_kundalini_sensations/), [wrinkles](https://www.reddit.com/r/spirituality/comments/1dyn2es/comment/lce3ie3/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), and mouth dryness added to the mounting evidence of damages happening not just to my psyche, but to my body's physical and neurological structure.
+[Tinnitus](https://www.reddit.com/r/kundalini/comments/j1finq/tinnitus_in_just_left_ear/), [a constant rightward spinning sensation](https://www.reddit.com/r/kundalini/comments/h8n3ve/lopsided_and_slanted_kundalini_sensations/), [wrinkles](https://www.reddit.com/r/spirituality/comments/1dyn2es/comment/lce3ie3/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), and mouth dryness added to the mounting evidence of damages happening not just to my psyche, but to my body's physical and neurological structure.
 
 Henry had said, empathetically, "You look terrible."
 
