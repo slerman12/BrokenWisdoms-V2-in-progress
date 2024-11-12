@@ -3,7 +3,7 @@
 - **University-hospital psychiatrists**
 - **University outpatient doctor**
 - **University PhD advisor**
-- **University Dean**
+- **University Deans**
 <!--- **Wendi Heinzelman and Nick Vamivakas**-->
 
 ## Flying Colors
@@ -408,9 +408,9 @@ To this day, Henry hasn’t acknowledged that what I was arguing to him about, h
 </a>
 </p>
 
-The bigger red light, is that Wendi Heinzelman and Nick Vamivakas, were filled in on all of what preceded, including the medical malpractices (on me), and all of what follows, at least to the extent that I can >know. They didn't respond to my emails. I did my best to explain *everything* that preceded and follows, the preceding and following events happening at least in their inbox or asked to be forwarded to them.
+The bigger red light, is that Wendi Heinzelman and Nick Vamivakas, were filled in on all of what preceded, including the medical malpractices (on me), and all of what follows, at least to the extent that I can >know. They didn't respond to my emails. I did my best to explain *everything* that preceded and follows, the preceding and following events happening at least in their inbox or asked to be forwarded to them. Nick Vamivakas 
 -->
-The bigger red light, is that Dean Wendi Heinzelman should've been filled in on all of what happened. I sent an email about all of the medical malpractices that I asked to be shared, and CC'd her on almost all of my emails after the subsequent events. She didn't respond. She ignored. Those emails are lying in her inbox.
+The bigger red light, is that Dean Wendi Heinzelman should've been filled in on all of what happened. I sent an email about all of the medical malpractices that I asked to be shared, and CC'd her on almost all of my emails after the subsequent events. She didn't respond. She ignored. Those emails are lying in her inbox. Dean Nick Vamivakas received even more emails than her, and did not address me either.
 <!--preceded, including the medical malpractices (on me), and all of what follows, at least to the extent that I can >know. They didn't respond to my emails. I did my best to explain *everything* that preceded and follows, the preceding and following events happening at least in their inbox or asked to be forwarded to them.-->
 <!--who had not retired, -->
 <!--, if not directly under their watch,-->
