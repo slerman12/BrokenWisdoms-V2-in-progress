@@ -1,7 +1,5 @@
 # Part 6
 
-- **University-hospital psychiatrists**
-- **University outpatient doctor**
 - **University PhD advisor**
 - **University Deans**
 
