@@ -332,7 +332,7 @@ Had I taken a medical leave at the peak of this, and where the work was most int
 
 Actually, *termination all but guaranteed if medical leave at any point*. Chenliang would later accept me into his group, after Henry left, on the condition that I submit a top-venue computer vision conference paper by the end of that summer. I would never have been able to do that if I didn't build on my interaction effects work at the Medical Center during this benzo torture period, working, that I later transferred to computer vision to meet his requirement.
 
-I would've lost the opportunity permanently for a PhD if I took a medical leave. Talk about medical coercion—I couldn't even as them to stop.
+I would've lost the opportunity permanently for a PhD if I took a medical leave. 
 
 ## Red Light at Clover St. 
 
