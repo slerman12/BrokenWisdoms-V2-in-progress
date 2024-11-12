@@ -154,11 +154,11 @@ For that group, [I built a whole GitHub for them, including much of the data gen
 And helped write their almost-million-dollar grant, including coming up with, proposing, and teaching some of the main ideas, uncredited.
 -->
 
-Not only is that contribution uncredited, since I'm not credited as an author on the grants, but the money did not go to me in any way.
+I'm not even credited as an author on the grants, let alone paid anything proportional to my contribution.
 
 That’s a lot of money I helped bring into their institution, an institution that also, independently, happens to be responsible for coerced permanent damage against me, literal torture and blatant abuse, <!--that I did the maximum amount of work possible for,--> and having paid me less than minimum wage.<!-- for all of it.-->
 
-Just to put this into perspective, the debt I had to pay off to them, >$20,000, is a huge-fuck-ton of money drawn from minimum wage savings.
+Just to put this into perspective, the debt I had to pay off to them, >$20,000, is a huge-fuck-ton of money drawn from less than minimum wage savings.
 
 ## Chris Kanan
 
