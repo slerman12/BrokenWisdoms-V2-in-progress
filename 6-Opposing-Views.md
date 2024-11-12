@@ -139,6 +139,10 @@ Makes me want to go #NotEnoughPapers, for the many thousands of dollars reverse-
 
 However, that lab is the least of the work I did ([here](5-Early-work-in-program.md)/[here](6-Indebted.md)/[here](https://github.com/AGI-init/UnifiedML-legacy)/[here](https://github.com/AGI-init/XRDs)/[here](https://github.com/slerman12/Builder)/[here](https://github.com/AGI-init/Tributaries)/[here](https://docs.google.com/presentation/d/1ZQFeiOKSU2teVGg5EHlgREAi8pJY_Mr1CJ3H2pfFBfI/edit?usp=sharing)), at sometimes slave wage by force, with PhD requirements that were usually uniquely put on me, from the same institution that mutilated the hair and youth from my body and face, and neurochemically gassed my brain, then terminated me and scapegoated me for their 6 years of atrocities, negligences, and greed.
 
+### >$20,000 Debt
+
+Since being terminated, I had to pay more than $20,000 to the University of Rochester, since my family was poor when I was an undergrad, and the loans were temporarily subsidized for only as long as I was a student or PhD student.
+
 ## Chris Kanan
 
 <p align="center">
