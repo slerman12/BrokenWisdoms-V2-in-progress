@@ -151,7 +151,7 @@ For that group, [I built a whole GitHub for them, including much of the data gen
 
 And helped write their almost-million-dollar grant, including coming up with, proposing, and teaching some of the main ideas, uncredited.
 
-That’s a lot of money I helped bring into their institution, an institution that also, independently, happens to be responsible for coerced permanent damage against me, literal torture, and blatant abuse of my work.
+That’s a lot of money I helped bring into their institution, an institution that also, independently, happens to be responsible for coerced permanent damage against me, literal torture and blatant abuse, <!--that I did the maximum amount of work possible for,--> and having paid me less than minimum wage.<!-- for all of it.-->
 
 ## Chris Kanan
 
