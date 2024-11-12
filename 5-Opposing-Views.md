@@ -19,7 +19,7 @@ I convinced him, or he understood my worry, and he said I would be weaned off th
 The second psychiatrist, a stern, astute Asian woman, came in on the momentum of her previous post and quickly changed the plan. Standing next to the first psychiatrist, who hesitantly mentioned he’d planned to taper me off before discharge since I was worried, dismissed it. She said the tapering schedule was too fast, and the outpatient doctor would handle the rest of the tapering right after discharge.
 -->
 
--->
+
 <!--
 Enter the second psychiatrist. Stern. Serious. She had the air of someone who’d climbed her way up the ranks, whose posture screamed "no-nonsense." Without malice—she wasn’t dismissive—but there was something about the way she looked at my chart, at me, that said she had zero interest in playing nice. She was about facts. She didn’t have time to entertain your theories or your "concerns." If she doubted the first psychiatrist’s plan, it wasn’t personal; it was just... pragmatic. She looked at me like I was a problem that needed solving. The first psychiatrist—hesitant—tried to explain we'd planned to taper me off before the discharge since I was worried. But she had no time for this, and made a firm decision. The tapering schedule? Too fast. She assured me, with the same level of emotional detachment as a traffic light, that I would definitely be weaned off after discharge.
 -->
