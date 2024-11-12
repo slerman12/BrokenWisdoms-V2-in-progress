@@ -119,7 +119,7 @@ During one meeting, I taught Henry "sequence-to-sequence attention" from my offi
   - etc.
 - Working step by step every day
  
-Meanwhile, working in opposition to all of those things:
+Meanwhile, having the opposite effect to all of those things:
 
 - Benzos and antipsychotics
 
