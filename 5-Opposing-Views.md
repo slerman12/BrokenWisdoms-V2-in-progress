@@ -371,6 +371,6 @@ Until Henry's retirement in 2022, which he didn't warn me about and came to me a
 
 To this day, Henry hasn’t acknowledged that what I was arguing to him about, had implemented, and had innovated on in 2018—MHDPA, the method that underpins transformers such as those used in AI models like ChatGPT—was worth crediting me for to any of the other faculty, committee members, or future committee members, including those who exploited my work or ruled me negatively in the years to come. And while that wouldn't be an issue had he been oblivious to what followed, he isn't. The exploitation and rulings to come are all in his knowledge. Though he recently retired, it's not that hard to reply to an email chain and write, "Wow, our student was incredibly right!" or something <!--meaningfully crediting me-->to that effect, to at least give me some credit from the University of Rochester, given the huge foresight and work delivered to him by his own student before even 5 groups in the world had used the method, let alone every iPhone and AI research lab and AI foundation model, as has become the case now.
 
-### The Bigger Crime
+### Stuck in Traffic
 
 The bigger crime, is that the Deans Heinzelman and Vamivakas (see "University of Rochester, <a href="https://www.rochester.edu/college/deans/">Meet the Deans</a>"), who had not retired, were filled in on all of what preceded and follows, at least to the extent that I can verify via email, ignored, and did not respond to my emails.
