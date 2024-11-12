@@ -388,6 +388,8 @@ That's the whole story, and where in there is even the slightest administrative 
 
 #
 
+After 6 years at the University, 10 if undergrad is counted:
+
 > ### $\Huge &#8220;$
 > [...] I have conferred with members of your committee. They confirm that the plan you outline is neither consistent with what you originally proposed for the PhD nor a viable path to completion of the degree. With regret, we will be terminating [...]
 > ### $\Huge &#8221;$
