@@ -373,4 +373,4 @@ To this day, Henry hasn’t acknowledged that what I was arguing to him about, h
 
 ### The Bigger Crime
 
-The bigger crime, is that the university Deans Heinzelman and Vamivakas, who had not retired, were filled in on all of what preceded and follows, at least to the extent that I can verify via email.
+The bigger crime, is that the university Deans Heinzelman and Vamivakas (see <a href="https://www.rochester.edu/college/deans/">"University of Rochester, Meet the Deans</a>"), who had not retired, were filled in on all of what preceded and follows, at least to the extent that I can verify via email.
