@@ -143,7 +143,7 @@ However, that lab is the least of the work I did ([here](5-Early-work-in-program
 
 Since being terminated, I had to pay more than $20,000 to the University of Rochester, since <!--my family was poor when I was an undergrad, and--> the loans were temporarily subsidized for only as long as I was a student or PhD student. Thanks to drawing from my savings, I paid off all of it.
 
-### Grants
+### Almost-Million-Dollar Grants
 
 My advisor decided I didn’t have enough papers, just before my [next paper publication](https://docs.google.com/presentation/d/1nZFXtz2hJQlAsiLW-nuxRDPh97-UAj_g7eN326vTL8k/edit?usp=sharing) was accepted for publciation, while it was still under review with positive reviews.
 
