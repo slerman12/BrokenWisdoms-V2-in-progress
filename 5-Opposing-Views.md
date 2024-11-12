@@ -53,8 +53,6 @@ The benzos were prescribed without any effort to learn what had been happening w
 -->
 The benzos, and Risperadol for that matter, were prescribed without any effort to learn what had been happening with me.
 
-The first psychiatrist said I'd be weaned off before discharge. That was the schedule. I was able to articulate colorfully to him with an intimate/earnest social charm that I wanted to be weaned off from the drugs before discharge thanks to "flying colors' Afforded to me by the early effects of the benzos. I didn't have such a voice with the second psychiatrist, even with the first one in the room, and she changed the plan to tapering immediately after discharge via the outpatient psychiatrist, as was still the plan at discharge.
-
 <!--
 #### From RL to "Many Worlds," and Other Research
 
@@ -85,6 +83,8 @@ The area exam is the biggest defense besides the thesis, a big many-page paper, 
 I spent each day writing, step by step.
 
 #### Outpatient Doctor
+
+The first psychiatrist said I'd be weaned off before discharge. That was the schedule. I was able to articulate colorfully to him with an intimate/earnest social charm that I wanted to be weaned off from the drugs before discharge thanks to the early drunkenness-like effects of the benzos, a luminescence I'm referring to as "flying colors." The social lubricant of benzos gave me a visibly colorful brilliance that I think he reacted to as authoritative, about my knowledge of benzos and intelligence. I didn't have such a voice with the second psychiatrist, even with the first one in the room, and she changed the plan to tapering immediately after discharge via the outpatient psychiatrist, as was still the plan at discharge.
 
 After I was discharged, the color film had faded, the "flying colors" had faded. It was Oz in reverse. The psychiatric unit was the "Wonderful Land of Oz," with me colorfully drunk on the magic benzos they were giving me at threatened risk of court order, and by the third "healer's" pen click, the tornado had begun. The third psychiatrist, the outpatient doctor, also University of Rochester, was categorically, unarguably bad. If there could be a DSM-5 yellow-brick-manual definition for bad, it would just be a picture of him. In the second month with him, 3 months into the benzos, my cognition was not just grey but Requiem For A Dream-grey, anxiety constant. [My memory, speech, and imagination were gone](https://github.com/user-attachments/assets/aef90661-f01c-40bc-b8b9-b0a101b80d92). From his disbelieving clinical authority, all of my symptoms were, wrongly, attributed to the earlier diagnoses. 
 
