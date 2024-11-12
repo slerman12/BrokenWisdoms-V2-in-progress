@@ -90,6 +90,12 @@ By the time of discharge, the color film was faded, the "flying colors" had fade
 
 <!--The Hell was indescribable, literally. Attempted to write it 500 times. I'll put it in the "Benzo Torture" document. It was like Schindler's List-grey, not even a little girl carrying an umbrella.-->
 
+The Hell was indescribable.
+
+Apparently, [it is not uncommon for outpatient doctors to continue a course of benzos after inpatient psychiatrists expect discontinuation.](https://thischangedmypractice.com/long-term-benzodiazepine-mortality-schizophrenia/)
+
+Perhaps "flying colors" has something to do with the reason.
+
 #### Classes and Discipline
 
 I got extensions for one class, help from another PhD student on one or two problems for the homework and with understanding material from another class, and visited one of the professors at his office hours for help as I was running late due to the hospitalization. I scored straight As. This<!--, area exam work, and research--> took spirit and luck, as well as my continued disciplines, including <!--**-->daily meditation, strict Paleo diet, cold showers, and Wim Hof method; and asceticisms, including no movies, TV shows, etc.<!--**-->, human spirit that should not be underestimated, yes, amid brain damage and torture<!--, and—most certainly not Paleo—having to consume nearly half a gram of benzos in total over the course of these few months, deleteriously racing away the benefits of each of these disciplines-->.
