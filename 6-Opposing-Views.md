@@ -166,6 +166,10 @@ Just to put this into perspective, the debt I had to pay off to them, >$20,000, 
 During this time, I've continued my physics theory of everything, built on my philosophy work, and have been writing this book, rather than doing the world's biggest most unprecedented personal injury lawsuit in medical malpractice or worker's compensation history. 
 -->
 
+<!--
+This is their million dollars. This is my $26,000. And I gave them both.
+-->
+
 ## Chris Kanan
 
 <p align="center">
