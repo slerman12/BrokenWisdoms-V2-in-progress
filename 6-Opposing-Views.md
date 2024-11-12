@@ -139,13 +139,15 @@ Makes me want to go #NotEnoughPapers, for the many thousands of dollars reverse-
 
 However, that lab is the least of the work I did ([here](5-Early-work-in-program.md)/[here](6-Indebted.md)/[here](https://github.com/AGI-init/UnifiedML-legacy)/[here](https://github.com/AGI-init/XRDs)/[here](https://github.com/slerman12/Builder)/[here](https://github.com/AGI-init/Tributaries)/[here](https://docs.google.com/presentation/d/1ZQFeiOKSU2teVGg5EHlgREAi8pJY_Mr1CJ3H2pfFBfI/edit?usp=sharing)), at sometimes slave wage by force, with PhD requirements that were usually uniquely put on me, from the same institution that mutilated the hair and youth from my body and face, and neurochemically gassed my brain, then terminated me and scapegoated me for their 6 years of atrocities, negligences, and greed.
 
+<!--
 ### >$20,000 Debt
 
-Since being terminated, I had to pay more than $20,000 of student debt, since <!--my family was poor when I was an undergrad, and--> the loans were temporarily subsidized for only as long as I was a student or PhD student. Thanks to drawing from my savings, I paid off all of it.
+Since being terminated, I had to pay more than $20,000 of student debt, since the loans were temporarily subsidized for only as long as I was a student or PhD student. Thanks to drawing from my savings, I paid off all of it.
 
 ### Almost-Million-Dollar Grants
 
 I came up with, proposed, taught, wrote, and made diagrams for many of the main ideas of two of their grants, totalling almost a $million brought into their institution.
+-->
 <!--
 My advisor decided I didn’t have enough papers, just before my [next paper publication](https://docs.google.com/presentation/d/1nZFXtz2hJQlAsiLW-nuxRDPh97-UAj_g7eN326vTL8k/edit?usp=sharing) was accepted for publciation, while it was still under review with positive reviews.
 
@@ -154,13 +156,15 @@ For that group, [I built a whole GitHub for them, including much of the data gen
 And helped write their almost-million-dollar grant, including coming up with, proposing, and teaching some of the main ideas, uncredited.
 -->
 
+<!--
 I'm not even credited as an author on the grants, nor have been paid anything for my contribution.
 
-That’s a lot of money I helped bring into their institution, an institution that also, independently, happens to be responsible for coerced permanent damage against me, literal torture and blatant abuse, <!--that I did the maximum amount of work possible for,--> and having paid me less than minimum wage.<!-- for all of it.-->
+That’s a lot of money I helped bring into their institution, an institution that also, independently, happens to be responsible for coerced permanent damage against me, literal torture and blatant abuse, and having paid me less than minimum wage.
 
 Just to put this into perspective, the debt I had to pay off to them, >$20,000, is a huge-fuck-ton of money drawn from less than minimum wage savings.
 
-During this time, I've continued my physics theory of everything, built on my philosophy work, and have been writing this book, rather than doing the world's biggest<!--,--> most unprecedented<!--, medical malpractice and worker's compensation,--> personal injury lawsuit in medical malpractice or worker's compensation history. 
+During this time, I've continued my physics theory of everything, built on my philosophy work, and have been writing this book, rather than doing the world's biggest most unprecedented personal injury lawsuit in medical malpractice or worker's compensation history. 
+-->
 
 ## Chris Kanan
 
