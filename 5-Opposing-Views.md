@@ -110,13 +110,14 @@ It's the hardest thing, to describe how I can get all As and do extraordinarily 
 During one meeting, I taught Henry "sequence-to-sequence attention" from my office, in a state of misery that I couldn't convey. In that meeting, I tried to tell him what was going on and he couldn't understand the severity, but gave me an anecdote about his son's medication. Henry was beyond supportive, and I feel bad that he was powerless in helping me beyond how much he did. Actually. This isn't an indictment of him.
 -->
 
-- Daily meditation
+- Twice-daily meditation
 - Strict Paleo diet
 - Cold showers, and Wim Hof method
 - Asceticisms, including:
   - No movies
   - No TV shows
   - etc.
+- Working step by step every day
  
 Meanwhile:
 
