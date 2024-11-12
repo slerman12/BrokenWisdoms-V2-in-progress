@@ -53,7 +53,7 @@ The benzos were prescribed without any effort to learn what had been happening w
 -->
 The benzos, and Risperadol for that matter, were prescribed without any effort to learn what had been happening with me.
 
-The first psychiatrist said I'd be weaned off before the discharge, and that was the schedule. I was able to articulate colorfully to him with an intimate/earnest social charm that I wanted to be weaned off from the drugs before discharge thanks to "flying colors' Afforded to me by the early effects of the benzos. I didn't have such a voice with the second psychiatrist, even with the first one in the room, and she changed the plan to tapering immediately after discharge via the outpatient psychiatrist, as was still the plan at discharge.
+The first psychiatrist said I'd be weaned off before discharge. That was the schedule. I was able to articulate colorfully to him with an intimate/earnest social charm that I wanted to be weaned off from the drugs before discharge thanks to "flying colors' Afforded to me by the early effects of the benzos. I didn't have such a voice with the second psychiatrist, even with the first one in the room, and she changed the plan to tapering immediately after discharge via the outpatient psychiatrist, as was still the plan at discharge.
 
 <!--
 #### From RL to "Many Worlds," and Other Research
