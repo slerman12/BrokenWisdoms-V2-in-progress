@@ -147,7 +147,7 @@ Since being terminated, I had to pay more than $20,000 to the University of Roch
 
 My advisor decided I didn’t have enough papers, just before my [next paper publication](https://docs.google.com/presentation/d/1nZFXtz2hJQlAsiLW-nuxRDPh97-UAj_g7eN326vTL8k/edit?usp=sharing) was accepted for publciation, while it was still under review with positive reviews.
 
-For that group, [I built a whole GitHub for them, including the data generation and pipeline, and all of the experiments](https://github.com/AGI-init/XRDs/tree/main).
+For that group, [I built a whole GitHub for them, including much of the data generation and pipeline, objectively independent from anything that they could've known I was doing for my PhD, and ran all of the experiments that made it into the paper and more](https://github.com/AGI-init/XRDs/tree/main).
 
 And helped write their almost-million-dollar grant, including coming up with, proposing, and teaching some of the main ideas, uncredited.
 
