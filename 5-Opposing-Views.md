@@ -18,7 +18,7 @@ I convinced him, or he understood my worry, and he said I would be weaned off th
 <!--
 The second psychiatrist, a stern, astute Asian woman, came in on the momentum of her previous post and quickly changed the plan. Standing next to the first psychiatrist, who hesitantly mentioned he’d planned to taper me off before discharge since I was worried, dismissed it. She said the tapering schedule was too fast, and the outpatient doctor would handle the rest of the tapering right after discharge.
 -->
-The second psychiatrist was Asian, taller than him. They were in my ward. She was stern about the tapering schedule being too fast. The first psychiatrist still felt belief based on the first conversation about tapering me off. He mentioned it, to see if that was the energy. She was stern, but reassured I was going to be tapered right after discharge. That was the only time I saw her. It was a 2 minute conversation. 
+
 -->
 <!--
 Enter the second psychiatrist. Stern. Serious. She had the air of someone who’d climbed her way up the ranks, whose posture screamed "no-nonsense." Without malice—she wasn’t dismissive—but there was something about the way she looked at my chart, at me, that said she had zero interest in playing nice. She was about facts. She didn’t have time to entertain your theories or your "concerns." If she doubted the first psychiatrist’s plan, it wasn’t personal; it was just... pragmatic. She looked at me like I was a problem that needed solving. The first psychiatrist—hesitant—tried to explain we'd planned to taper me off before the discharge since I was worried. But she had no time for this, and made a firm decision. The tapering schedule? Too fast. She assured me, with the same level of emotional detachment as a traffic light, that I would definitely be weaned off after discharge.
@@ -40,7 +40,10 @@ The first psychiatrist was young, calm, cool, soft, gentle eyed. As we walked do
 
 I convinced him—or perhaps he would’ve agreed with my worry anyway—and he reassured me that I’d be weaned off the drugs before discharge.
 
+<!--
 A week or two later, the second psychiatrist entered. She was an Asian woman, stern and astute, detached and efficient. After glancing at my chart, she said the tapering schedule was too fast, and that the outpatient psychiatrist would handle it after discharge. The first psychiatrist, self-doubting, noticed my worry and emphasized that he had intended to taper me off before discharge. She dismissed his effort. She disagreed and reassured me that I’d be tapered right after discharge.
+-->
+The second psychiatrist was Asian, taller than him. They were in my ward. She was stern about the tapering schedule being too fast. The first psychiatrist still felt belief based on the first conversation about tapering me off. He mentioned it, to see if that was the energy (meaning, he brought it up kind of hesitantly, self-doubting). She was stern, but reassured I was going to be tapered right after discharge. That was the only time I saw her. It was a 2 minute conversation. 
 
 The benzos were prescribed without any effort to learn what had been happening with me, and this lack of investigation was on top of me being given Risperdal, a strong antipsychotic.
 
