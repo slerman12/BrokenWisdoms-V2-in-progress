@@ -128,7 +128,7 @@ Meanwhile:
 
 #### Brain Damage
 
-I told the third psychiatrist I thought I was brain damaged, and that I was in physical pain, and that I'd read from multiple scientific studies that [brain damage from benzos may be permanent](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10309976/), and he didn't care about the [many scientific studies](https://pubmed.ncbi.nlm.nih.gov/15762814/) I may have hypothetically read, because every word I said was devoid of believability—not colorless from outside, but agitated/irky/murky, like my inner anxiety was attacking him. So he reacted by saying that increasing the dose would be the best course of action. I begged him to taper, and he said if I was having all those negative symptoms, that he should increase the dose. Out of fear that he would, I had to withold the intensity of how I expressed the active experience I was observing.
+I told the third psychiatrist I thought I was brain damaged, and that I was in physical pain, and that I'd read from multiple scientific studies that [brain damage from benzos may be permanent](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10309976/), and he didn't care about the [many scientific studies](https://pubmed.ncbi.nlm.nih.gov/15762814/) I may have hypothetically read, because every word I said was devoid of believability—not colorless from outside, but agitated/irky/murky, like my inner anxiety was attacking him. So he reacted by saying that increasing the dose would be the best course of action. I begged him to taper, and he said if I was having all those negative symptoms, that he should increase the dose. Out of fear that he would, I had to withold the intensity of how I expressed the active experience I was observing and suffering.
 
 <p align="center">
 <picture>
