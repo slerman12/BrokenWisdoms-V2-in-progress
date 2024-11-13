@@ -140,7 +140,7 @@ I told the third psychiatrist I thought I was brain damaged, and that I was in p
 
 Starting some months [(maybe 4th month) into taking the benzos](https://www.reddit.com/r/benzorecovery/comments/cdmid6/is_extreme_brain_fog_normal_before_even_beginning/), I was laying on the couch, immobilized, shaking with excruciating agony. No sleep, no escape. No exit, just PhD work, literally fighting through peak of human spirit, in torture. All color gone, all imagery, all imagination, only pain, perpetual pain and fear. Terror. Terror terror terror. I remember one day trying to do $4*7$, and not being able to. 
 
-I saw him for about 4 or 5 months and don't remember his name, my cognition was so greyed.
+I saw him for about 4 or 5 months and don't remember his name<!--, my cognition was so greyed-->.
 
 [Nobody understands neurodegeneration](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-024-03437-5), but what I suffered was physical brain damage.
 
