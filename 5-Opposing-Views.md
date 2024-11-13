@@ -193,7 +193,7 @@ I was more than capable of tackling any challenging question about any of the sp
 
 #### with Flying Colors
 
-I passed my area exam, for which I had to write that 30ish page paper amid those courses, TA'ing, and my research, within a few weeks of the close of the Spring, 2019 semester, "with flying colors" according to Henry.
+I passed my area exam, for which I had to write that 30ish page paper amid those courses, TA'ing, and my research, that I defended about a few weeks after the close of the Spring, 2019 semester, "with flying colors" according to Henry.
 
 The other faculty were probably mostly impressed by my "flying colors," as my personality was made vibrant by the benzos I had to take at a higher dose that morning to function, but that’s not how Henry meant it.
 
