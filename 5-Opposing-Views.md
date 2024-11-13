@@ -175,21 +175,7 @@ What goes beyond the articulation of the dangers of benzos, or the inconsistenci
 
 To explain that or anything to them, the pressure was higher with each subsequent psychiatrist because those intrinsic "flying colors" became increasingly <!--faded-->swirling grey agitated pain. The preceding trauma took the last 5 years for me to process into a form that I could write, let alone speak, let alone boil down into a spoonful under pressure. Depending on which version of this book you are reading, <!--the description of that crisis might be largely omited.-->that crisis might not be described at all, here. This version that I'm writing now only includes a very brief description of the fear of mom dying, snow trek, sitting in the woods, and brief reference to having jumped in a brook, the total of which is already more than the psychiatrists knew or inquired about.
 
-<!--
-My "flying colors" were increasingly faded, the clarity, the ease with which I could make my case, --><!--impoverished and--><!-- starved. And with them, my ability to defend myself was diminished. If "flying colors" couldn’t carry me through these clinical encounters, I was left to the mercy of whatever was written on the page of my medical records—unless some shred of my credibility could pierce through their established protocols. The longer I stayed on the drugs, the harder it became to make my case and more necessary. Each passing day carved through my capacity to advocate for myself, while the pressure to convince them to stop the drugs, as their effects on and in my body accumulated, mounted.
--->
-
-#### Oral Defense
-
-At the area exam, I presented word by word as I rehearsed. 
-
-Henry, compared to other professors of similar rank ([one of the highest in the world in AI](https://en.wikipedia.org/wiki/Henry_Kautz)) and background (symbolic reasoning, or, more fittingly to this book, perhaps, ["worst-case"](https://henrykautz.com) problems), deserves credit for not thinking deep learning was a fad, and had some intuition about ideas like the biologically-inspired neuron in the diagram [above](#benzodiazepine-benzos-mechanism-of-action), though not always of involved ideas, like the use of attention mechanisms (e.g., MHDPA). 
-
-The person who will be my next advisor (see ["Red light at Clover St."](#red-light-at-clover-st)), was my machine vision professor from my first year, Chenliang Xu, technically not in the room during the area exam, and was answering the Skype call from China. He was the only person in the meeting who asked for elaboration on how I planned to do "relational representations" for vision with image features from a CNN, since he didn't know what MHDPA was (neither did my NLP professor in the semester before my hospitalization) and I went back to slide 11 and re-described MHDPA to all of them again, and the fact that Chenliang was the only one of them who showed interest in the method that most revolutionized the next years of their fields, is a synchronicity, because, due to causes that were independent from the area exam, he will become my later advisor (see ["Red light at Clover St."](#red-light-at-clover-st)). 
-
-I was more than capable of tackling any challenging question about any of the specifics of my work, or even something more philosophical and profound, thanks especially to this moment of remission from the months of excruciating agony, as benzos draped the air with bursting rainbows of GABA once more.
-
-<!--He was satisfied with my answer because I answered it well, but in all likelihood he didn't remember.-->
+<!--My "flying colors" were increasingly faded, the clarity, the ease with which I could make my case, --><!--impoverished and--><!-- starved. And with them, my ability to defend myself was diminished. If "flying colors" couldn’t carry me through these clinical encounters, I was left to the mercy of whatever was written on the page of my medical records—unless some shred of my credibility could pierce through their established protocols. The longer I stayed on the drugs, the harder it became to make my case and more necessary. Each passing day carved through my capacity to advocate for myself, while the pressure to convince them to stop the drugs, as their effects on and in my body accumulated, mounted.-->
 
 #### with Flying Colors
 
@@ -232,6 +218,18 @@ And *by chance* (since the other 7 faculty didn't), Chenliang CC'd me on his con
 My uncle was worried I wouldn't pass, and we all celebrated joyfully that I did. The area exam is the University of Rochester CS department PhD program's biggest defense other than the thesis. Students are awarded a master's degree for a successful area exam defense, which includes the 30ish-page paper I wrote and oral defense<!--, which in my case included many faculty,-->. What it took was my earlier stock of genius, and through an extremely dedicated human spirit fighting literal brain damage on will alone, I wrote a genius paper that probably none of them read, and took a big dose of benzos to present it, passing with "flying colors," officially a master's student at extreme torture, Spring, 2019, celebrating uncharacteristically high afterwards. 
 
 My family besides me also have higher-level degrees. My mom, a master's degree in music theory. My uncles Slava and Sasha, PhDs, in physics and mathematics, respectively. My cousins, PhDs in dermatology and pharmacology. My sister, nurse practitioner (master's degree). And my best friend, also in a PhD program (immunology) but in another city. All were proud of me. None knew all the details of the hospitalizations. Henry of course didn't either. This book is the real-time processing of that memory and the rest of these memories, all traumatic and extremely hard to write (see the number of commits this book has, look through the commits to see how hard I struggled to express any of this, and other versions of this book in other repos and on my other GitHubs, maybe that I will make private, where some of this effort to describe and editing also took place), into writing.
+
+#### Oral Defense
+
+At the area exam, I presented word by word as I rehearsed. 
+
+Henry, compared to other professors of similar rank ([one of the highest in the world in AI](https://en.wikipedia.org/wiki/Henry_Kautz)) and background (symbolic reasoning, or, more fittingly to this book, perhaps, ["worst-case"](https://henrykautz.com) problems), deserves credit for not thinking deep learning was a fad, and had some intuition about ideas like the biologically-inspired neuron in the diagram [above](#benzodiazepine-benzos-mechanism-of-action), though not always of involved ideas, like the use of attention mechanisms (e.g., MHDPA). 
+
+The person who will be my next advisor (see ["Red light at Clover St."](#red-light-at-clover-st)), was my machine vision professor from my first year, Chenliang Xu, technically not in the room during the area exam, and was answering the Skype call from China. He was the only person in the meeting who asked for elaboration on how I planned to do "relational representations" for vision with image features from a CNN, since he didn't know what MHDPA was (neither did my NLP professor in the semester before my hospitalization) and I went back to slide 11 and re-described MHDPA to all of them again, and the fact that Chenliang was the only one of them who showed interest in the method that most revolutionized the next years of their fields, is a synchronicity, because, due to causes that were independent from the area exam, he will become my later advisor (see ["Red light at Clover St."](#red-light-at-clover-st)). 
+
+I was more than capable of tackling any challenging question about any of the specifics of my work, or even something more philosophical and profound, thanks especially to this moment of remission from the months of excruciating agony, as benzos draped the air with bursting rainbows of GABA once more.
+
+<!--He was satisfied with my answer because I answered it well, but in all likelihood he didn't remember.-->
 
 ### Hellmouth and Hellfire
 
