@@ -46,7 +46,7 @@ I convinced him—or perhaps he would’ve agreed with my worry anyway—and he 
 <!--
 A week or two later, the second psychiatrist entered. She was an Asian woman, stern and astute, detached and efficient. After glancing at my chart, she said the tapering schedule was too fast, and that the outpatient psychiatrist would handle it after discharge. The first psychiatrist, self-doubting, noticed my worry and emphasized that he had intended to taper me off before discharge. She dismissed his effort. She disagreed and reassured me that I’d be tapered right after discharge.
 -->
-The second psychiatrist was Asian, taller than him. They were in my ward. She was stern about the tapering schedule being too fast. The first psychiatrist still felt belief based on the first conversation about tapering me off. He mentioned it, to see if that was the energy (meaning, he brought it up kind of hesitantly, self-doubting). She was stern, but reassured I was going to be tapered right after discharge. That was the only time I saw her. It was a 2 minute conversation. 
+The second psychiatrist was Asian, taller than him. They were in my room. She was stern about the tapering schedule being too fast. The first psychiatrist still felt belief based on the first conversation about tapering me off. He mentioned it, to see if that was the energy (meaning, he brought it up kind of hesitantly, self-doubting). She was stern, but reassured I was going to be tapered right after discharge. That was the only time I saw her. It was a 2 minute conversation. 
 
 She appeared a week or two after the first one, who said I'd be taped off before discharge, who I convinced in our conversation walking together in the hall. That was the only time I saw him, besides that next meeting, by the way.
 
