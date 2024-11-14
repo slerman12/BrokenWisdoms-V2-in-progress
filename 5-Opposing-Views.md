@@ -225,7 +225,19 @@ At the area exam, I presented word by word as I rehearsed.
 
 Henry, compared to other professors of similar rank ([one of the highest in the world in AI](https://en.wikipedia.org/wiki/Henry_Kautz)) and background (symbolic reasoning, or, more fittingly to this book, perhaps, ["worst-case"](https://henrykautz.com) problems), deserves credit for not thinking deep learning was a fad, and had some intuition about ideas like the biologically-inspired neuron in the diagram [earlier](#benzodiazepine-benzos-mechanism-of-action), though not always of involved ideas, like the use of attention mechanisms (e.g., MHDPA). 
 
-The person who will be my next advisor (see ["Red light at Clover St."](#red-light-at-clover-st)), was my machine vision professor from my first year, Chenliang Xu, technically not in the room during the area exam, and was answering the Skype call from China. He was the only person in the meeting who asked for elaboration on how I planned to do "relational representations" for vision with image features from a CNN, since he didn't know what MHDPA was (neither did my NLP professor in the semester before my hospitalization) and I went back to slide 11 and re-described MHDPA to all of them again, and the fact that Chenliang was the only one of them who <!--showed interest in--><!--asked about-->had any special interest in the method that most revolutionized the next years of their fields, during either the 20 minute speaking portion or that 30 minute question portion, is a synchronicity, because, due to causes that were independent from the area exam<!--, yet more unforeseen causes of the choices of other people that I had no say in-->, he will become my later advisor (see ["Red light at Clover St."](#red-light-at-clover-st)). 
+Henry recommended the following time allocation for my area exam:
+
+> ### $\Huge &#8220;$
+> - Plan to speak for 20 minutes
+>   - Clarification questions will be asked during the talk
+>   - Try to respond clearly and simply 
+>   - Given 10 minutes of such interruptions, the presentation will take 30 minutes.
+>   - If you think you are in danger of not completing in 30 minutes because of interruptions, let me know right there in the talk and I will ask further questions to be held. We do not want to allow the presentation to run longer.
+> - Then there will be 30 minutes of questions from the faculty.
+> - These can include questions not just about your presentation, but about *any* topic from the AI or machine learning courses that you took
+> ### $\Huge &#8221;$
+
+The person who will be my next advisor (see ["Red light at Clover St."](#red-light-at-clover-st)), was my machine vision professor from my first year, Chenliang Xu, technically not in the room during the area exam, and was answering the Skype call from China. He was the only person in the meeting who asked for elaboration on how I planned to do "relational representations" for vision with image features from a CNN, since he didn't know what MHDPA was (neither did my NLP professor in the semester before my hospitalization) and I went back to slide 11 and re-described MHDPA to all of them again, and the fact that Chenliang was the only one of them who <!--showed interest in--><!--asked about-->had any special interest in the method that most revolutionized the next years of their fields<!--, during either the 20 minute speaking portion or that 30 minute question portion-->during these entire portions, is a synchronicity, because, due to causes that were independent from the area exam<!--, yet more unforeseen causes of the choices of other people that I had no say in-->, he will become my later advisor (see ["Red light at Clover St."](#red-light-at-clover-st)). 
 
 I was more than capable of tackling any challenging question about any of the specifics of my work, or even something more philosophical and profound, thanks especially to this moment of remission from the months of excruciating agony, as benzos draped the air with bursting rainbows of GABA<!-- once more-->.
 
