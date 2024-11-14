@@ -28,6 +28,6 @@ Lane, Lisa, Mohsen: **Legolas**
 
 Emily: **Éowyn**
 
-The modern cultures, leaders, and institutions, including the education/research and healing systems: **Melkor/Sauron**
+Insidious elements of systems, including academic and medical: **Melkor/Sauron**
 
 The University of Rochester: **Saruman**
