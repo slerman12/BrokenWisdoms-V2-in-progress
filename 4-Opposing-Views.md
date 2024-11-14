@@ -293,6 +293,7 @@ I showed my MHDPA innovation paper to Sarah. She was amazed that she could read 
 
 Not that my lucidity needed further evidence, but I explained the methods of late-2022 ChatGPT to inpatient and visitors, in early-February, Winter, 2019, while drugs were altering and innovating on the functioning of my biological neural networks.
 
+<!--
 > [!NOTE]
 >
 > ### Janitor Friend
@@ -301,7 +302,18 @@ Not that my lucidity needed further evidence, but I explained the methods of lat
 >
 > Sarah was also treated with benzos. Benzos are like GHB. Both are GABA agonists. The two aren't exactly the same. GHB activates GHB receptors. But like the "date rape drug," benzos disinhibit a person's personality. Outside of confinement, or without high doses of disinhibiting drugs, it's a fact that Sarah, and the 50-something year old janitor, wouldn't have had sex in the psychiatric unit, since she would not have been in the psychiatric unit, under the premise of her being outside confinement, which was not the case.
 >
-> In addition to disinhibitory drugs, the hospital environment is oppressive. It can be lonely. And the janitor perhaps helped her. The hospital's responsibility isn't <!--to fire the janitor who she got into a relationship with, nor--> to increase the oppressiveness of the care units, but to provide care units that sufficiently socialize and help a patient, without overexposing them to drugs that increase impulsiveness, disinhibition, and so on. 
+> In addition to disinhibitory drugs, the hospital environment is oppressive. It can be lonely. And the janitor perhaps helped her. The hospital's responsibility isn't to increase the oppressiveness of the care units, but to provide care units that sufficiently socialize and help a patient, without overexposing them to drugs that increase impulsiveness, disinhibition, and so on. 
+-->
+
+> [!NOTE]
+>
+> ### Janitor Friend
+>
+> Sarah gave me permission to share this. I'm not sure I'm doing it justice. While in the hospital, separate from this stay when I was hospitalized, Sarah had sex with a 50-something year old janitor, still while she was hospitalized in one of the psychiatric units for psychiatric care. They got into a relationship afterwards, even when she got out. She ended up breaking up with him.
+>
+> Sarah was also treated with benzos. Benzos are like GHB. Both are GABA agonists. The two aren't exactly the same. GHB activates GHB receptors. But like the "date rape drug," benzos disinhibit a person's personality. Outside of confinement, or without high doses of disinhibiting drugs, it's unknown whether Sarah, and the 50-something year old janitor, would've had sex.
+>
+> In addition to disinhibiting drugs, the hospital environment is oppressive. It can be lonely. And the janitor perhaps helped her. The hospital's responsibility isn't to fire the janitor who she got into a relationship with, nor to increase the oppressiveness of the care units, but to provide care units that sufficiently socialize and help a patient, without overexposing them to drugs that increase impulsiveness, disinhibition, and so on. 
 
 > [!NOTE]
 > ### Kids
