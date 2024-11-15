@@ -334,7 +334,7 @@ Not that my lucidity needed further evidence, but I explained the methods of lat
 >
 > To do: Historical context, history of child labor. How practices today will be perceived in history.
 > 
-> I believe in autodidacticism via YouTube, Quora, and Wikipedia type apps and reconstructing schools as environments of peace and socialization. There is more than enough social incentive for kids to want to be more intelligent than other kids, or prepare themselves better for universities, which out of K-12 should not be grade-based or any metric, but that's where metrics can begin and universities for adults can exist that discriminate based on metrics.
+> I believe in autodidacticism via YouTube, Quora, and Wikipedia type apps and reconstructing schools as environments of peace and socialization. There is more than enough social incentive for kids to want to be more intelligent than other kids, or prepare themselves better for universities, which out of K-12 should not be grade-based or any metric, but that's where metrics can begin and universities for adults 21+ can exist that discriminate based on metrics.
 
 ### Hudson
 
