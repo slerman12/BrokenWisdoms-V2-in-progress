@@ -283,7 +283,7 @@ The risk of mortality was a foreseeable outcome <!--by my psychiatrists-->from b
 
 During this time, my mom found and my family took away the helium tank connected to tubing I was going to kill myself with.
 
-The trauma I went through during my psychosis (which the psychiatrists didn't even know about, and the description of which is omitted in this version of the book, so far) doesn't compare to the upwards of a year of benzo neurochemical torture that was induced on me. 
+The trauma I went through during my psychosis (which the psychiatrists didn't even know about, or consider had a hint of beyond what what was written in the medical record, and the entire exhaustive description of which <!--is omitted-->isn't even included in this version of the book, so far) doesn't compare to the upwards of a year of benzo neurochemical torture that was induced on me. 
 
 ### Machinery Behind the Curtain
 
