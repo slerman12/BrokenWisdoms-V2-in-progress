@@ -279,7 +279,7 @@ While I was living in the House on May St., and still in the early stages of my 
 
 The benzos forced on me an idea that almost become too much of an "execution."
 
-The risk of mortality was a foreseeable outcome <!--by my psychiatrists-->from benzos, [as published study data shows](https://thischangedmypractice.com/long-term-benzodiazepine-mortality-schizophrenia/), that suicide is a probable risk <!--in long-term benzo usage of patients presenting symptoms similar to mine--> in the symptomatic context that was included in my medical record.
+The risk of mortality was a foreseeable outcome <!--by my psychiatrists-->from benzos, [as published study data shows](https://thischangedmypractice.com/long-term-benzodiazepine-mortality-schizophrenia/), that suicide is a probable risk <!--in long-term benzo usage of patients presenting symptoms similar to mine--> in the symptomatic context of my medical record witnessed by my psychiatrists.<!-- that was included in my medical record.-->
 
 During this time, my mom found and my family took away the helium tank connected to tubing I was going to kill myself with.
 
