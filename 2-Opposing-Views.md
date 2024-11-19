@@ -316,7 +316,7 @@ Without hair, without eyebrows and eyelashes, with even my grandma's fingernails
 
 ### The Probable Cause of My Grandma's Dementia
 
-[Benzos contribute to the likelihood of dementia in elderly people](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6325366/).
+Benzos [contribute to the likelihood of dementia in elderly people](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6325366/).
 
 My grandma was prescribed a cocktail of neuroactive drugs before she had dementia. Seroquel, Lyrica, Xanax, and the brochure goes on. She didn't have any of the conditions those medications are primarily supposed to treat (Seroquel is an antipsychotic, Lyrica is an antiepileptic, Xanax is a benzo), and every time she developed a new symptom from one, they prescribed yet another. She developed dementia when I was still in high school. She lived with dementia from then to my Junior year of college, the same year my grandpa died, 2016.
 
