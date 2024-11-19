@@ -259,7 +259,7 @@ Symptoms from taking the benzos as prescribed included:
 - [Severe social anxiety](https://www.reddit.com/r/socialanxiety/comments/dzx7or/not_to_get_into_toxic_territory_but_sometimes_i/)
 - Inability to sleep due to anxiety
 -  [Memory loss, and "greyness" of imaginative and creative ability](https://github.com/user-attachments/assets/aef90661-f01c-40bc-b8b9-b0a101b80d92)
-- [Severe loss of speech and writing quality](https://github.com/user-attachments/assets/316ec47a-248e-4141-9eb7-5888bc1ea93d)
+- [Severe loss of speech and writing quality](https://github.com/user-attachments/assets/aef90661-f01c-40bc-b8b9-b0a101b80d92)
 - [Severe pain](https://www.reddit.com/r/AskDocs/comments/dyaf8n/constant_chest_pain_that_spikes_into_my_neck/)
 - [Facial structure changed, wrinkled, and my face rapidly lost a healthy appearance](https://www.reddit.com/r/spirituality/comments/1dyn2es/comment/lce3ie3/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) 
 - Severe physiological dependence, which benzos cause more so, at least neurologically, than Dupilumab, which also causes/caused a physiological dependence
