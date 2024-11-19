@@ -265,7 +265,7 @@ The actual six-month review was **May 5th, 2023**. Then Chenliang notified me of
 
 What do I mean by 'without their "no"'? I mean, I told them I wasn't going to make the make-up meeting, and gave them the reason why. They didn't reply affirmatively or negatively. As my employers, given one-month's advance notice, it is their responsibility to reply "no," or otherwise, no news is presumed good news, and missing that meeting, as I'd warned advance of and had a more than good excuse, cannot be used as the sole termination reason. However, even if it is, that will later be addressed too, in accord with their own policy.
 
-Also, the meeting itself was based on a false premise.
+Also, the meeting itself was based on their false premise.
 
 For the most part, they ignored all of my emails where I explained everything to them, and want me to what—sit by their bedside and read everything word by word to them? 3 major emails (the advance notice one that I was going to miss the meeting, the one I sent after my termination, and the one I sent again after my termination), that all of them, or at least Michael and Chenliang, got. Others about my research specifically that my committee got. And, besides the occasional reply, e.g., Chris Kanan suggesting I implement an entire new RL systems algorithm before the next make-up (which I did), ignored, as if their employer relationship excuses them from having to acknowledge information that changes the context of what can reasonably be used as a termination reason.
 
