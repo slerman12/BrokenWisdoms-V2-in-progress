@@ -73,7 +73,7 @@ Since my realization that the physics of the universe could be intelligent, plau
 
 But some of these guidances were more sensible than others. Perhaps some were Tao, and others, in the I Ching's language, were "grace."
 
-The I Ching had called those disruptions, the less sensible guidances that also appeared, "Grace." And in Taoist philosophy, "Grace" isn't necessarily good. Those winds, as they push us, are, to put it in Richard Wilhelm's words, "beauty in form," and in the I Ching's taxonomy, such a state to a person's psyche and cosmology "has success in small matters […] but he dare not decide controversial issues in this way." But if there's any doubt to the authenticity of these experiences and beliefs, let it be known that the I Ching gave this answer exactly the morning of the day before the climax of my crescendoing psychosis.
+The I Ching had called those disruptions, the less sensible guidances that also appeared, "Grace." And in Taoist philosophy, "Grace" isn't necessarily good. Those winds, as they push us, are, to put it in Richard Wilhelm's words, "beauty in form," and in the I Ching's taxonomy, such a state to a person's psyche and cosmology "has success in small matters […] but he dare not decide controversial issues in this way." But if there's any doubt to the authenticity of these experiences and beliefs, let it be known that the I Ching gave this answer exactly the morning of the day before the crescendo of my psychosis.
 
 > [!NOTE]
 > ### I Ching and Synchronicity Hypothesized Mechanisms
