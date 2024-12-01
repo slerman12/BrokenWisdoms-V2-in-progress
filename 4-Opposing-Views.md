@@ -84,6 +84,14 @@ The I Ching had called those disruptions, the less sensible guidances that also 
 >
 > Of course, a person's psychology cannot be dismissed as independent to the interpretations, either, even when the answers are uncannily precise. However, what's suggested in this physics mechanism is that some planning mechanism can subtly bias physical behavior in the universe, either outward or inward, by a small, limited divergence. Perhaps, beyond yarrow stalks and Feng Shui coins, other kinds of convergences can be gradually eroded into being, by such a latent planning factor, making possible the seemingly acausal phenomenon known as "synchronicity." Since planning is objective-based, that would make synchronicities a "teleological connecting principle" rather than Carl Jung's traditional definition for the term, "acausal connecting principle."
 
+Let $Q$ be a qualia function, and $\theta$ the parameterization of the intelligence of the universe via the probabilistic samplings of particles within a bounded statistical divergence from the probability distribution of the particles, e.g., from the normalized wave function of the particle. $\Omega$ is the universe, Tao/God as the process of optimization of the following objective:
+
+$$\max\limits_\theta Q(\Omega_\theta)$$
+
+Qualia is defined as the yogas, the emotions, and their richness, goodness, beauty, and sacredness, relatively ranked numerically in the universe by the qualia function $Q$. 
+
+Those senses, however, as I described went into increasingly “Gollum-esque,” psychotic places, less in the nature of a proof of the beauty of the power of consciousness and perhaps the universe, but more in perhaps the bogs of obsession, recent trauma, isolation, intricate understanding, and incongruently deep transcendence. 
+
 ### Wind
 
 It was literally a wind that pushed me into the woods. 
