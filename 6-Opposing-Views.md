@@ -172,10 +172,11 @@ This is their million dollars. This is my $26,000. And I gave them both.
 
 ### Literally Did the Grants
 
-- I fully designed the diagrams for those grants
+- I fully designed the main diagrams for the first grant
 - I came up with the ideas for the first grant
-- I came up with one of the ideas for the second
-- I wrote parts of both
+- I designed many of the diagrams for the second grant
+- I came up with one of the ideas for the second grant
+- I wrote parts of both grants
 
 The first was approved as the main funding while I was working there.
 
