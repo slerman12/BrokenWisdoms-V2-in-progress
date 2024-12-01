@@ -96,6 +96,7 @@ My uncle Slava was the first of my grandparents' descendants to be born, followe
           - Inability To Defend
           - Oral Defense
           - with Flying Colors
+            - Incremental 2018
         - Hellmouth and Hellfire
           - Grey, and GABA Downregulation
           - Teeth-Falling-Out Literal Nightmare
@@ -108,6 +109,7 @@ My uncle Slava was the first of my grandparents' descendants to be born, followe
         - Buffy
         - Giles
         - Stuck in Traffic
+          - MHDPA Summary
     - Part 7 (University PhD advisors, University PhD committee members, University CS department Chair)
       - Chenliang Xu
         - AI
