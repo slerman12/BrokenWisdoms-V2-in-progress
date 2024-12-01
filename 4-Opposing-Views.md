@@ -53,7 +53,7 @@ I met Jürgen Schmidhuber in the conference itself, at his talk, was the last in
 
 I was wearing a hat all through the conference, to cover up my baldness, that I still wasn't used to, and still am not. It was winter, and the winter hat didn't look too out of place. Early December, less than three weeks before my RGH hospitalization.
 
-The encroaching mental state on the social and self-image-based fronts began its march from the hair loss, in particular [about my confidence about my physical attraction.](https://www.reddit.com/r/socialanxiety/comments/dzx7or/not_to_get_into_toxic_territory_but_sometimes_i/) <!--Can also link: https://www.reddit.com/r/spirituality/comments/1dyn2es/comment/lce3ie3/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button-->
+The encroaching mental state on the social and self-image-based fronts <!--began its march-->escalated from the hair loss, in particular [about my confidence about my physical attraction.](https://www.reddit.com/r/socialanxiety/comments/dzx7or/not_to_get_into_toxic_territory_but_sometimes_i/) <!--Can also link: https://www.reddit.com/r/spirituality/comments/1dyn2es/comment/lce3ie3/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button-->
 
 When I returned, my isolation on the work-based front deepened, as I was getting ready to submit my MHDPA innovation paper, coinciding with my first-ever hospitalization, the second time my frontier research ideas (the earlier alluded to in part in the [House on May St.](#house-on-may-st)) coincided with a sudden major health crisis, either 100% externally caused in the first instance, or unprecedented for me, almost suspiciously so<!--,--> in the second. 
 
