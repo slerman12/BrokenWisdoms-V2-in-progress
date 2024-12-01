@@ -308,7 +308,7 @@ The truth is, these academics want to be seduced (e.g., "flying colors") or give
 
 ### Real-Time RL Robotics
 
-In case the detail was missed, since Tom Howard's field is robotics, UnifiedML supports [real-time RL robotics](https://github.com/AGI-init/tributaries/blob/main/Examples/Sweeps/Bittle.py). It was one of the [first works to do so, before the idea gained popularity](https://github.com/PetoiCamp/OpenCat/issues/30). It was one of many contributions and innovations I had to quickly go through in our one and only meeting with this interim group.
+In case the detail was missed, since Tom Howard's field is robotics, UnifiedML supports [real-time RL robotics](https://github.com/AGI-init/tributaries/blob/main/Examples/Sweeps/Bittle.py). It was one of the [first works to do so, before the idea gained popularity](https://github.com/PetoiCamp/OpenCat/issues/30). It was one of many [contributions](https://github.com/slerman12/Builder/blob/main/UnifiedML/src/ML/World/Environments/Bittle.py) and innovations I had to quickly go through in our one and only meeting with this interim group.
 
 ## Charles Venuto
 
