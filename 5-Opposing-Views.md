@@ -202,6 +202,8 @@ And I replied:
 > ### $\Huge &#8221;$
 
 > [!NOTE]
+> ### Incremental 2018
+> 
 > I didn’t have the cognitive functioning to edit it beyond the submission from late 2018 that Henry rejected. 
 >
 > I submitted Henry's workshop paper later in 2019 and then my original paper to NeurIPS, by which point most people today think MHDPA was ubiquitous and well known in NLP, and the paper was rejected — for a laughable reason — it seemed none of the reviewers heard of MHDPA, at least one of the reviewers thought I was proposing MHDPA, *compared it to a different attention mechanism from before MHDPA*, and at least that one rejected on account of rejecting MHDPA, while the others rejected, I think, for not enough experiments.
