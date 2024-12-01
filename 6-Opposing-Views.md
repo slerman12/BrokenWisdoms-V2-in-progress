@@ -182,7 +182,7 @@ The first was approved as the main funding while I was working there.
 
 If the second was approved for them, it was after I was terminated, meaning I was terminated before the second one, which I contributed to, was approved, money that they got over my terminated body.
 
-As with the first, I helped propose, make my own diagrams, and write it, on faith, the final product, because they asked, while having other work I had to do, like meeting Chris Kanan’s suggestion or the weekly meetings to Chenliang.
+As with the first, I helped propose, make my own diagrams, and write it, on faith, the final product, because they asked, while having other work I had to do, like meeting Chris Kanan’s suggestion or the weekly meetings to Chenliang and Niaz, to whom both I had to answer to research and engineering work.
 
 ### $22,588.89 Debt Paid
 
