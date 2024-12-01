@@ -316,7 +316,7 @@ First I wasn’t able to do the robot tracking with [YOLO V7](https://arxiv.org/
 
 Then I [got it to work](https://github.com/user-attachments/assets/8ffed7ff-f682-4717-94a7-a3283b3ffa8b) with [GroundingDINO](https://arxiv.org/abs/2303.05499), a foundation model that UnifiedML [supports](https://github.com/slerman12/Builder/blob/main/UnifiedML/src/ML/Agents/Blocks/Architectures/Vision/FoundationModels/GroundingDINO.py) the quick use of.
 
-In both vision model cases, it was a framework for streaming data in real-time from Youtube, filmed live from a smartphone, in a democratized setup that anyone can use, the first robotics infrastructure that literally even a child could train, and a serious one at that since it affords real-time RL for adaptive robotics setups, from [Bittle](https://github.com/PetoiCamp/OpenCat/issues/30) robots to any other.
+In both vision model cases, it was a framework for streaming data in real-time [from Youtube](https://github.com/slerman12/Builder/blob/main/UnifiedML/src/ML/World/Environments/YouTube.py), filmed live from a smartphone, in a democratized setup that anyone can use, the first robotics infrastructure that literally even a child could train, and a serious one at that since it affords real-time RL for adaptive robotics setups, from [Bittle](https://github.com/PetoiCamp/OpenCat/issues/30) robots to any other.
 
 ## Charles Venuto
 
