@@ -46,7 +46,12 @@ My uncle Slava was the first of my grandparents' descendants to be born, followe
       - Psychiatry at the University of Rochester's Strong Hospital
       - Benzodiazepine ("Benzos") Mechanism of Action
       - My Trauma
-    - Part 3 (University-hospital ambulance, University-hospital system, University-hospital nurses, University-hospital geriatric unit, University-hospital nutritionists)
+    - Part 3 (University Med Center)
+      - PhD Program
+        - Embassy Interview
+        - Immigration
+      - Charles Venuto
+    - Part 4 (University-hospital ambulance, University-hospital system, University-hospital nurses, University-hospital geriatric unit, University-hospital nutritionists)
       - My Grandma's Hair, Nails, and Dementia
         - Childhood
         - Nails
@@ -61,11 +66,6 @@ My uncle Slava was the first of my grandparents' descendants to be born, followe
         - Massages
       - Geriatric Unit Hospitalization
       - Second Induced Hair Loss
-    - Part 4 (University Med Center)
-      - PhD Program
-        - Embassy Interview
-        - Immigration
-      - Charles Venuto
     - Part 5 (University psychiatric ward janitor, University-hospital child and adolescent psychiatrists, University-hospital police officers)
       - Henry Kautz <!--(Limitations of Western philosophy)-->
         - Fall, 2018 Semester, and the Dead Marshes
