@@ -314,7 +314,7 @@ In case the detail was missed, since Tom Howard's field is robotics, UnifiedML s
 
 First I wasn’t able to do the robot tracking with [YOLO V7](https://arxiv.org/abs/2207.02696) and then [YOLO V8](https://arxiv.org/abs/2305.09972), and had to do the object detection [by sticking in a fork](https://github.com/user-attachments/assets/e178954e-64ad-4606-a36d-61adb8cff803).
 
-Then I [got it to work]() with [GroundingDINO](https://arxiv.org/abs/2303.05499), a foundation model that UnifiedML [supports](https://github.com/slerman12/Builder/blob/main/UnifiedML/src/ML/Agents/Blocks/Architectures/Vision/FoundationModels/GroundingDINO.py) the quick use of.
+Then I [got it to work](https://github.com/user-attachments/assets/8ffed7ff-f682-4717-94a7-a3283b3ffa8b) with [GroundingDINO](https://arxiv.org/abs/2303.05499), a foundation model that UnifiedML [supports](https://github.com/slerman12/Builder/blob/main/UnifiedML/src/ML/Agents/Blocks/Architectures/Vision/FoundationModels/GroundingDINO.py) the quick use of.
 
 In both vision model cases, it was a framework for streaming data in real-time from Youtube, filmed live from a smartphone, in a democratized setup that anyone can use, the first robotics infrastructure that literally even a child could train, and a serious one at that since it affords real-time RL for adaptive robotics setups, from [Bittle](https://github.com/PetoiCamp/OpenCat/issues/30) robots to any other.
 
