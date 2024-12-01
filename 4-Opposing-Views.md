@@ -349,6 +349,8 @@ Not that my lucidity needed further evidence, but I explained the methods of lat
 > I believe in autodidacticism via YouTube, Quora, and Wikipedia type apps and reconstructing schools as environments of peace and socialization. There is more than enough social incentive for kids to want to be more intelligent than other kids, or prepare themselves better for universities, which out of K-12 should not be grade-based or any metric, but that's where metrics can begin and universities for adults 21+ can exist that discriminate based on metrics.
 >
 > In the age of automation.
+>
+> Anyway, Mobi was given benzos for years. 
 
 ### Hudson
 
