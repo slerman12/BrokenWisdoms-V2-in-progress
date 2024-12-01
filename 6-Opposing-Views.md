@@ -185,7 +185,7 @@ As with the first, I helped propose, make my own diagrams, and write it, on fait
 
 ### $22,588.89 Debt Paid
 
-My loans stopped being subsidized because I was terminated, and I had to pay $22,588.89 for being terminated. 
+My loans stopped being subsidized because I was terminated, and I had to pay $22,588.89, some of which went directly to teh University of Rochester and not a loan providing service, for being terminated. 
 
 The subsidization was due to my family being poor, lower-lower class poor. 
 
