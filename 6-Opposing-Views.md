@@ -193,7 +193,7 @@ I have no safety net for the most part, short of going into a job immediately af
 
 But that would be sort of sullying the historical physics and AI work I’ve done making me dependent on an undignified route of partial reimbusement that doesn’t appreciate how much work I did, my ideas, and all of what was robbed from me. 
 
-Instead, I’m writing this book and living under the support of my mom’s social security, and my own savings, still hard work, probably wasted, on good faith.<!-- which I thankfully scrounged up a little, while my bosses are being funded by the fruit of hard work that I did for them on *good faith*-->. 
+Instead, I’m writing this book and living under the support of my mom’s social security, and my own savings, still hard work, probably wasted, on good faith.<!-- which I thankfully scrounged up a little, while my bosses are being funded by the fruit of hard work that I did for them on *good faith*-->
 
 The grants I helped bring in total almost a million dollars. 
 
