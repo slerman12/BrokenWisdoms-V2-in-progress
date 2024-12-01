@@ -170,6 +170,33 @@ During this time, I've continued my physics theory of everything, built on my ph
 This is their million dollars. This is my $26,000. And I gave them both.
 -->
 
+### Literally Did the Grants
+
+- I worked hard on the diagrams for those grants
+- I came up with the ideas for the first one
+- I came up with one of the ideas for the second
+- I wrote parts of both
+
+The first was approved as the main funding while I was working there.
+
+If the second was approved for them, it was after I was terminated, meaning I was terminated before the second one, which I contributed largely to, was approved, money that they got over my dead body.
+
+They asked me to help with it, after (as with the first) I helped propose, make my own diagrams, and write it, on faith, the final product, because they asked, while having other work I had to do, like meeting Chris Kanan’s suggestion or the weekly meetings to Chenliang.
+
+### $22,588.89 Debt Paid
+
+My loans stopped being subsidized because I was terminated, and I had to pay $22,588.89 for being terminated. 
+
+The subsidization was due to my family being poor, lower-lower class poor. 
+
+I have no safety net for the most part, short of going into a job immediately after 6 years of torture, or turning to my middle class distant relatives, uncle, sister, or I suppose, a historically unprecedented number of independent medical malpractices and workers abuse injuries and the legal system. 
+
+But that would be sort of sullying the historical physics and AI work I’ve done making me dependent on an undignified route of partial reimbusement that doesn’t appreciate how much work I did, my ideas, and all of what was robbed from me. 
+
+Instead, I’m writing this book and living under the support of my mom’s social security, and my own savings<!— which I thankfully scrounged up a little, while my bosses are being funded by the fruit of hard work that I did for them on *good faith*—>. 
+
+The grants I helped bring in total almost a million dollars. 
+
 ## Chris Kanan
 
 <p align="center">
