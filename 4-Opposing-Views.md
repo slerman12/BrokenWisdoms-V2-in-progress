@@ -146,7 +146,7 @@ I surrendered to whatever movements were demanded of me. Every muscle in my body
 
 Then my sister entered the room. She saw me staring ahead, and gently touched my arm with a finger. A spark. Maybe just in my eyes, or from the corner of my mouth, but I gave an imperceptible smile. I was afraid. She told the doctor/attendant she saw me smile. The doctor/attendant, standing nearby, declared calmly I was unconscious.
 
-A couple of days later, an injection of benzos pulled me out of the yogic state earlier than I’d planned to leave it (3 days was the hallucinated/believed instruction and 2 days was how long I waited). The haze of the drug dulled my inhibitions, and I let go of the perceived responsibility. But what followed wasn’t a return to the <!--fluid,--> adaptive sensation<!-- I had once known-->. <!--Instead, t-->The Kundalini, once dynamic and responsive, felt locked inside me—rigid, unyielding, and far less acute than before. I first noticed this during meditation in RGH.
+A couple of days later, an injection of benzos pulled me out of the yogic state earlier than I’d planned to leave it (3 days was the hallucinated/believed instruction and 2 days was how long I waited). The haze of the drug dulled my inhibitions, and I let go of the perceived responsibility. But what followed wasn’t a return to the <!--fluid,--> adaptive sensation<!-- I had once known-->. <!--Instead, t-->The Kundalini, <!--once--> dynamic and responsive, felt locked inside me—rigid, unyielding, and far less acute than before. I first noticed this during meditation in RGH.
 
 <!--
 > [!NOTE]
