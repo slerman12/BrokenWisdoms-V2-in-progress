@@ -116,6 +116,8 @@ My uncle Slava was the first of my grandparents' descendants to be born, followe
         - Second and Third Hair Regrowths
         - Factory Food
           - High Quality Food in the Medical System
+        - Chenliang - Early Days
+        - Disciplines I Had To Do
       - Dyada Slava
       - Niaz Abdolrahim
       - Chris Kanan
@@ -124,6 +126,7 @@ My uncle Slava was the first of my grandparents' descendants to be born, followe
       - Tom Howard
         - Employer "Affirmative Consent" isn't a Thing
         - Real-Time RL Robotics
+        - Bittle Speedrun Description
       - Charles Venuto
       - Recap
       - Michael L. Scott
