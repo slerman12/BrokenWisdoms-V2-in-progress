@@ -239,7 +239,7 @@ Speaking of the elderly...
 >
 > In particular, what caused my mom to call the ambulance was I was doing stretches on the couch without talking to my relatives when they were talking to me. Then the strange behavior with responders, who I did talk to, and whose questions I answered normally, was that I was slightly reluctant to let them take my vitals — yes. And I quickly did let them take my vitals. They just caught that I had some reluctance and found that suspicious. So they dragged me to the ambulance, and I was screaming to my mom about the paper deadline as they did so. The ambulance drove me to the hospital, where first, they brought me to a lobby.
 >
-> In the lobby, the nurse pulled me behind a curtain and made me change clothes, and I didn't want to (was slightly reluctant), but she told me I had to. Then she sat me in a wheelchair. A nurse pushed it forward, it ran over my big toe, and I screamed<!-- out specifically that my toe was run over-->. The nurse kept rolling me off, as she and the other nurses all ignored my screaming, in what, surprisingly, didn't break my toe. 
+> In the lobby, the nurse pulled me behind a curtain and made me change clothes, and I didn't want to (was slightly reluctant), but she told me I had to. Then she sat me in a wheelchair. A nurse pushed it forward, it ran over my big toe that was situated in front of the wheel, and I screamed<!-- out specifically that my toe was run over-->. The nurse kept rolling me off, as she and the other nurses all ignored my screaming<!--, in what, surprisingly, didn't break my toe-->. My toe didn't break. 
 >
 > Next, they brought me to an open area filled with other patients, and told me I'd be transferred later that day.
 >
