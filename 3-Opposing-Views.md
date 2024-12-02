@@ -307,7 +307,7 @@ My diet converged to about one wild-caught salmon each morning and about 5 organ
 
 I experienced big improvements to my cognition, energy, and mood. <!--In particular, I recall my writing, not academic but poems, visual creative writing, and texts to people, had improved that summer to beyond even where they were before the benzo brain damage. Most of my income was going towards this experimental recovering, meant to improve my head from the benzo-induced impairments — and, unexpectedly, my hair started to grow back while on that diet within the next couple months. I was also practicing other disciplines, including meditating, calisthenics, and abstaining from porn, all of which I continued from previous to this diet.-->
 
-In the hospitalization after the Sarah-one, Hospitalization 3, [Mobi](#Mobi) remarked on my hair when we saw a Duplumab commercial and I mentioned that the drug made me lose my hair ("oh that's why"). 
+In the hospitalization before the geriatric unit, Hospitalization 3, [Mobi](#Mobi) remarked on my hair when we saw a Duplumab commercial and I mentioned that the drug made me lose my hair ("oh that's why"). 
 
 I was walking around bravely sometimes, past all the nurses and patients, from my room to the phone without hat. 
 
