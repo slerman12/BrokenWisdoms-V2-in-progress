@@ -45,7 +45,7 @@ The University of Rochester: **Saruman**
 ## Conclusion
 
 - Proposition 3 is the policy of accountability that the PhD student handbook requires the faculty to satisfy.
-- Disproof 2 formally disproves the claim of Proposition 3, and proves that the faculty are currently violating the policy of the PhD student handbook.
+- Disproof 10 formally disproves the claim of Proposition 3, and proves that the faculty are currently violating the policy of the PhD student handbook.
 
 <p align='center'>𖥸</p>
 
