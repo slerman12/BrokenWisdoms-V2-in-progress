@@ -63,7 +63,7 @@ Here is my favorite Shakespeare sonnet:
 >
 > They are a really conservative and vampiric research department. What makes them conservative? They don’t come up with anything original or new. What makes them vampiric? They make incremental modifications to existing works or within existing research-area zeitgeists that have no profound or moral point in the sense of actual impact.
 >
-> The CS department's faculty, with occasional exception, couldn't hear anything that they didn't want to, that they hadn't already internalized for multiple decades during their careers, that they weren't already clinically versed on, taught to them through their studies, normalized by their colleagues, and standardized, discussing "needy nothing trimm'd in jollity" while my ideas were "miscall'd simplicity" until they became mainstream, with credit for my teaching then "unhappily forsworn."
+> The CS department's faculty, with occasional exception, didn't hear anything that they didn't want to, that they hadn't already internalized for multiple decades during their careers, that they weren't already clinically versed on, taught to them through their studies, normalized by their colleagues, and standardized, discussing "needy nothing trimm'd in jollity" while my ideas were "miscall'd simplicity" until they became mainstream, with credit for my teaching then "unhappily forsworn."
 >
 > As well as just simple intuitions that were pedagogically better:
 > - (a) Backprop as just an algorithm for taking a derivative, wherein the change that would hypothetically increase or decrease a function is disseminated, operation by operation, from the output back to the input, to each parameter in that function,
