@@ -42,7 +42,7 @@ Here is my favorite Shakespeare sonnet:
 >   
 > My intuitive ideas, way ahead of their time, were often preemptively dismissed and disregarded, until I found the right phrasing and pictures for the faculty to teach and convince them, like the use of rewards from past actions to inform new actions in similar states, similarity as measurable by geometrical (Pythagorean) distance between datapoints or representations, decomposing datapoints into parts and relations, or efficient relational reasoning by prioritizing information relative to those parts. "Simple truth miscall'd simplicity."
 >
-> I proposed these fundamental insights, and what methods would correspond to them, while they were still original or before they had specialized appreciation:
+> I proposed these fundamental insights, and what methods would correspond to them, while they were still original or before they had appreciation:
 >
 > - (a) An agent "choosing" actions at first randomly in an environment, given "states" as input, remembering the actions chosen in a memory together with each state; then in future states, looking at those past actions, in memory, that corresponded to the most similar states to the current state, and taking the ones that got the highest environment rewards in the past, or, with some probability, exploring via taking random actions to get more state-action memory
 >    - (relevant method examples: such as via K-nearest neighbors; symbolic and neural episodic control methods; parametrically rather than symbolically via RNNs or Decision Transformers),
