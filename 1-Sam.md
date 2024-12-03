@@ -36,6 +36,7 @@ My uncle Slava was the first of my grandparents' descendants to be born, followe
 
 - [**Sam**](1-Sam.md)
   - Prologue
+    - Dialogue of the Congress 1
     - War
     - Asya and Yury
     - Sam and Marina of Samarkand and Maracanda
