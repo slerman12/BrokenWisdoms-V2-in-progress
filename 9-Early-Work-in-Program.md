@@ -11,7 +11,9 @@
 ## Long-Term Memory
 **2018 - today**
 
-## Reinforcement Learning Neural Episodic Control Algorithms, Vision Architectures, and Generalization Across Environments
+> Many I came up with, but actually implemented are novel neural episodic control algorithms, from Henry to Chenliang.
+
+## Reinforcement Learning Vision Architectures, and Generalization Across Environments
 **2017 - today**
 
 > I should probably elaborate elsewhere all of the other RL algorithms I either came up with, or invented and implemented during my PhD, "on the side" since nobody at U of R studies RL.
