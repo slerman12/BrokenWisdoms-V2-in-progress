@@ -176,14 +176,15 @@ My uncle Slava was the first of my grandparents' descendants to be born, followe
     - Reinforcement Learning Vision Architectures, and Generalization Across Environments
     - ChatGPT Underlying Method Innovation (Long Before Time Innovation of Underlying Method of MHDPA)
 - [**Thesis**](Thesis.md)
-    - UnifiedML
-    - XRD Project
-    - 2 Publications
-    - Grants
-    - Evolutionary Learning Algorithms
-    - Visio-Relational Perceiver
-    - Real-time RL Robotics
-    - GATO/JEPA Type Framework Before Either Were Proposed
+    - Unappreciated Years of Work
+      - UnifiedML
+      - XRD Project
+      - 2 Publications
+      - Grants
+      - Evolutionary Learning Algorithms
+      - Visio-Relational Perceiver
+      - Real-time RL Robotics
+      - GATO/JEPA Type Framework Before Either Were Proposed
     - Credits
     - Epilogue
       - Conclusion
