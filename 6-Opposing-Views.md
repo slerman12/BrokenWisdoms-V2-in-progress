@@ -282,20 +282,22 @@ I had to retake a grad-level systems class, on account of getting a tiny fractio
 
 ### Sampling Without Replacement in RL Description
 
-In supervised learning, it's standard to sample from the dataset without replacement. This is easy to do for large datasets by parallelizing, multiple CPU workers pulling data from a fixed dataset. 
-
-That isn't the case for reinforcement learning, where the dataset is online, meaning it grows, it changes, data can be added, updated, or deleted. This also isn't necessarily easy to do, with parallelization, in curriculum learning. 
-
-Partitioning a changing dataset across multiple parallel devices, and keeping track of samples across all of them such that custom dataset-wide sampling algorithms, like the simple and novel sampling-without-replacement-in-RL one I made, so that they do not conflict, and keeping that efficient, using truly-shared RAM memory and memory mapping, was a big unsolved problem for me to come up with, solve, and fully program in 2 months.
-
-I built the first parallelized sampler for reinforcement learning that does sampling without replacement, which is algorithmically better in supervised learning. It supports curriculum learning, and is part of concrescent framework supporting also generative modeling, real-time online or offline RL, and every other training paradigm. It also supports custom sampling methods.
-
-It's a paralellization and training system that is built in general multi-purpose uses.
-
-In reinforcement learning, this is a big change from the baseline algorithm, DrQV2, since that algorithm requires some minimum number of workers, and doesn't generalize to no-parallelization, nor support different sampling strategies with parallelization. Mine does all of that, with no loss in performance. It's a huge amount of systems work to build a new parallelization algorithm.
-
-I more than satisfied Chris Kanan's request for a novel RL systems algorithm.
-
+> To do: Summarize this without out-of-context linguistic intervention
+>
+> In supervised learning, it's standard to sample from the dataset without replacement. This is easy to do for large datasets by parallelizing, multiple CPU workers pulling data from a fixed dataset. 
+>
+> That isn't the case for reinforcement learning, where the dataset is online, meaning it grows, it changes, data can be added, updated, or deleted. This also isn't necessarily easy to do, with parallelization, in curriculum learning. 
+>
+> Partitioning a changing dataset across multiple parallel devices, and keeping track of samples across all of them such that custom dataset-wide sampling algorithms, like the simple and novel sampling-without-replacement-in-RL one I made, so that they do not conflict, and keeping that efficient, using truly-shared RAM memory and memory mapping, was a big unsolved problem for me to come up with, solve, and fully program in 2 months.
+>
+> I built the first parallelized sampler for reinforcement learning that does sampling without replacement, which is algorithmically better in supervised learning. It supports curriculum learning, and is part of concrescent framework supporting also generative modeling, real-time online or offline RL, and every other training paradigm. It also supports custom sampling methods.
+>
+> It's a paralellization and training system that is built in general multi-purpose uses.
+>
+> In reinforcement learning, this is a big change from the baseline algorithm, DrQV2, since that algorithm requires some minimum number of workers, and doesn't generalize to no-parallelization, nor support different sampling strategies with parallelization. Mine does all of that, with no loss in performance. It's a huge amount of systems work to build a new parallelization algorithm.
+>
+> I more than satisfied Chris Kanan's request for a novel RL systems algorithm.
+>
 > To do: write this without Michael Scott in my head causing the writing to be much stupider than me and "not explain clearly how big the contributions were, even for a long timespan." (...and explain clearly).
 >
 > Wernicke's and Broca's area create systems of actual opposition in a person's own linguistics. In this case, Psyche is very likely the linguistic. Or the context of GitHub. But most likely Michael.
