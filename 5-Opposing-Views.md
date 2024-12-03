@@ -462,7 +462,7 @@ The bigger red light, is that Dean Wendi Heinzelman should've been filled in on 
 > [!NOTE]
 > ### Incremental 2018
 >
-> The paper Henry discouraged me from submitting didn't change by a single word by the time he believed it was ready to submit.
+> The paper Henry discouraged me from submitting didn't change by a single word from the 2018 version by the time he believed it was ready to be submitted to NeurIPS in 2019.
 > 
 > I didn’t have the cognitive functioning to edit it beyond the submission from late 2018 that Henry rejected. 
 >
