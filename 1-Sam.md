@@ -169,8 +169,8 @@ My uncle Slava was the first of my grandparents' descendants to be born, followe
       - Michael Scott’s paper factory
       - "Life ruined" post
       - House on May St.
-  - [Early work in program](9-Early-Work-in-Program.md)   
-  - [Thesis](Thesis.md)
+- [**Early Work in Program**](9-Early-Work-in-Program.md)
+- [**Thesis**](Thesis.md)
     - Credits
     - Epilogue
       - Conclusion
