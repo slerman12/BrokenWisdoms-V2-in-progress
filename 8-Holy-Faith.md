@@ -266,7 +266,7 @@ Later, my best friend returned, literally. We were texting and he remarked, with
 
 That was a small amount of evidence that some communication, message-passing (without known mechanical means), happened non-locally.
 
-# Synchronicities
+# Synchronicities (Part 3)
 
 Meanwhile, before and after, astonishing [synchronicities](https://en.wikipedia.org/wiki/Synchronicity) happened that can be listed below and I leave for your judgement on their metaphysical or coincidental nature.
 
