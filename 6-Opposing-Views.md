@@ -296,7 +296,7 @@ I more than satisfied Chris Kanan's request for a novel RL systems algorithm.
 
 > To do: write this without Michael Scott in my head causing the writing to be much stupider than me and not explain clearly how big the contributions were, even for a long timespan.
 >
-> Wernicke and Broca's area create systems of actual opposition i na person's own linguistics.
+> Wernicke's and Broca's area create systems of actual opposition in a person's own linguistics. In this case, Psyche is very likely the linguistic. Or the context of GitHub.
 
 ## Tom Howard
 
