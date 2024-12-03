@@ -254,7 +254,7 @@ Yours,
 
 Michael
 
-## Conclusive disproof
+## Disproof 9
 
 Propositions:
 
@@ -288,7 +288,9 @@ Chris Kanan suggested I innovate a new reinforcement learning systems algorithm.
 
 Can edit to: [Here](https://github.com/AGI-init/UnifiedML/blob/ef14f7ff14b0b494d14bc8ee4bfe8925ad2a1fb3/ML/World/Replay.py#L566-L607) is the accelerated and parallelized sampling without replacement for RL algorithm with adaptive, truly-shared RAM memory, memory-mapping, and dynamically growing Replay storage, and [here](https://github.com/slerman12/Builder/commit/e8b896c75bdeb388995af912a25108dfa16a92f9) is one of the commits as I finished implementing it, just prior to the July 24th date when I was notified that my stipend was going to be cut and 2nd advisor leaving.
 
-## <sub>🔎</sub> Context from [first disproof](3-Disproof.md)
+## Disproof 10
+
+### <sub>🔎</sub> Context
 
 > [!IMPORTANT]
 > The PhD student handbook has **only one clause of accountability** for the grad school, and it's to specify what the PhD student would need to do (without pay or support) for reinstatement:
@@ -305,9 +307,9 @@ Can edit to: [Here](https://github.com/AGI-init/UnifiedML/blob/ef14f7ff14b0b494d
   - As evidenced by my second advisor's communication of withdrawal and reallocation of funding on **07/24/2024**, the sudden termination email on **10/12/2024**, and [many tortures](2-Opposing-views.md), including permanent or ongoing ones, inflicted by Michael's institution. To reiterate, all I asked for in the research proposal that Michael slammed with a termination, was peace to write my thesis. That detail was the only part he specified in a later email as having an issue with.
 - Note also: the University of Rochester's CS department doesn't have PhD "reinstatement applications." Any appearance of that reinstatement-mentioning email of **10/31/2024** as indicating a reinstatement-condition is gaslighting. The referent of what is mentioned is reinstatement, not a reinstatement-condition. Even if that weren't the case, "in writing" cannot be relegated as "in person" (and thereby “off the record”) unless the indicated reinstatement-condition can redefine the clause from which it's necessitated, but the PhD student handbook isn't a rewritable Turing tape (at least not ad lib), making that absurd to such a point that asserting it becomes gaslighting.
 
-## Definitions
+### Definitions
 
-### (1) Necessity of support set.
+#### (1) Necessity of support set.
 
 Define the set of "what is necessary for reinstatement of support, indicated to the student by the faculty, in writing, when support is withdrawn" as the variable $x$.
 
@@ -315,23 +317,23 @@ $x$ $\coloneqq$ $\emptyset$.
 
 That is the empty set, as described in the $\color{#7B52D7} \textbf{&#9432;}$ [context reminder](#-reminder-of-context-from-first-disproof). 
 
-## Propositions
+### Propositions
 
-### (1) Goodness, truth, and sufficiency.
+#### (1) Goodness, truth, and sufficiency.
 
 Suppose some reasons they had for terminating me were good, true, and sufficient. (False, but assume true).
 
-### (2) Student's negligence.
+#### (2) Student's negligence.
 
 Suppose I didn’t do something they suggested, requested, or required of me, prior to my second advisor's communication of withdrawal of support. (False, but assume true).
 
-### (3) PhD student handbook.
+#### (3) PhD student handbook.
 
 “When withdrawing support, the faculty will indicate to the student, in writing, what is necessary for reinstatement of support.” - PhD student handbook, page 15. Mathematically:
 
 $\vert x \vert > 0$.
 
-## Disproofs
+### Disproofs
 
 ### Proposition 3. 
 
