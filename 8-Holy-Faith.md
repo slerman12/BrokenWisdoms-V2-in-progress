@@ -268,6 +268,8 @@ That was a small amount of evidence that some communication, message-passing (wi
 
 # Synchronicities (Part 3)
 
+> To do: List all of them here, including the many already mentioned and new ones previously not mentioned that add to the book's quality
+
 Meanwhile, before and after, astonishing [synchronicities](https://en.wikipedia.org/wiki/Synchronicity) happened that can be listed below and I leave for your judgement on their metaphysical or coincidental nature.
 
 ### Chris Kanan (Deus ex memory)
