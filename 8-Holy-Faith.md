@@ -114,7 +114,7 @@ Here is my favorite Shakespeare sonnet:
 The only period of my life that didn’t lead to suicide ideation, was when I lived in Drama House, a student theater living community. Undergrad years weren’t perfect, and I suffered from eczema and the stress of two majors and still pretty severe social anxiety, but it was by far the best period of my life and probably the only time in my life I was even a modicum socially happy. That was where I first saw Sartre’s play, No Exit. 
 
 > [!NOTE]
-> ### Exiting Hell, unifying quantum with Einstein, & symbiotically transcending individual psychological and behavioral repression
+> ### Exiting Hell, Unifying Quantum with Einstein, & Symbiotically Transcending Individual Psychological and Behavioral Repression
 > 
 > Sartre, in his play [No Exit](https://en.wikipedia.org/wiki/No_Exit) (wherein there is no exit door from Hell), described in less words than anybody that "Hell is other people," meaning, Hell — not just suffering, but Hell — comes from the societal relationships or lackthereof that we cannot move through, transcend, or escape. 
 >
