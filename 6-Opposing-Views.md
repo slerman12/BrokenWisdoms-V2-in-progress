@@ -283,9 +283,9 @@ I had to retake a grad-level systems class, on account of getting a tiny fractio
 ### Sampling Without Replacement in RL Description
 
 > To do: Summarize this without out-of-context linguistic intervention
->
-> In supervised learning, it's standard to sample from the dataset without replacement. This is easy to do for large datasets by parallelizing, multiple CPU workers pulling data from a fixed dataset.
->
+
+In supervised learning, it's standard to sample from the dataset without replacement. This is easy to do for large datasets by parallelizing, multiple CPU workers pulling data from a fixed dataset.
+
 > bad linguistics start here:
 >
 > That isn't the case for reinforcement learning, where the dataset is online, meaning it grows, it changes, data can be added, updated, or deleted. This also isn't necessarily easy to do, with parallelization, in curriculum learning. 
