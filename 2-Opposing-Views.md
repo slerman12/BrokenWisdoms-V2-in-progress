@@ -500,7 +500,7 @@ I experienced big improvements to my cognition, energy, and mood. <!--In particu
 
 In the hospitalization before the geriatric unit, [Hospitalization 3 (October, 2020)](8-Holy-Faith.md#comedic-aside-sexier-moments-during-chenliang-advising), [Mobi](4-Opposing-Views.md#sarah) remarked on my hair when we saw a Duplumab commercial and I mentioned that the drug made me lose my hair ("oh that's why," he said, since it still looked odd not having grown back in parts). 
 
-I was walking around bravely sometimes, past all the nurses and patients, from my room to the phone without hat. 
+I was walking around bravely sometimes, past all of the nurses and patients, from my room to the phone without hat. 
 
 <!-- - The causal mechanisms of all of these independent, non-local phenomena don't erase the divergent statistical odds of their synchronous timings. -->
   
