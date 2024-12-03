@@ -288,6 +288,8 @@ I built the first parallelized sampler for reinforcement learning that does samp
 
 In reinforcement learning, this is a big change from the baseline algorithm, DrQV2, since that algorithm requires some minimum number of workers, and doesn't generalize to no-parallelization, nor support different sampling strategies with parallelization. Mine does all of that, with no loss in performance. It's a huge amount of systems work to build a new parallelization algorithm.
 
+I more than satisfied Chris Kanan's request for a novel RL systems algorithm.
+
 ## Tom Howard
 
 <p align="center">
