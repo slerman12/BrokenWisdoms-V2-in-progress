@@ -300,7 +300,7 @@ I had to retake a grad-level systems class, on account of getting a tiny fractio
 >
 > I more than satisfied Chris Kanan's request for a novel RL systems algorithm. The algorithm itself, "sampling without replacement," is novel for RL too and has many challenges, like the added data needing new indices across all of the devices, such that any device can sample from those new indices, pulling that data efficently without conflict.
 >
-> To do: write this without Michael Scott in my head causing the writing to be much stupider than me and "not explain clearly how big the contributions were, even for a long timespan." (...and explain clearly).
+> To do: write this without Michael Scott in my head causing the writing to be much stupider than me and "not explain clearly how big the contributions were, even for a long timespan." (...and explain clearly)
 >
 > Wernicke's and Broca's area create systems of actual opposition in a person's own linguistics. In this case, Psyche is very likely the linguistic. Or the context of GitHub. But most likely Michael.
 
