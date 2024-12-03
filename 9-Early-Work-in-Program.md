@@ -11,8 +11,10 @@
 ## Long-Term Memory
 **2018 - today**
 
-## Reinforcement Learning Episodic Control, Algorithms, Vision Architectures, and Generalization Across Environments
+## Reinforcement Learning Neural Episodic Control Algorithms, Vision Architectures, and Generalization Across Environments
 **2017 - today**
+
+> I Should probably elaborate elsewhere all the other RL algorithms I either came up with, or implemented during my PhD, "on the side" since nobody at U of R studies RL
 
 ## ChatGPT Underlying Method Innovation (Long Before Time Innovation of Underlying Method of MHDPA)
 **2018**
