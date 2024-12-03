@@ -170,6 +170,11 @@ My uncle Slava was the first of my grandparents' descendants to be born, followe
       - "Life ruined" post
       - House on May St.
 - [**Early Work in Program**](9-Early-Work-in-Program.md)
+    - Disease Prediction
+    - Persistent Biologically-Inspired RNN Cell
+    - Long-Term Memory
+    - Reinforcement Learning Vision Architectures, and Generalization Across Environments
+    - ChatGPT Underlying Method Innovation (Long Before Time Innovation of Underlying Method of MHDPA)
 - [**Thesis**](Thesis.md)
     - Credits
     - Epilogue
