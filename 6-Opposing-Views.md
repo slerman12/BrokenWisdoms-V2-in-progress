@@ -294,7 +294,7 @@ I had to retake a grad-level systems class, on account of getting a tiny fractio
 >
 > I built the first parallelized sampler for reinforcement learning that does sampling without replacement, which is algorithmically better in supervised learning. It supports curriculum learning, and is part of a concrescent framework supporting also generative modeling, real-time online or offline RL, and every other training paradigm. It also supports custom sampling methods, definable as if one were defining for an unparallelized framework.
 >
-> It's a paralellization and training system that is built in general multi-purpose uses.
+> It's a paralellization and training system that is built to be usable and used for any, general-purpose use.
 >
 > In reinforcement learning, this is a big change from the baseline algorithm, DrQV2, since that algorithm requires some minimum number of workers, and doesn't generalize to no-parallelization, nor support different sampling strategies with parallelization. Mine does all of that, with no loss in performance. It's a huge amount of systems work to build a new parallelization algorithm.
 >
