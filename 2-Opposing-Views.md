@@ -17,7 +17,7 @@
 - **University-hospital doctor**
 - **University-owned drug deliverer**
 
-## Eczema at Infancy
+## Severe Eczema Since One and a Half
 
 <!--
 From as early as a month and a half old, I suffered from severe eczema. The itching took hold of me like an uncontrollable force, and I scratched until my skin bled. It was a constant cycle: scratching, crying, scratching, crying. My mother had to wrap cloths around my hands, a shirt with the hands covered, just so I wouldn’t tear at myself and bleed.
