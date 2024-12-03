@@ -2,7 +2,7 @@
 
 # Part 1 
 
-## Right to talk about suicide seriously
+## Right to Talk About Suicide Seriously
 
 Most people seriously considering suicide can't talk about it, not unless they bury the very-conscious awareness of the standard medical policy of hospitalization and drugging. The more seriously somebody genuinely needs to talk about their depression amid a genuine imminent plan, the less they standardly can without risking the security of their plan. Suicide is legal in New York State, but so are coerced hospitalizations and drugging, threatening people into withholding communicating the severity of their suffering. 
 
@@ -36,7 +36,7 @@ Here is my favorite Shakespeare sonnet:
 > &ensp;&ensp;&ensp;&ensp;&ensp; - Sonnet 66, Shakespeare.
 
 > [!NOTE]
-> ### Academia & medicine
+> ### Academia & Medicine
 > 
 > The relevance of "Art made tongue-tied by authority and folly, doctor-like controlling skill" is impossible to communicate. It's no coincidence that "doctor-like" is the simile Shakespeare turned to, as that is the perfect description of the kind of authority he refers to, which governs, not just Chenliang's group, but most of the university, academia, and — most un-medically — medicine. 
 >   
@@ -93,7 +93,7 @@ Here is my favorite Shakespeare sonnet:
 > 
 > "And strength by limping sway disabled," as I limp, literally, to walk, from the eczema on my legs, as caused throughout my PhD by anxiety, and in my words, trying through repeated disappointing edits to describe the faith forsworn and right perfection disgrace'd while I was coerced, abused ("treated") (with hair loss, benzo gargling, clinical abuse, and more repeated hair losses), and worked there.
 >
-> ### Love & loneliness
+> ### Love & Loneliness
 >
 > My mom told me the Russian translation of this sonnet translates the last line to mean, that there is somebody in the narrator's life, for him, for whom he still has reason to live.
 >
@@ -203,13 +203,13 @@ Screenshots
 
 # Part 2
 
-## Comedic Aside: Sexier moments during Chenliang advising:
+## Comedic Aside: Sexier Moments During Chenliang Advising:
 
 Got to message someone named Psyche a week after my Psyche-CAM paper who reached out to me on Facebook who turned out to be a cam-girl (["Psyche-CAM"](https://arxiv.org/abs/2006.08601))… 
 - She started interacting with me one week after I archived my ["Psyche-CAM"](https://arxiv.org/abs/2006.08601) paper summer 2020, my first-ever published paper. She told me about a similar trauma she went through on the same Christmas, 2018 night, together with her *bald Jewish* husband (who she was married to at the time). After intensely flirting with me and telling me she loved me, including at one point offering to pay for my plane tickets to fly to her (which I couldn't do because of an eczema outbreak that coincided during the late summer), she lost interest in me and increasingly made clear that she was seeing other guys.
 
 > [!WARNING]
-> ### Psyche hospitalization
+> ### Psyche Hospitalization
 >  
 > I felt something drained out of my soul. I was so devastated. After a period of continued intense discipline, intensified yoga exercise and calisthenics, coping in denial with [music that reminded me of her](https://open.spotify.com/playlist/2XhzJmfX4I59YfEQQfA3Xq?si=4a327c3a8fb04cfb), even fasting, and gradually starting to observe those Kundalini physical sensations again (quite notably, that I talked about it to my mom as I was going through this), I got hospitalized again in early October. That was the hospitalization that I resisted with combative attempts by fighting the police while I was in the grass where I was having a kind of spiritually-guided breakdown. The amount of mourning I was feeling can't be described, and it wouldn't stop for long after this. And it was through that hospitalization I got her back — temporarily. In the beginning journey of that hospitalization, I observed myself seeming convinced by the possibility that I was going through different dimensions, but I believed that they were all one dimension, one consistent reality, that I held faith to, the same rational one that I always knew, literally. But the meaning of that, interpreting years later like a kind of dream interpretation, could be varied. One is that I was losing my world because I was losing Psyche. My psychology was somehow intrinsically linked to that relationship, through our conversations and linguistics. Another, more Hallmark-card one (that is perhaps a bad-taste Christmas pun), is that I had gone "crazy for her," but literally. And that's true also. Another is about the nature of flirting and communication. The many dimensions and ambiguities of flirting, linguistics, phonetics and other symbolism. Yet another is that Psyche sent me a lot of messages, and now the universe was about to do the same.
 >
