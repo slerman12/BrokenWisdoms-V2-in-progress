@@ -169,28 +169,10 @@ My uncle Slava was the first of my grandparents' descendants to be born, followe
       - Michael Scott’s paper factory
       - "Life ruined" post
       - House on May St.
-  - Thesis
-    - [Early work in program](5-Early-work-in-program.md)   
-      - Part 6
-    - [Indebted](6-Indebted.md)   
-      - Part 6 (Continued)
-  - [Ongoing](7-Ongoing.md)
-    - Part 7
-      - Email: 02/07/2024
-      - Email: 02/07/2024
-      - Email: 02/09/2024
+  - [Early work in program](9-Early-Work-in-Program.md)   
+  - [Thesis](Thesis.md)
     - Credits
     - Epilogue
-      - Reminder of context mentioned in first disproof
-      - Definitions
-        - (1) Necessity of support set.
-      - Propositions
-        - (1) Goodness, truth, and sufficiency.
-        - (2) Student's negligence.
-        - (3) PhD student handbook.
-      - Disproofs
-        - (1) Propositions 1 or 2. 
-        - (2) Proposition 3.
       - Conclusion
       - Dialogue of the Congress 2
 
