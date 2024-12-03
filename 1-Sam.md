@@ -1,4 +1,4 @@
-> Every part of this book is true.
+Every part of this book is true.
 
 # <p align='center'> 𖥸 Broken Wisdoms</p>
 
