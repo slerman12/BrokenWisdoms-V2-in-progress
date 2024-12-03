@@ -298,7 +298,7 @@ I had to retake a grad-level systems class, on account of getting a tiny fractio
 >
 > In reinforcement learning, this is a big change from the baseline algorithm, DrQV2, since that algorithm requires some minimum number of workers, and doesn't generalize to no-parallelization, nor support different sampling strategies with parallelization. Mine does all of that, with no loss in performance. It's a huge amount of systems work to build a new parallelization algorithm.
 >
-> I more than satisfied Chris Kanan's request for a novel RL systems algorithm.
+> I more than satisfied Chris Kanan's request for a novel RL systems algorithm. The algorithm itself, "sampling without replacement," is novel for RL too and has many challenges, like the added data needing new indices across all of the devices, such that any device can sample from those new indices, pulling that data efficently without conflict.
 >
 > To do: write this without Michael Scott in my head causing the writing to be much stupider than me and "not explain clearly how big the contributions were, even for a long timespan." (...and explain clearly).
 >
