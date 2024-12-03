@@ -176,7 +176,7 @@ My uncle Slava was the first of my grandparents' descendants to be born, followe
       - Conclusion
       - Dialogue of the Congress 2
 
-- **Philosophy**
+- [**Philosophy**](https://github.com/slerman12/BrokenWisdoms-V2-in-progress/tree/main/Philosophy)
   - [Consciousness](Philosophy/Consciousness.md)
   - [Cosmogenesis Myth](Philosophy/Cosmogenesis-Myth.md)
     - Archetypal Madness
