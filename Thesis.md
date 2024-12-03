@@ -1,6 +1,6 @@
 2020 - 2023
 
-> So what, just gonna ignore **UnifiedML, XRD project, 2 publications, evolutionary learning algorithms, Visio-Relational Perceiver, real-time RL robotics, and GATO/JEPA type framework** before either were proposed?
+> So what, just gonna ignore **UnifiedML, XRD project, 2 publications, grants, evolutionary learning algorithms, Visio-Relational Perceiver, real-time RL robotics, and GATO/JEPA type framework** before either were proposed?
 
 Fully implemented on my GitHubs and elaborated on as much as humanly possible in a microsecond timespan to the committee, by the video meeting, many slides, and long emails. I'm not qualified. They want certain formalities that look like the scientific method, without actually noticing that more of the actual substance was delivered them than from any other student. There are no RL experts in U of R. There weren't deep learning experts there. They doubted me my whole PhD, as stated even by the best faculty member, Henry Kautz, on email record, having discouraged me from studying MHDPA in 2018. Until the 2020s, most faculty at the U of R still thought deep learning was a fad. The new ones are superficially interested in structures that look like the scientific method, but dismiss the ones that sound too big and too good to be true, because the structures they use don't account for exceptional work. All of them arrived late. None of them are qualified to mentor or evaluate me.
 
