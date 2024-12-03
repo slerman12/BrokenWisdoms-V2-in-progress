@@ -49,7 +49,7 @@ The shaman somehow knew that we were immigrating. My mom didn't know how. She th
 
 <!--The shaman somehow knew that we were immigrating. Maybe Shafkad told him — somehow he knew. My mom didn't know how.-->
 
-## Induced Hair Loss <!--(*fellowship with man*)-->
+## University of Rochester Induced Hair Loss <!--(*fellowship with man*)-->
 
 In the summer immediately at the head of my first year as a PhD student, my university-hospital doctor Lisa Beck prescribed a medication called Dupilumab. It's a biologic agent that one injects into their stomach that laser-targets a specific antibody associated with eczema. My eczema was severe and debilitating. Some time into taking the medication—I think maybe 8 months—my university-provided health insurance Aetna **cut me off from the drug without warning. I wasn't notified by Aetna or my doctor, or the university-owned hospital**, but by the university-owned intermediary deliverer, who was responsible for delivering the drug on a recurring basis to my doorstep, since it can't—or at least at the time couldn't—be provided for pick-up at a pharmacy. They called me and told me they couldn't reach my doctor, but for some reason Aetna had decided to no longer cover the prescription. 
 
