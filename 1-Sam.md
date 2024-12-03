@@ -151,7 +151,7 @@ My uncle Slava was the first of my grandparents' descendants to be born, followe
       - Summary of why interim
       - Email: 10/31/2023
       - Conclusive disproof
-- [**Faith**](4-Faith.md)
+- [**Holy Faith**](4-Faith.md)
     - Part 5
       - Right to talk about suicide seriously 
         - Academia & medicine
