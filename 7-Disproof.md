@@ -333,13 +333,7 @@ $\vert x \vert > 0$.
 
 ## Disproofs
 
-### (1) Propositions 1 or 2. 
-
-Goodness, truth, and sufficiency; or student's negligence.
-
-**Disproved in [first disproof](3-Disproof.md).**
-
-### (2) Proposition 3. 
+### Proposition 3. 
 
 $\vert x \vert > 0$.
 
