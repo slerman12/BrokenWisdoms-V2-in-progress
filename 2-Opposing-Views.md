@@ -518,6 +518,6 @@ But, in case the detail was missed ("since chunks of it were falling out again i
 
 Despite my self-consciousness, for the most part, I didn't wear a hat during that hospitalization, so many people saw my head. My mom said, "I didn't think you need it" over the phone when I got mad at her for not dropping it off when she dropped off one steak in a plastic Tupperware. I was lectured about not eating enough carbs (which steak doesn't have) by one of the hospital staff. They required I eat carbs for me to be discharged, since they <!--said-->decided my diet, was why I was being held<!--, and specifically that my mom told them I wasn't eating enough (which she denied)-->. <!--This requirement was already after the week in the enclosed-dungeon area.-->
 
-My hair was falling into my hands again in the [geriatric unit in December, 2020](#geriatric-unit-hospitalization), most likely because of the practices in that coerced hospital stay or the temporary dietary consequences of the previous coerced hospital stay.
+My hair was falling into my hands again in the [geriatric unit in January, 2021](#geriatric-unit-hospitalization), most likely because of the practices in that coerced hospital stay or the temporary dietary consequences of the previous coerced hospital stay.
 
 That sudden hair regrowth was, miraculously, more than 2 years after the Dupilumab cessation that induced the Alopecia Universalis, and covered my head. 
