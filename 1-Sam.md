@@ -38,7 +38,7 @@ My uncle Slava was the first of my grandparents' descendants to be born, followe
 
 - [**Opposing Views**](2-Opposing-Views.md)
     - Part 1 (University-provided health insurance (Aetna), University-hospital doctor, University-owned drug deliverer)
-      - Eczema at Infancy
+      - Severe Eczema Since One and a Half
       - Induced Hair Loss <!--(*fellowship with man*)--><!-- - Premonitions--> <!-- - Suing of Samarkand (*litigating the Republican elephant in the room*, which I don't think is an I Ching hexagram)-->
       - Foreboding Electric Razor
     - Part 2 (University-hospital psychiatrists (two), University outpatient doctor) <!-- - Electric razor (more premonitions)-->
