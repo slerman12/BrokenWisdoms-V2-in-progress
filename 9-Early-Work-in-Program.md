@@ -11,8 +11,8 @@
 ## Long-Term Memory
 **2018 - today**
 
+## Reinforcement Learning Episodic Control, Algorithms, Vision Architectures, and Generalization Across Environments
+**2017 - today**
+
 ## ChatGPT Underlying Method Innovation (Long Before Time Innovation of Underlying Method of MHDPA)
 **2018**
-
-## Reinforcement Learning
-**2017 - today**
