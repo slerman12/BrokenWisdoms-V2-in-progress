@@ -288,6 +288,8 @@ Partitioning a changing dataset across multiple parallel devices, and keeping tr
 
 I built the first parallelized sampler for reinforcement learning that does sampling without replacement, which is algorithmically better in supervised learning. It supports curriculum learning, and is part of concrescent framework supporting also generative modeling, real-time online or offline RL, and every other training paradigm. It also supports custom sampling methods.
 
+It's a paralellization and training system that is built in general multi-purpose uses.
+
 In reinforcement learning, this is a big change from the baseline algorithm, DrQV2, since that algorithm requires some minimum number of workers, and doesn't generalize to no-parallelization, nor support different sampling strategies with parallelization. Mine does all of that, with no loss in performance. It's a huge amount of systems work to build a new parallelization algorithm.
 
 I more than satisfied Chris Kanan's request for a novel RL systems algorithm.
