@@ -1,3 +1,5 @@
+2020 - 2023
+
 > So what, just gonna ignore UnifiedML, evolutionary learning algorithms, Visio-Relational Perceiver, real-time RL robotics, and GATO/JEPA type framework before either were proposed?
 
 # $\mathfrak{Credits,}$ $\text{written by}$ $\mathcal{Frodo  \ Baggins}$ <sup> $(Sam)$ </sup>
