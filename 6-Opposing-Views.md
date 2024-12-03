@@ -292,7 +292,7 @@ I had to retake a grad-level systems class, on account of getting a tiny fractio
 >
 > Partitioning a changing dataset across multiple parallel devices, and keeping track of samples across all of them such that custom dataset-wide sampling algorithms, like the simple and novel sampling-without-replacement-in-RL one I made, so that they do not conflict, and keeping that efficient, using truly-shared RAM memory and memory mapping, was a big unsolved problem for me to come up with, solve, and fully program in 2 months.
 >
-> I built the first parallelized sampler for reinforcement learning that does sampling without replacement, which is algorithmically better in supervised learning. It supports curriculum learning, and is part of a concrescent framework supporting also generative modeling, real-time online or offline RL, and every other training paradigm. It also supports custom sampling methods.
+> I built the first parallelized sampler for reinforcement learning that does sampling without replacement, which is algorithmically better in supervised learning. It supports curriculum learning, and is part of a concrescent framework supporting also generative modeling, real-time online or offline RL, and every other training paradigm. It also supports custom sampling methods, defineable as if one were defining for an unparallelized framework.
 >
 > It's a paralellization and training system that is built in general multi-purpose uses.
 >
