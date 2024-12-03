@@ -294,6 +294,8 @@ In reinforcement learning, this is a big change from the baseline algorithm, DrQ
 
 I more than satisfied Chris Kanan's request for a novel RL systems algorithm.
 
+> To do: write this without Michael Scott in my head causing the writing to be much stupider than me and not explain clearly how big the contributions were, even for a long timespan.
+
 ## Tom Howard
 
 <p align="center">
