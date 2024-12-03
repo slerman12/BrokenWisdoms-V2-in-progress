@@ -284,9 +284,9 @@ I had to retake a grad-level systems class, on account of getting a tiny fractio
 
 In supervised learning, it's standard to sample from the dataset without replacement. This is easy to do for large datasets by parallelizing, multiple CPU workers pulling data from a fixed dataset. That isn't the case in reinforcement learning, where the dataset is online, meaning it grows, it changes, data can be added, updated, or deleted. This also isn't necessarily easy to do, with parallelization, in curriculum learning. <!--To my knowledge, there wasn't a precdent for that in the latter. At time of implementation, there wasn't a precedent for that in RL, the domain in which I evaluated.-->
 
-I built the first parallelized sampler for reinforcement tha tdoes sampling without replacement, which is algorithmically better in supervised learning.
+I built the first parallelized sampler for reinforcement learning that does sampling without replacement, which is algorithmically better in supervised learning. It supports curriculum learning, and is part of concrescent framework supporting also generative modeling, real-time online or offline RL, and every other training paradigm.
 
-In reinforcement learning ,this is a big change from the baseline algorithm, DrQV2, since that algorithm requires some minimum number of workers, and doesn't generalize to no-parallelization, nor support different sampling strategies with parallelization. Mine does all of the above, with no loss in performance. 
+In reinforcement learning, this is a big change from the baseline algorithm, DrQV2, since that algorithm requires some minimum number of workers, and doesn't generalize to no-parallelization, nor support different sampling strategies with parallelization. Mine does all of that, with no loss in performance. It's a huge amount of systems work to build a new parallelization algorithm.
 
 ## Tom Howard
 
