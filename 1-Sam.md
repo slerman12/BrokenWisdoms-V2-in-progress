@@ -176,7 +176,7 @@ My uncle Slava was the first of my grandparents' descendants to be born, followe
     - Reinforcement Learning Vision Architectures, and Generalization Across Environments
     - ChatGPT Underlying Method Innovation (Long Before Time Innovation of Underlying Method of MHDPA)
 - [**Thesis**](Thesis.md)
-    - More Unappreciated Years of Work
+    - (More) Unappreciated Years of Work
       - UnifiedML
       - XRD Project
       - 2 Publications
