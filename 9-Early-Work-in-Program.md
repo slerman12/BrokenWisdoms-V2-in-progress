@@ -13,3 +13,6 @@
 
 ## ChatGPT Underlying Method Innovation (Long Before Time Innovation of Underlying Method of MHDPA)
 **2018**
+
+## Reinforcement Learning
+**2017 - today**
