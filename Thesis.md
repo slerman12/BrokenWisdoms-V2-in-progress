@@ -2,6 +2,8 @@
 
 > So what, just gonna ignore UnifiedML, evolutionary learning algorithms, Visio-Relational Perceiver, real-time RL robotics, and GATO/JEPA type framework before either were proposed?
 
+Elaborated on in Opposing Views and fully implemented on my Githubs, as well as, as much as humanly possible to the committee, by the video meeting, many slides, and long emails. They don't understand. They want certain formalities that look like the scientific method, without actually noticing that more of the actual substance was delivered them than from any other student.
+
 # $\mathfrak{Credits,}$ $\text{written by}$ $\mathcal{Frodo  \ Baggins}$ <sup> $(Sam)$ </sup>
 
 My mom: **Pippin, or Tom Bombadil**
