@@ -268,6 +268,8 @@ Later, my best friend returned, literally. We were texting and he remarked, with
 
 That was a small amount of evidence that some communication, message-passing (without known mechanical means), happened non-locally, but I think the message is about trust and medical institutions.
 
+Perhaps how quickly people will turn on somebody, as if to medicate or treat them, when that person is extremely innocent.
+
 # Synchronicities (Part 3)
 
 > To do: List all of them here, including the many already mentioned and new ones previously not mentioned that add to the book's quality
