@@ -354,7 +354,7 @@ Not that my lucidity needed further evidence, but I explained the methods of lat
 >
 > In the age of automation.
 >
-> Metrics are threats and shouldn't be used until the kid is properly an adult.
+> Metrics are threats and shouldn't be used with lifelong negative consequences until the kid is properly an adult.
 >
 > Anyway, *Mobi was given benzos for years.*
 
