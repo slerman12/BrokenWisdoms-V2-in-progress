@@ -8,6 +8,10 @@ $$\mathcal{\text{a} \ Sam \ Lerman \ hobbit\text{'s} \ tale} $$
 
 # Prologue
 
+## $\mathbf{Dialogue \ of \ the \ Congress \ \text{1}}$
+
+&ensp;&ensp;&ensp;"Who is Sam?" the Congress asks.</br>&ensp;&ensp;&ensp;&ensp;&ensp;The stenographer checks the print. "The records read: \``A not-bald, not-especially-traumatized PhD student in artificial intelligence.`\`"
+
 ## War
 
 When the Nazis came to Ukraine, they did not arrive as strangers. Long before their boots touched the soil, there were those among the Ukrainians who already shared their hatred for the Jews. The Jews of Ukraine—Ashkenazi Jews, like my family—were rounded up, tortured, and murdered in cold blood, their bodies left to rot in piles. My grandfather, Yury, was just thirteen when he fled the carnage with his mother, Maná, and his younger sister, Rosá, escaping eastward to the relative safety of Kazakhstan. When the war finally ended, they returned to Chernihiv, where they found Yakob, Yury’s father, who had been drafted to fight for Ukraine. He had survived the war, and the years of separation of the wife and children from the father were finally at an end.
