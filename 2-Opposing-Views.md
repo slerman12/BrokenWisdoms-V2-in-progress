@@ -498,7 +498,7 @@ I experienced big improvements to my cognition, energy, and mood. <!--In particu
 
 2 years after no hair on my body, my head hair started growing back, strands and patches at a time<!--, coinciding with the observable physical and cognitive changes of that diet-->.
 
-In the hospitalization before the geriatric unit, Hospitalization 3, [Mobi](#Mobi) remarked on my hair when we saw a Duplumab commercial and I mentioned that the drug made me lose my hair ("oh that's why," since it still looked odd not having grown back in parts). 
+In the hospitalization before the geriatric unit, Hospitalization 3, [Mobi](#Mobi) remarked on my hair when we saw a Duplumab commercial and I mentioned that the drug made me lose my hair ("oh that's why," he said, since it still looked odd not having grown back in parts). 
 
 I was walking around bravely sometimes, past all the nurses and patients, from my room to the phone without hat. 
 
