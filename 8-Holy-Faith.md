@@ -105,7 +105,7 @@ Here is my favorite Shakespeare sonnet:
 >
 > This sonnet expresses a tragedy, of someone who has so much love and passion — and it's wasted.
 >
-> Another interpretation is that his love is tied to a soulmate who he is separated from. I like that interpretation, too, but that would be a fast thematic divergence from the <!--rest of the -->sonnet's conveyed theme.
+> Another interpretation is that his love is tied to a soulmate who he is separated from. I like that interpretation, too, but that would be a fast thematic divergence from the rest of the sonnet's conveyed theme.
 >
 > Every other interpretation, besides this literal one, is wrong in some way that I can specify if they're listed. In short, they diverge from the commentary of the sonnet and undermine the narrator's struggle.
 
