@@ -345,4 +345,4 @@ $\rightarrow |x| = 0$
 
 $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
-Their reason for terminating my status as an employee was that I allegedly violated <!--a policy in--> the PhD student handbook. Here is a proof, derived mathematically, that they have violated and are currently violating <!--a policy in--> the PhD student handbook. 
+Their alleged reason for terminating my status as an employee was that I violated <!--a policy in--> the PhD student handbook. Here is a proof, derived mathematically, that they have violated and are currently violating <!--a policy in--> the PhD student handbook. 
