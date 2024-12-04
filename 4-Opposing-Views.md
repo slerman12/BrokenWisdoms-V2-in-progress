@@ -31,7 +31,7 @@ It was a lot of work, but concurrently, amid yet-other grad-level courses, I wor
 But a strong interest or fascination with MHDPA, in 2018, didn't come by accident. Today, people who've heard of MHDPA have heard of it because of transformers, like the kind that underpins ChatGPT. In 2018, even an NLP professor whose students worked with deep learning models, including sequence-to-sequence attention models, as Dan was, was unlikely to have heard of transformers, let alone MHDPA, and of course Henry for that matter, since his background was in symbolic AI, and included little, if any, deep learning experience.
 <!-- , and it was notable enough that he was one of the tenured professors in the CS department who believed deep learning wasn't a fad. -->
 
-> How do I edit in an important quote from my advisor. My own consciousness won't even let me read my own chapter after adding this quote. Is there something in the Wernicke and Broca's areas that makes this the case?
+> How do I edit in an important quote from my advisor. My own consciousness won't even let me read my own chapter after adding this quote. Is there something in the Wernicke and Broca's areas that controls me / makes this the case?
 
 Henry was worried I was going to do the entire PhD "by yourself," and by email, slightly different connotation, but he wrote, "The only thing I'm worried about on your behalf is that there is no one in Rochester who knows enough about deep learning to mentor you."
 
