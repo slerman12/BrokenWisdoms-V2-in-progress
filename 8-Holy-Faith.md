@@ -268,6 +268,8 @@ Later, my best friend returned, literally. We were texting and he remarked, with
 
 That was a small amount of evidence that some communication, message-passing (without known mechanical means), happened non-locally, but I think besides the physics one, the message is about trust and medical institutions, how quickly people will turn on somebody, as if to medicate or treat, when that person is extremely innocent, is more righteous, more doing the right thing, inflictions of insidious atrocity needing more attention/priority, or a disambiguation of fundamental principles that should be in the moral intelligence of people around coercion, repression, and processes of identity transformation. But also something optimistic, that, for the most part, people don't turn on somebody for hard-to-describe behavior that is done in exactly the right Jesus-y way (with "flying colors"). But that way is rare and hard to convey, 24/7, in writing.
 
+Anyway, that was my crime. It followed after all of the actual crimes on me, it wasn't a crime, nobody acused me of anything except that man who lectured me about respecting women, and I was the only victim. Well, my mom and I. Every pain on me is pain on her.
+
 # Synchronicities (Part 3)
 
 > To do: List all of them here, including the many already mentioned and new ones previously not mentioned that add to the book's quality
