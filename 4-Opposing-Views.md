@@ -71,6 +71,8 @@ I was going deeper and deeper into a psychotic state, both of (a) brilliant awar
 
 ### Tao as the Optimization of a Differentiable Universe
 
+> I wrote a longer summary of this that feels better written, but neither are the consciousness that would express this
+
 Since my realization that the physics of the universe could be intelligent, plausibly, through the sampling mechanisms in quantum physics' probabilistic nature, and together with the acute state of consciousness I acquired through meditation, including the physical sensations in my esophagus and within my body that I had acute control of, as well as those viscera sensations I experienced in yoga, I was highly conscious of a force in my body that I could guide, but also that seemed to have some guidance of me. This guidance, I interpreted as Tao, the universe's natural changes, the universe's natural erosions. But those changes and erosions don't always feel like that, as guidances, so specifically, I thought the state of consciousness I was experiencing, the same one with which I found the I Ching's answers to be improbably precise to my questions, had some mechanism tied to the physics of Tao, that they were not just in tune with arbitrary changes, but specific changes, that the Tao intended. Specifically, I realized that the Tao is optimizing the universe, and that the universe might be "differentiable," but that some states of consciousness might be "more differentiable" than others, more in line with the Tao's ability to predict and plan.
 
 But some of these guidances were more sensible than others. Perhaps some were Tao, and others, in the I Ching's language, were "grace."
