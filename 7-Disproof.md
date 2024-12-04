@@ -319,11 +319,11 @@ That is the empty set, as described in the <!--$\color{#7B52D7} \textbf{&#9432;}
 
 #### (1) Goodness, truth, and sufficiency.
 
-Suppose some reasons they had for terminating me were good, true, and sufficient. ([False, but assume true](6-Opposing-Views.md)).
+Suppose some reasons they had for terminating me were good, true, and sufficient. ([False](6-Opposing-Views.md), but assume true).
 
 #### (2) Student's negligence.
 
-Suppose I didn’t do something they suggested, requested, or required of me, that I still could've in context. ([False, but assume true](#slavery-or-impossible)).
+Suppose I didn’t do something they suggested, requested, or required of me, that I still could've in context. ([False](#slavery-or-impossible), but assume true).
 
 #### (3) PhD student handbook.
 
