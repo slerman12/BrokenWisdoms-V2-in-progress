@@ -48,15 +48,14 @@ Most people get into those positions through natural memorization ability, or ob
 
 In med school, the ability to memorize which prescriptions correspond to which diagnoses, and which diagnoses correspond to which symptoms, and which anatomical events correspond to which symptoms, is something ChatGPT-like AIs can pass [exceptionally](https://arxiv.org/abs/2404.18416), with [even better bedside manner](https://www.nature.com/articles/d41586-024-00099-4).
 -->
-<!--
+
 > The transition from the previous paragraph to the next one sounds maybe-unnatural due to the subtext of the previous one, being some good achievement on my part, not being subtextually critiqued. Or that's maybe why it sounds unnatural. Really, I just can't read the next paragraph easily anymore. Pehaps the Wernicke and Broca's areas can decrypt a reason why, so that the flow of this chapter that I wrote is readable to my own eyes again, after the tracked corrections I made to the earlier paragraphs wherein the same linguistic phenomena happened where my eyes didn't read anymore, and I wrote:
 >
 > How do I edit in an important quote from my advisor. My own consciousness won't even let me read my own chapter after adding this quote. Is there something in the Wernicke and Broca's areas that controls me?
 >
 > In [this commit.](https://github.com/slerman12/BrokenWisdoms-V2-in-progress/blob/0544ed27a856111e0f519c1764d70c213d2a064e/4-Opposing-Views.md)
 
-I still don't know how to transition to the next part, and had to add that grey portion back in because I somehow removed it in [this commit](https://github.com/slerman12/BrokenWisdoms-V2-in-progress/blob/0051d6c73147f56fa7815206f725a76cbb71bd95/4-Opposing-Views.md) without noticing.
--->
+I still don't know how to transition to the next part, and had to add that grey portion back in because I somehow removed it in [this commit](https://github.com/slerman12/BrokenWisdoms-V2-in-progress/blob/0051d6c73147f56fa7815206f725a76cbb71bd95/4-Opposing-Views.md) without noticing. This sounds like Chenliang taking credit for my memory:
 
 I went to a conference that year, NeurIPS, 2018, in Montreal. At the time it was called "NIPS, 2018." I met the DeepMind researcher Ryan Faulkner, who co-authored the [RNN memory](https://arxiv.org/abs/1806.01822) paper, that innovated on the RNN cell by applying internally the MHDPA method, who was so impressed with me, perhaps because of the really-concept-understanding comment I made at his poster session about disentangling something in their memory cell to improve their method (independent to what I'd been researching, completely to do with his method), that he invited me to lunch, and during lunch, as we were talking, he said he would recommend me to a position at DeepMind if I applied, back in 2018. 
 
