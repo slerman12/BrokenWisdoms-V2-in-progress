@@ -264,7 +264,7 @@ The theme of my best friend returned in the next hospitalization, in the geriatr
 
 It's the delusion that doctors and hospitals are trying to heal. However, in that example, it was the doctors and hospital who were creating a Hell, and the delusion was the only healing part of it. In that delusion, he was quite snarky.
 
-Later, my best friend returned, literally. We were texting and he remarked, without prompt, saying if he were a Devil, he'd be a "snarky Devil." He texted me that of his own accord, knowing nothing about the hospitalization, without context, no prompt.
+Later, my best friend returned, literally. We were texting and he remarked, without prompt, saying if he were a Devil, he'd be a "snarky Devil." He texted me that of his own accord, knowing nothing about the hospitalization, no context, without prompt.
 
 That was a small amount of evidence that some communication, message-passing (without known mechanical means), happened non-locally, but I think besides the physics one, the message is about trust and medical institutions, how quickly people will turn on somebody, as if to medicate or treat, when that person is extremely innocent, is more righteous, more doing the right thing, inflictions of insidious atrocity needing more attention/priority, or a disambiguation of fundamental principles that should be in the moral intelligence of people around coercion, repression, and processes of identity transformation.
 
