@@ -1,4 +1,4 @@
-> Essay I wrote ~6 years ago:
+> Essay I wrote [>7 years ago](https://www.facebook.com/share/p/15eA95NgUV/):
 ---
 
 At the core of my spirituality is the... observation... that humanity has severed its connection to nature.
