@@ -323,7 +323,7 @@ Suppose some reasons they had for terminating me were good, true, and sufficient
 
 #### (2) Student's negligence.
 
-Suppose I didn’t do something they suggested, requested, or required of me, that I could've. ([False, but assume true](#slavery-or-impossible)).
+Suppose I didn’t do something they suggested, requested, or required of me, that I still could've in context. ([False, but assume true](#slavery-or-impossible)).
 
 #### (3) PhD student handbook.
 
