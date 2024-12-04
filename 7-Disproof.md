@@ -288,7 +288,7 @@ Can edit to: [Here](https://github.com/AGI-init/UnifiedML/blob/ef14f7ff14b0b494d
 
 ## Disproof 7
 
-### <sub>🔎</sub> Context
+### <!--<sub>🔎</sub>--> Background
 
 > [!IMPORTANT]
 > The PhD student handbook has **only one clause of accountability** for the grad school, and it's to specify what the PhD student would need to do (without pay or support) for reinstatement:
@@ -313,7 +313,7 @@ Define the set of "what is necessary for reinstatement of support, indicated to 
 
 $x$ $\coloneqq$ $\emptyset$.
 
-That is the empty set, as described in the $\color{#7B52D7} \textbf{&#9432;}$ [context reminder](#-reminder-of-context-from-first-disproof). 
+That is the empty set, as described in the <!--$\color{#7B52D7} \textbf{&#9432;}$--> [Background](#background). 
 
 ### Propositions
 
