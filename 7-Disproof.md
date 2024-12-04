@@ -345,4 +345,4 @@ $\rightarrow |x| = 0$
 
 $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
-Their termination reason is allegedly that I violated a policy in the PhD student handbook. Here is a proof that they have violated and are currently violating a policy in the PhD student handbook. 
+Their reason for terminating my status as an employee was that I allegedly violated a policy in the PhD student handbook. Here is a proof that they have violated and are currently violating a policy in the PhD student handbook. 
