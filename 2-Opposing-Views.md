@@ -269,7 +269,7 @@ Symptoms from taking the benzos as prescribed included:
 
 Almost nearing Fall, 2019, I tried to kill myself. The helium tank connected to tubing was found by my mom, and my family hid it from me.
 
-A deeper summary of my benzo trauma can be found [here](#flying-colors). <!--[here](https://github.com/slerman12/BrokenWisdoms/blob/4399be6729f1369e27a3df35eef58fbfe94dcf23/2-Opposing-views.md#my-trauma).-->
+A deeper summary of my benzo trauma can be found [here](5-Opposing-Views.md). <!--[here](https://github.com/slerman12/BrokenWisdoms/blob/4399be6729f1369e27a3df35eef58fbfe94dcf23/2-Opposing-views.md#my-trauma).-->
 
 The experience of losing my hair has cost me relationships and worsened my social anxiety, and the benzo-brain damage and torture leaves me with PTSD.
 
