@@ -344,3 +344,5 @@ $x = \emptyset$. &nbsp; (Definition 1)
 $\rightarrow |x| = 0$ 
 
 $\quad \quad \ \ \not> 0$. &nbsp; $\square$
+
+The requirement for the make-up meeting is from the PhD student handbook, which according to their own termination reason, should result in their own termination. They have violated a policy in the PhD student handbook. 
