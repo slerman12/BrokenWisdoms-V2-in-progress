@@ -45,7 +45,7 @@ Here is my favorite Shakespeare sonnet:
 > I proposed these fundamental insights, and what methods would correspond to them, while they were still original or before they had appreciation:
 >
 > - (a) An agent "choosing" actions at first randomly in an environment, given "states" as input, remembering the actions chosen in a memory together with each state; then in future states, looking at those past actions, in memory, that corresponded to the most similar states to the current state, and taking the ones that got the highest environment rewards in the past, or, with some probability, exploring via taking random actions to get more state-action memory
->    - (relevant method examples: such as via K-nearest neighbors; symbolic and neural episodic control methods; parametrically rather than symbolically via RNNs or Decision Transformers),
+>    - (relevant method examples: such as via K-nearest neighbors; model-free episodic control; neural episodic control; fully-parametrically, as hypothesized methods of reasoning, rather than symbolically, in RNNs or Decision Transformers),
 > - (b) "similarity" as measurable by geometric distance between those numbers ("states") that represent input datapoints
 >    - (relevant method examples: such as via Euclidean distance, cosine distance, parametric distance),
 > - (c) decomposing those representations into representations of parts and relations
