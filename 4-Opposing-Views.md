@@ -35,7 +35,7 @@ But a strong interest or fascination with MHDPA, in 2018, didn't come by acciden
 
 Henry was worried I was going to do the entire PhD "by yourself," and by email, slightly different connotation, but he wrote, "The only thing I'm worried about on your behalf is that there is no one in Rochester who knows enough about deep learning to mentor you."
 
-> See [here](https://github.com/slerman12/BrokenWisdoms-V2-in-progress/blob/b14a0ce6316ddaaa80e59a41422cb8eeab6aede8/4-Opposing-Views.md) for edits I tried to make to this, before going with this paragraph, which still feels unsatisfactory but maybe allows the chapter to be readable:
+> See [here](https://github.com/slerman12/BrokenWisdoms-V2-in-progress/blob/b14a0ce6316ddaaa80e59a41422cb8eeab6aede8/4-Opposing-Views.md) for edits I tried to make to this, before going with this below paragraph, which still feels unsatisfactory but maybe allows the chapter to be readable:
 
 There was Chenliang Xu, a new faculty member, who taught my Machine Vision class while I lived in the [house on May St.](#house-on-may-st), and his class wasn't exceptional to my somewhat-extreme standards, but it was good, though that's perhaps because Computer Vision wasn't my main area of research and he adapted quickly to teaching deep learning methods, not just primarily classical. Dan Gildea also included deep learning material in his lectures. <!--In both cases, pretty preliminary, but still.--> Henry's still right, but there were professors teaching pretty preliminary deep learning.
 
