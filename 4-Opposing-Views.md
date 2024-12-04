@@ -53,7 +53,7 @@ I went to a conference that year, NeurIPS, 2018, in Montreal. At the time it was
 
 I was walking around Montreal with headphones in my ears, listening to Of Montreal by momentum from listening to it by coincidence before the conference, and working, working really hard, in my hotel there. There was a group chat for people visiting for the conference, and lots of social events that I missed. I wanted to go to a hot tub party, but ended up working. I wanted to go to "strip karaoke," but was practicing strict ascetic disciplines, and asked the I Ching. The I Ching gave a resounding no. On the floor of my hotel, I cast the Feng Shui coins, and got the ominous hexagram "Decrease," and to my regret (having never gone to anything like either of those things), I listened, stayed in isolation, and worked. The snow outside was beautiful, and at least I walked from time to time to explore and to get groceries. "Organic" food is apparently called "biologique" in French.
 
-I met Jürgen Schmidhuber in the conference itself, at his talk, was the last in line, had to wait longer than everybody, then talked to him a bit, he was friendly, and he shook my hand. It means a lot to me. I sent him a followup email; he replied. It means a lot to me too.
+I met Jürgen Schmidhuber in the conference itself, at his talk, was the last in line, had to wait longer than everybody, then talked to him a bit, he was friendly, and he shook my hand. I sent him a followup email, he replied, and it meant a lot to me.
 
 I was wearing a hat all through the conference, to cover up my baldness, that I still wasn't used to, and still am not. It was winter, and the winter hat didn't look too out of place. Early December, less than three weeks before my RGH hospitalization.
 
