@@ -349,7 +349,7 @@ Their alleged reason for terminating my status as an employee was that I violate
 
 #
 
-As of 12/04/2024, I have found page 15 removed from [their copy of the PhD student handbook](https://www.cs.rochester.edu/graduate/csgraduate-student-handbookrevformatoct24.pdf), and suspiciously modified on page 12. I've [attached the copy of the PhD student handbook from before](https://github.com/slerman12/BrokenWisdoms-V2-in-progress/blob/main/2023-v2_4-25-23_phd-handbook.pdf) in this repo (you have to press the download button in order to open it), as well as saved the current version that skips page 15, from page 14 to page 16, that I'll [attach](https://github.com/slerman12/BrokenWisdoms-V2-in-progress/blob/main/csgraduate-student-handbookrevformatoct24-12-04-2024.pdf) in this repo as well.
+As of 12/04/2024, I have found page 15 removed from [their copy of the PhD student handbook](https://www.cs.rochester.edu/graduate/csgraduate-student-handbookrevformatoct24.pdf), and suspiciously page 12 is modified. I've [attached the copy of the PhD student handbook from before](https://github.com/slerman12/BrokenWisdoms-V2-in-progress/blob/main/2023-v2_4-25-23_phd-handbook.pdf) in this repo (you have to press the download button in order to open it), as well as saved the current version that skips page 15, from page 14 to page 16, that I'll [attach](https://github.com/slerman12/BrokenWisdoms-V2-in-progress/blob/main/csgraduate-student-handbookrevformatoct24-12-04-2024.pdf) in this repo as well.
 
 (Press download button. GitHub doesn't always display long PDFs).
 
