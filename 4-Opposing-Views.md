@@ -55,7 +55,7 @@ In med school, the ability to memorize which prescriptions correspond to which d
 >
 > In [this commit.](https://github.com/slerman12/BrokenWisdoms-V2-in-progress/blob/0544ed27a856111e0f519c1764d70c213d2a064e/4-Opposing-Views.md)
 
-I still don't know how to transition to the next part, and had to add that grey portion back in because I somehow removed it in the last commit without noticing.
+I still don't know how to transition to the next part, and had to add that grey portion back in because I somehow removed it in [this commit](https://github.com/slerman12/BrokenWisdoms-V2-in-progress/blob/0051d6c73147f56fa7815206f725a76cbb71bd95/4-Opposing-Views.md) without noticing.
 
 I went to a conference that year, NeurIPS, 2018, in Montreal. At the time it was called "NIPS, 2018." I met the DeepMind researcher Ryan Faulkner, who co-authored the [RNN memory](https://arxiv.org/abs/1806.01822) paper, that innovated on the RNN cell by applying internally the MHDPA method, who was so impressed with me, perhaps because of the really-concept-understanding comment I made at his poster session about disentangling something in their memory cell to improve their method (independent to what I'd been researching, completely to do with his method), that he invited me to lunch, and during lunch, as we were talking, he said he would recommend me to a position at DeepMind if I applied, back in 2018. 
 
