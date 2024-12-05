@@ -292,7 +292,7 @@ But sports, like all of the games I invented (oh I also played basketball, did K
 
 Also, if you're gonna cancel that, I was a leftist before most of you hopped onto the 2015 bandbaggon, and watched as those of you hopped who would've argued with me in high school and early college.
 
-That doesn't sound good, but the truth of it is important.
+That doesn't sound good, but the truth of it is important, because track record means a person is actually reasoning based on their own fundamental principles.
 
 ### Medical "training coaches" or "wing men/women" to help motivate people to get out of bed, shower, and perhaps advise on fashion or hygiene, and to take people to social events, including bar type and night club type events, to help them socialize and meet people, and for that to become destigmatized and normalized
 
