@@ -285,10 +285,6 @@ Something against unfair villification. I gave this speech in my head earlier, i
 - Another point I made to Jordan Peterson specifically in my head, is: would he really care so much about the sports issue if every person on the left apologized to him, every day, about how he's not such a bad person and they were wrong to villify him? That would be pretty bad sport. I think his pathology is more to do with the culture of unfair villification, and that culture polarized him in such a way to nitpick for examples to critique the emblems of that culture. Those critiques are about symptoms or free market minutia.
 - The proportion/priority of the critiques arising from the free market of sports pales in comparison to those from the free market of war, disease, and environmental pollution (by the millitary industrial complex, big pharma, political and government corruption, and hugely-unchecked monopolies), and is a critique that I think emerges from a pathology that has an independent root problem. If his principle were fundamentally the need to regulate the free market in sports, more than 99% of his conversation would be about those other free market issues, if anti-free market was his main driving principle, but I think pathologically, his principle is about the specter of unfair villification.
 
-Kinda sad I didn't get to do as much of the childhood analogy as I did in my head. That sort of drove the middle of my head-speech into such a place where I had too much plot armor for anybody on any side to disagree.
-
-Fuck you all
-
 ### Medical "training coaches" or "wing men/women" to help motivate people to get out of bed, shower, and perhaps advise on fashion or hygiene, and to take people to social events, including bar type and night club type events, to help them socialize and meet people, and for that to become destigmatized and normalized
 
 Socialization Workers.
