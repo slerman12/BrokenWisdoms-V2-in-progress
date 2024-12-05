@@ -282,7 +282,7 @@ I had to retake a grad-level systems class, on account of getting a tiny fractio
 
 ### Sampling Without Replacement in RL Description
 
-> To do: Summarize this without out-of-context linguistic intervention
+> To do: Summarize this without out-of-context linguistics
 
 In supervised learning, it's standard to sample from the dataset without replacement. This is easy to do for large datasets by parallelizing, multiple CPU workers pulling data from a fixed dataset.
 
