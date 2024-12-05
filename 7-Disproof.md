@@ -357,4 +357,4 @@ As of 12/04/2024, I have found page 15 removed from [their copy of the PhD stude
 
 “When withdrawing support, the faculty will indicate to the student, in writing, what is necessary for reinstatement of support.” - [PhD student handbook, page 15](https://github.com/slerman12/BrokenWisdoms-V2-in-progress/blob/Ancillary/2023-v2_4-25-23_phd-handbook.pdf).
 
-I wasn't going to call for their termination, but if they have fabricated their own policy, then I call for their termination.
+I wasn't going to call for their termination, but if they have fabricated their policy, then I call for their termination.
