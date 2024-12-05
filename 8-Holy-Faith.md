@@ -300,7 +300,7 @@ Socialization Workers.
 
 Might even save them money, actually.  
 
-I elaborated on this [earlier](6-Opposing-Views.md#factory-food). 
+Elaboration [here](6-Opposing-Views.md#factory-food)<!-- and [here](https://github.com/slerman12/Governance-original-and-for-future-editing/blob/main/Does-Nature-Endorse%3F.md#healthcare)-->. 
 
 ### Marriage Counselors For Arbitrary Pairs of People
 
