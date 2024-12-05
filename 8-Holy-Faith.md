@@ -260,7 +260,7 @@ Less metaphysical or speculative. Actually concrete and brilliant things. That m
 
 For reference, I have an actual unification of general relativity and quantum mechanics, including the math, but math is useless without words. But that's also not what I'm referring to here. I have actual medical solutions and specific therapies and unifications of cultural disputes I'd like to elaborate on well, and even wars, including Israel-Gaza and Russia-Ukraine, but I need *really* good linguistics for that, and for the parts concerning me (credit for things I've already though, figured out, and done, in order of priority and proportion to bringing justice to the severely unjust conditions of my life currently) to be written first since I don't have a job! Instead risky stuff like these chapters that I've edited to literal pain to make good, and that still doesn't negate them being risky to my life rather than in any way beneficial. Linguistics fillibuster and pork barrel. The brain has governing parts that at least emulate others and regulate us, for tribal symbiosis, but that doesn't work so well when the system is extremely unjust and the standardizations and civilization is nothing like primal society, so the "government" of the brain (the "Gods") fillibuster and pork barrel, when that system reflects the worst of itself on a person. 
 
-“it” not referring to the Dao or Sam Lerman
+“it” not referring to the Tao or Sam Lerman
 
 
 
