@@ -258,7 +258,7 @@ I have many other things I'd rather be writing about that are actively, physical
 
 Less metaphysical or speculative. Actually concrete and brilliant things. That my words obstruct.
 
-For reference, I have an actual unification of general relativity and quantum mechanics, including the math, but math is useless without words. But that's also not what I'm referring to here. I have actual medical solutions and specific therapies and unifications of cultural disputes I'd like to elaborate on well, and even wars, including Israel-Gaza and Russia-Ukraine, but I need *really* good linguistics for that, and for the parts concerning me to be written first since I don't have a job! Instead risky stuff like these chapters that I've edited to literal pain to make good, and that still doesn't negate them being risky to my life rtaher than in any way beneficial. 
+For reference, I have an actual unification of general relativity and quantum mechanics, including the math, but math is useless without words. But that's also not what I'm referring to here. I have actual medical solutions and specific therapies and unifications of cultural disputes I'd like to elaborate on well, and even wars, including Israel-Gaza and Russia-Ukraine, but I need *really* good linguistics for that, and for the parts concerning me to be written first since I don't have a job! Instead risky stuff like these chapters that I've edited to literal pain to make good, and that still doesn't negate them being risky to my life rather than in any way beneficial. 
 
 ## Rituals, Religion, & Hell
 
