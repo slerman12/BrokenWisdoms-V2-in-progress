@@ -314,7 +314,7 @@ Should this be coercive ever?
 
 My opinion is, we are one brain and severe hemorrhages can sometimes be terminal. 
 
-By "this," I mean intermediary communications, e.g., delivering a handwritten letter that was reviewed well and advised upon by those professionals beforehand, with two nodes of communications, including one on recipient’s end to review, not pharmaceuticals and many of the extremely coercive medical practices that are commonplace and standard. Those should be a question of "Should this be coercive ever?" first and foremost, since they’re in practice now, at scale, leading to exponentiating problems and people dying from suicide more often than is measured.
+By "this," I mean intermediary communications, e.g., delivering a handwritten letter that was reviewed well and advised upon by those professionals beforehand, with two nodes of communications, including one on recipient’s end to review, not pharmaceuticals and many of the extremely coercive medical practices that are commonplace and standard. Those should be a question of "Should this be coercive ever?" first and foremost, since they’re in practice now, at scale, leading to exponentiating problems, and people dying from suicide, more often than is measured.
 
 ### Right to Talk About Suicide Seriously
 
