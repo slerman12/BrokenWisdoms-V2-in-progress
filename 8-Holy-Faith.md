@@ -322,7 +322,7 @@ See [above](#right-to-talk-about-suicide-seriously).
 
 Lots more plants. 
 
-Feng shui.
+Feng shui or nature.
 
 ### Anti-Bullying Pop-Up
 
