@@ -306,7 +306,7 @@ And if that weren’t the case, there’d be no way to know. It’s always possi
 
 But if that is the case, trialing more relationship-centric rather than pharmaceutical approaches, a little more bravely, will quickly show that the efficacy solidly beats placebo, or at least with "cure" being a possibility. Pharmaceuticals statistically outdo placebo too by some number of percentage points sometimes on average. They chemically alter the individual person’s brain, without relationships. 
 
-If such a thing ever became generalized to arbitrary people, there should be two nodes of communication, one for the patient and one for the civilian, with each party able to communicate to either. 
+If such a thing ever became generalized to arbitrary people, there should be two nodes of communication, one for the patient and one for the civilian, with each party able to communicate to either intermediary. 
 
 Should this be coercive ever?
 
