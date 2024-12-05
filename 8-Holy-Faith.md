@@ -394,6 +394,8 @@ Later, my best friend returned, literally. We were texting and he remarked, with
 
 That was a small amount of evidence that some communication, message-passing (without known mechanical means), happened non-locally, but I think besides the physics one, the message is about medical institutions and a disambiguation of fundamental principles that should be in the moral intelligence of people around coercion (in addition to sexual assault), repression (in addition to marginalized sexualities), and processes of identity transformation (A.K.A., transcendence/transition, in addition to gender) from which the symptomatic beliefs are mistaken for the principle. A system that treats symptoms at the cost of root causes is not a system that cares about those symptoms or root causes. But also how trust in others when a feeling is sacred can actually transcend all bullshit, though that part's honestly, for awareness reasons, scary, to communicate at scale, in front of at least 2 people, in writing.
 
+It's kind of remarkable the substitutability of psychiatric unit workers with geriatric unit ones, literal realities, not self-aware delusions, being interchanged without loss in methodological generality.
+
 # Synchronicities (Part 3)
 
 > To do: List all of them here, including the many already mentioned and new ones previously not mentioned that add to the book's quality
