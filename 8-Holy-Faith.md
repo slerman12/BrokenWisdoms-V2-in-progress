@@ -258,8 +258,6 @@ I have many other things I'd rather be writing about that are actively, physical
 
 Less metaphysical or speculative. Actually concrete and brilliant things. That my words obstruct.
 
-The above was deleted after [this commit](https://github.com/slerman12/BrokenWisdoms-V2-in-progress/blob/9a89871a2f0e3cde0c663985c3bb22cf231138b3/8-Holy-Faith.md), but it seems fine to keep. The language force in me though I wish would leave.
-
 ## Rituals, Religion, & Hell
 
 One of the most powerful rituals was during the Psyche hospitalization. When they first brought me in, before the psychiatric unit, I was held in some various different rooms. One of them, was part of a hallway where there was a male nurse sitting outside, who looked just like my best friend. He even had a nametag that I think was my best friend's first name, so I vaguely recall. I knew it wasn't my best friend, but somehow led him in a ritual, that he willingly participated in. The state I was in was shamanic. He was about my age and let me speak to him as if I was speaking to my best friend, as he literally went along with sitting on the floor, since I was playful and had unambiguous humor and self awareness in my voice, but had some "commanding" flying colors. I understood the nurse wasn't literally him, my best friend who I projected lucidly-but-not-fully-intentionally.
