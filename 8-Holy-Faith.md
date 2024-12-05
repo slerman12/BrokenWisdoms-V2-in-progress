@@ -287,6 +287,8 @@ Something against unfair villification. I gave this speech in my head earlier, i
 
 Kinda sad I didn't get to do as much of the childhood analogy as I did in my head. That sort of drove the middle of my head-speech into such a place where I had too much plot armor for anybody on any side to disagree.
 
+Fuck you all
+
 ### Medical "training coaches" or "wing men/women" to help motivate people to get out of bed, shower, and perhaps advise on fashion or hygiene, and to take people to social events, including bar type and night club type events, to help them socialize and meet people, and for that to become destigmatized and normalized
 
 Socialization Workers.
