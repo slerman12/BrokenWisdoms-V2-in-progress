@@ -292,8 +292,9 @@ But sports, like all of the games I invented (oh I also played basketball, did K
 
 Also, if you're gonna cancel that, I was a leftist before most of you hopped onto the 2015 bandbaggon, and watched as those of you hopped who would've argued with me in high school and early college.
 
-That doesn't sound good, but the truth of it is important, because track record means a person is actually reasoning based on their own fundamental principles.
+That doesn't sound good, but the truth of it is important, because track record means I'm actually reasoning based on my own principles.
 
+<!--
 Enlightenment generalized from wokism would amplify the principles (root causes) of woke beliefs rather than only certain symptoms that come from such principles not being known, by people who are more woke or otherwise.
 
 Namely, anti-coercion, anti-bullying, pro-expression, and tolerance including of extreme awkwardness, coercion, bullying, and anti-expression views.
@@ -303,7 +304,7 @@ Then how would anyone heal?
 Well, if there were even 10% of the population who were like that, the other 90 would slowly fall in.
 
 I'm one person with those principles, so that makes 1 / [global population] = $1 / 8,200,000,000 = 0.00000012$%.
-
+-->
 <!--That doesn't exclude other principles, like truth for example.-->
 
 ### Medical "training coaches" or "wing men/women" to help motivate people to get out of bed, shower, and perhaps advise on fashion or hygiene, and to take people to social events, including bar type and night club type events, to help them socialize and meet people, and for that to become destigmatized and normalized
