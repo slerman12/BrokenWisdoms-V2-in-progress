@@ -284,7 +284,7 @@ Socialization Workers.
 
 Might even save them money, actually.  
 
-Elaboration [here](6-Opposing-Views.md#factory-food). 
+I elaborated on this [earlier](6-Opposing-Views.md#factory-food). 
 
 ### Marriage Counselors For Arbitrary Pairs of People
 
