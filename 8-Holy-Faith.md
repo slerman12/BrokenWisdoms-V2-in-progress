@@ -286,6 +286,8 @@ Something against unfair villification. I gave this speech in my head earlier, i
 - The proportion/priority of the critiques arising from the free market of sports pales in comparison to those from the free market of war, disease, and environmental pollution (by the millitary industrial complex, big pharma, political and government corruption, and hugely-unchecked monopolies and their extremely unfair competetive practices), and is a critique that I think emerges from a pathology that has an independent root problem. If his principle were fundamentally the need to regulate the free market in sports, more than 99% of his conversation would be about those other free market issues, if anti-free market was his main driving principle, but I think pathologically, his principle (driving his critiques about trans people in sports) is about the specter of unfair villification.
 - I also had a point about the real-ness of an issue, but it didn't sound gaslight-y. The number of people affected by free market competition in sports is much lower than the number of people affected by free market competition elsewhere, yet the former gets like 40% of the attention and often from people who have no critique about the latter.
 
+I did a lot of stuff as a kid that I didn't elaborate on here, from inventing a game called Kings with my friends, and ... \<curse word\> I can't describe it. The speech in my head was good. 
+
 ### Medical "training coaches" or "wing men/women" to help motivate people to get out of bed, shower, and perhaps advise on fashion or hygiene, and to take people to social events, including bar type and night club type events, to help them socialize and meet people, and for that to become destigmatized and normalized
 
 Socialization Workers.
