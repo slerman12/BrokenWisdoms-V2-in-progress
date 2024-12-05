@@ -304,7 +304,7 @@ Is that proven?
 
 Nope. 
 
-And if that weren’t the case, there’d be no way to know. It’s always possible there are other kinds of relationships than the kind the person has ever experienced, knows about, or even can imagine. Case being, I was 21 when I met the first person I was in love with and got along with at the same time. I didn’t know that experience existed, and it led to mental health problems, but, had my social skills had a stable foundation, it would’ve probably negated the need for any pain that ever came to me ever, after or before, including feelings I always carried with me that I never knew had reciprocals/purpose/good and always kind of literally was told were disorder. 
+And if that weren’t the case, there’d be no way to know. It’s always possible there are other kinds of relationships than the kind the person has ever experienced, knows about, or even can imagine. Case being, I was 21 when I met the first person I was in love with and got along with at the same time. I didn’t know that experience existed, and it led to mental health problems, but, had it had a stable foundation, it would’ve probably negated the need for any pain that ever came to me ever, after or before, including feelings I always carried with me that I never knew had reciprocals/purpose/good and always kind of literally was told were disorder. 
 
 But if that is the case, trialing more relationship-centric rather than pharmaceutical approaches, a little more bravely, will quickly show that the efficacy solidly beats placebo, or at least with "cure" being a possibility. Pharmaceuticals statistically outdo placebo too by some number of percentage points sometimes on average. They chemically alter the individual person’s brain, without relationships. 
 
