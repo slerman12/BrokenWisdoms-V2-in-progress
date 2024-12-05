@@ -276,7 +276,9 @@ The processes realistically needed to transition any identities, such as from be
 
 > To do: Unfair villification and anti-bullying
 
-### Medical "training coaches" or "wing men/women" to help motivate people to get out of bed, shower, and perhaps advise on fashion or hygiene, and to take people to social events, including bar type and night club type events, to help them socialize and meet people, and for that to become destigmatized and normalized, e.g., "Socialization Workers"
+### Medical "training coaches" or "wing men/women" to help motivate people to get out of bed, shower, and perhaps advise on fashion or hygiene, and to take people to social events, including bar type and night club type events, to help them socialize and meet people, and for that to become destigmatized and normalized
+
+Socialization Workers.
 
 ### Health Insurers, Including Medicaid and Medicare, Should Cover Dietary Prescriptions, Not Just Pharmaceuticals
 
