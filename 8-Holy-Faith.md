@@ -296,7 +296,7 @@ No.
 
 Events should be carefully arranged, organized, and planned between the parties involved and professionals should have the experience to adapt the meetings to what each pair needs/wants, and creativity to help perceive what to recommend to them as possible meeting venues/contexts.
 
-What if a pair doesn’t want to meet? Then maybe another opportunity is for intermediary communicators when the root cause of a person’s medical suffering is really determined to be about a person, e.g., mortally. 
+What if a pair doesn’t want to meet? Then maybe another opportunity is for intermediary communicators when the root cause of a person’s medical suffering is really determined to be about a person, sometimes a mortal necessity. 
 
 But such instances first require a medical system that is willing to acknowledge that the root causes of most mental health problems are about relationships. 
 
