@@ -302,6 +302,8 @@ Then how would anyone heal?
 
 Well, if there were even 10% of the population who were like that, the other 90 would slowly fall in.
 
+I'm one person with those principles, so that makes 1 / [global population] = $1 / 8,200,000,000 = 0.00000012$%.
+
 ### Medical "training coaches" or "wing men/women" to help motivate people to get out of bed, shower, and perhaps advise on fashion or hygiene, and to take people to social events, including bar type and night club type events, to help them socialize and meet people, and for that to become destigmatized and normalized
 
 Socialization Workers.
