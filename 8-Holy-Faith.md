@@ -260,9 +260,101 @@ Less metaphysical or speculative. Actually concrete and brilliant things. That m
 
 For reference, I have an actual unification of general relativity and quantum mechanics, including the math, but math is useless without words. But that's also not what I'm referring to here. I have actual medical solutions and specific therapies and unifications of cultural disputes I'd like to elaborate on well, and even wars, including Israel-Gaza and Russia-Ukraine, but I need *really* good linguistics for that, and for the parts concerning me (credit for things I've already thought, figured out, and done, in order of priority and proportion to bringing justice to the severely unjust conditions of my life currently) to be written first since I don't have a job! Instead risky stuff like these chapters that I've edited to literal pain to make good, and that still doesn't negate them being risky to my life rather than in any way beneficial. Linguistics fillibuster and pork barrel. The brain has governing parts that at least emulate our relationships, including systemic authorities, and regulate us, for tribal symbiosis, but that doesn't work so well when the system is extremely unjust and the standardizations and civilization is nothing like primal society, so the "government" of the brain (the "Gods") fillibuster and pork barrel, when that system reflects the worst of itself on a person. 
 
-“it” not referring to the Tao or Sam Lerman, but the literal system that rules below the former and above the latter
+"it" not referring to the Tao or Sam Lerman, but the literal system that rules below the former and above the latter
 
+## Coercion, Repression, Processes of Identity Transformation
 
+For example, coercing kids to go to child labor camps where they have to concentrate all day, 5 days a week, 8 hours a day, during the best hours of the day, for no wage, listening and obeying, going from room to room under bells and sitting in a crowded room silent listening, in the world’s most mentally destroying many year long "meditation" of abuse of children, under lifetime threats of punishment. History will look on that the way the 21st century looks at late 1800s chimney sweeps child labor in the Industrial Revolution, but the fact is that these child labor camps of concentration are worse than anything modern humankind can imagine. I’d say "concentration camps," but it’s on all kids, globally, almost universally, so normalized that everyone is blind and deaf to the extreme atrocity. Bernie is right to propose his [32 hour work week with no loss in pay](https://medium.com/@slerman12/does-nature-endorse-f3e9cd22bdc2) bill. Even without AI automation, the technological advances and increases in productivity in the last century have neither matched with an increase in worker salary or decrease in worker hours. What about the fact that kids are forced to work 60 hour work weeks? Our reasoning extends to them too.
+
+Repressing expression of any person’s sexuality and speech. True intimacy is more valuable than money. Love is wealth. Relationships are more of a basic human necessity than food, shelter, and power systems, and everything else, everything. The wealthiest person is the person most satisfied with the love in their life, and love can’t be synthesized, and the deprivation of love is deserving of real pity. Privilege has generalized social forms too. Popularity is a privilege. Not repressing includes free speech and criticism of speech, but with awareness of possibly imposing repression.
+
+The processes realistically needed to transition any identities, such as from being social anxious to not being socially anxious requiring experimentation which often leads to awkwardness and misunderstandings, or transitioning from depressed to not depressed, schizophrenic to not schizophrenic, traumatized to not traumatized. Those all involve transcendence processes that are extremely wants as well. 
+
+## Unfair Villification and Anti-Bullying
+
+> To do: Unfair villification and anti-bullying
+
+## Actual Methods of Mental Healthcare, Proposed by Me 
+
+### Medical "training coaches" or "wing men/women" to help motivate people to get out of bed, shower, and perhaps advise on fashion or hygiene, and to take people to social events, including bar type and night club type events, to help them socialize and meet people, and for that to become destigmatized and normalized, e.g., "Socialization Workers"
+
+### Health Insurers, Including Medicaid and Medicare, Should Cover Dietary Prescriptions, Not Just Pharmaceuticals
+
+Might even save them money, actually.  
+
+Elaboration [here](6-Opposing-Views.md#factory-food). 
+
+### Marriage Counselors For Arbitrary Pairs of People
+
+Kids especially deserve some good advocates. 
+
+What’s a good candidate? The teacher who forces you to talk to or "apologize" to someone you don’t want to? 
+
+No. 
+
+Events should be carefully arranged, organized, and planned between the parties involved and professionals should have the experience to adapt the meetings to what each pair needs/wants, and creativity to help perceive what to recommend to them as possible meeting venues/contexts.
+
+What if a pair doesn’t want to meet? Then maybe another opportunity is for intermediary communicators when the root cause of a person’s medical suffering is really determined to be about a person, e.g., mortally. 
+
+But such instances first require a medical system that is willing to acknowledge that the root causes of most mental health problems are about relationships. 
+
+Is that proven?
+
+Nope. 
+
+And if that weren’t the case, there’d be no way to know. It’s always possible there are other kinds of relationships than the kind the person has ever experienced, knows about, or even can imagine. Case being, I was 21 when I met the first person I was in love with and got along with at the same time. I didn’t know that experience existed, and it led to mental health problems, but, had it had a stable foundation, it would’ve probably negated the need for any pain that ever came to me ever, after or before, including feelings I always carried with me that I never knew had reciprocals/purpose/good and always kind of literally was told were disorder. 
+
+But if that is the case, trialing more relationship-centric rather than pharmaceutical approaches, a little more bravely, will quickly show that the efficacy solidly beats placebo, or at least with "cure" being a possibility. Pharmaceuticals statistically outdo placebo too by some number of percentage points sometimes on average. They chemically alter the individual person’s brain, without relationships. 
+
+If such a thing ever became generalized to arbitrary people, there should be two nodes of communication, one for the patient and one for the civilian, with each party able to communicate to either. 
+
+Should this be coercive ever?
+
+My opinion is, we are one brain and severe hemorrhages can sometimes be terminal. 
+
+By "this," I mean intermediary communications, e.g., delivering a handwritten letter that was reviewed well and advised upon by those professionals beforehand, with two nodes of communications, including one on recipient’s end to review, not pharmaceuticals and many of the extremely coercive medical practices that are commonplace and standard. Those should be a question of "Should this be coercive ever?" first and foremost, since they’re in practice now, at scale, sometimes lethally. 
+
+Right to Talk About Suicide Seriously
+
+### Environments
+
+Lots more plants. 
+
+### Anti-Bullying Pop-Up
+
+What if the criminal justice system imprisoned ordinary people permanently without trial and without a path to redemption?
+
+What if the social justice system did the same?
+
+I’m not talking about canceling. Most people don’t participate in cancelling, or if they do, the cancelled "victim" is usually somebody who has attained a high amount of power and wealth, economic or social. Usually ordinary people aren’t "cancelled." But what is the ubiquitous equivalent?
+
+It’s not me. What happened to me is not ubiquitous and I wasn’t cancelled. 
+
+But it is me in another issue that concerns the ethics of this/my generation’s emerging technologies, and I feel the tension rising on whether I’m about to blow this whole thing.  
+
+Here’s what I propose, and maybe you’ll see why it’s right without any further contextualization:
+
+Apps should have a warning with every block option about muting being an option, with or without an alarm, and that a notification can be set for a year or however long, and the other person would be none the wiser, as well as some health note that permanent punitive measures without paths of redemption in this issue tend to exacerbate the problem globally and snowball into getting figures like Trump to be suddenly appealing to a lot people, or more frighteningly, increase the rate of gender crime in the world, and permanent sentences without pauses are kind of considered morally wrong in the criminal justice system, and perhaps social justice includes sometimes pausing rather than blocking, and eventually remembering to return to that safe, text-based, distantly separated text conversation, even if one doesn’t want to and doesn’t think it’s their responsibility, on account of the pain that propagates in the world globally up to the highest elected offices. It’s not a joke and it’s especially serious for kids. A very small thing that propagates into unthinkable calamity hidden under this/my generation’s noses.
+
+One issue though: if the other person can know if they’ve been blocked, then that incentivizes blockers to choose the blocking over muting option. So I think apps should have no way of a recipient discovering whether the other person has blocked or muted. 
+
+Or, more radically, no blocking option. Only the mute, with a voluntary option for a notification, an alarm, e.g., a decade. But if someone’s in pain, it helps to peak in to make sure it really isn’t your responsibility, even without the "seen" bell going off. 
+
+But I said what I described in this book isn’t ubiquitous. Not in combination, no. But individually, medical and academic atrocities without accountability are extremely ubiquitous. 
+
+Pause, meditate, return, is my philosophy. Pause can be a long time.
+
+**Argument:** These little things don’t matter *that* much. </br>
+**Counterargument:** child basketball hoop access replaced with paved cement starting to overgrow with grass. 
+
+**Argument:** Blocking is like a cold face given to people without exceptions.</br> 
+**Counterargument:** Blocking gets so cold that you might not know you’re bullying. In person, you have a chance to see or learn. 
+
+**Argument:** It’s more akin to putting fingers in your ears and going "I can’t hear you."</br>
+**Counterargument:** No, you can still see or potentially see the other person. 
+
+**Argument:** More people have access to you via text. </br>
+**Counterargument:** Then the warning should be specifically about contexts where the person isn’t famous, and if they are, how much harm is possible. Fame and popularity decrease the culpability, increase the responsibility. Most people who block aren’t at extreme levels of either. 
 
 ## Rituals, Religion, & Hell
 
