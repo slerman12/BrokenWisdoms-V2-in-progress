@@ -355,7 +355,7 @@ It's very odd, and almost extremely on the nose, that page 15 is ripped out, wit
 
 <!--(In cases when GitHub doesn't display long PDFs, I have to press the download button to open).-->
 
-I also took videos of getting to their current version of the PhD student handbook from Google and Bing.
+I also took videos of getting to their current version of the PhD student handbook from Google and Bing, and the contents, including the numeric inconsistency.
 
 #### (3) PhD student handbook.
 
