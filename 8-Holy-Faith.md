@@ -290,7 +290,7 @@ I did a lot of stuff as a kid that I didn't elaborate on here, from inventing a 
 
 But sports, like all of the games I invented (oh I also played basketball, did Karate, and my mom paid for horseback riding lessons which were really expensive but I wanted them and I got eczema and described what belt I got to in Karate and how the eczema in the sparring gear stopped me because of the sweat, but I got to purple belt with all of the stripes, and the horses gave me eczema but I also persisted because I wanted to learn that too), become real when they cause war, disease, environmental pollution, and psychological terrors that lead to suicide or paranoia.
 
-Also, if you're gonna cancel that, I was a leftist before most of you hopped onto the 2015 bandbaggon and watched as those of you hopped who would've argued with my in high school and early college.
+Also, if you're gonna cancel that, I was a leftist before most of you hopped onto the 2015 bandbaggon, and watched as those of you hopped who would've argued with me in high school and early college.
 
 ### Medical "training coaches" or "wing men/women" to help motivate people to get out of bed, shower, and perhaps advise on fashion or hygiene, and to take people to social events, including bar type and night club type events, to help them socialize and meet people, and for that to become destigmatized and normalized
 
