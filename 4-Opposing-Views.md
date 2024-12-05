@@ -14,7 +14,7 @@ The top-three contest-winning Parkinson's disease progression models I built at 
 - My first semester in the PhD program began in Fall, 2017, with Henry as advisor
 - I lived in the [House on May St.](#house-on-may-st) for about a year, when, in 2018, Aetna cut me off from Dupilumab and my hair rapidly fell out
   
-After the house on May St., it was from my mom's apartment (in 2018) during a video call with my advisor that I described that biologically-inspired neuron architecture [above](#benzodiazepine-benzos-mechanism-of-action), with the specifics in the [video](https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link) comparing it to the LSTM architecture.
+After the house on May St., it was from my mom's apartment (in 2018) during a video call with my advisor that I described that [biologically-inspired neuron architecture](2-Opposing-Views.md#benzodiazepine-benzos-mechanism-of-action), with the specifics in the [video](https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link) comparing it to the LSTM architecture.
 
 I also presented a description of the LSTM cell, then layer, then network, then bidirectional layers with attention, to my Semantic Parsing class from the ground up using that [biological formulation](https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link). My fellow PhD student told me in our office that it was really original, and she liked how I didn't use the usual LSTM diagram. The class was impressed with me.
 
