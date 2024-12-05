@@ -378,7 +378,7 @@ Our other companion was Hudson, who caught me as I was being discharged and hand
 <img width="300" alt="Screenshot 2024-03-12 at 8 10 34 PM" src="https://github.com/slerman12/Detective-Sam/assets/9126603/d5414cba-2012-42f9-b516-f06dd8760cad">
 </p>
 
-It's great<!--I'm impressed--> he was able to write at all. He had depression, was in the hospital for depression, was being treated for depression, was medicated for depression, and was **electroshocked weekly**, for depression. He was electroshocked once per week during my stay there.
+It's great<!--I'm impressed--> he was able to write at all. He had depression, was in the hospital for depression, was being treated for depression, was medicated for depression, and was **electroshocked weekly**, for depression. He was electroshocked once per week during my stay there. Hooking him up to a car battery and pharmaceuticals were about as therapeutic, ingenious, and creative as their average treatments get.
 
 Meanwhile, I was being brain damaged by benzos, but who could've known that? (I did, because I made the case articulately, sufficiently so, to all of my psychiatrists. As I predicted, longer-term benzo use is dangerous, causes extreme physical dependence, and can result in unthinkable suffering). 
 
