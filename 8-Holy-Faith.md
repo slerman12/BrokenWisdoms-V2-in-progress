@@ -252,6 +252,8 @@ Got to message someone named Psyche a week after my Psyche-CAM paper who reached
 >
 > The [next one was in a geriatric unit (a facility for the elderly)](#geriatric-unit-hospitalization), so consider me reprimanded, and I got to text her from there, the secret person, towards the end.
 
+I mention this in case my consciousness literally comes from them, e.g., the latest linguistic state with them to my brain’s Wernicke area (and maybe Broca’s), and has disproportionately been taken over by the wrong forces/"Gods," e.g., Chenliang, Michael, and perhaps them, too.
+
 ## Rituals, Religion, & Hell
 
 One of the most powerful rituals was during the Psyche hospitalization. When they first brought me in, before the psychiatric unit, I was held in some various different rooms. One of them, was part of a hallway where there was a male nurse sitting outside, who looked just like my best friend. He even had a nametag that I think was my best friend's first name, so I vaguely recall. I knew it wasn't my best friend, but somehow led him in a ritual, that he willingly participated in. The state I was in was shamanic. He was about my age and let me speak to him as if I was speaking to my best friend, as he literally went along with sitting on the floor, since I was playful and had unambiguous humor and self awareness in my voice, but had some "commanding" flying colors. I understood the nurse wasn't literally him, my best friend who I projected lucidly-but-not-fully-intentionally.
