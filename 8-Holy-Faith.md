@@ -322,6 +322,8 @@ See [above](#right-to-talk-about-suicide-seriously).
 
 Lots more plants. 
 
+Feng shui.
+
 ### Anti-Bullying Pop-Up
 
 What if the criminal justice system imprisoned ordinary people permanently without trial and without a path to redemption?
