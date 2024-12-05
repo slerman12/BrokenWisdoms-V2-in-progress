@@ -323,7 +323,7 @@ Suppose some reasons they had for terminating me were good, true, or sufficient.
 
 #### (2) Student's negligence.
 
-Suppose I didn’t do something they suggested, requested, or required of me, that I didn't notify in advance I couldn't with good cause. ([False](#slavery-or-impossible) and [doubly false](6-Opposing-Views.md#tom-howard), but assume true).
+Suppose I didn’t do something they suggested, requested, or required of me, that I didn't notify in advance I couldn't with good cause. ([False](6-Opposing-Views.md#tom-howard) and [doubly false](#slavery-or-impossible), but assume true).
 
 #### (3) PhD student handbook.
 
