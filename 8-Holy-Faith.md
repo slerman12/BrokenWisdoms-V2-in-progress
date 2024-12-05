@@ -321,6 +321,8 @@ Mating might be breaching, and is a medical idea that would be more in the categ
 
 The question of sex work is an overlapping one, and porn falls under that category, and both fall under the category of "fine art," which is distinct from pharmaceutical, but overlaps in practice. As a pharmaceutical, porn has widespread use (administered by people on themselves), but is less medical than probably ketamine, but who knows, because research institutions haven't compared it against ketamine.
 
+That being said, the University of Rochester seems to suppy [janitors](4-Opposing-Views.md#janitor-friend).
+
 ### Medical "training coaches" or "wing men/women" to help motivate people to get out of bed, shower, and perhaps advise on fashion or hygiene, and to take people to social events, including bar type and night club type events, to help them socialize and meet people, and for that to become destigmatized and normalized
 
 Socialization Workers.
