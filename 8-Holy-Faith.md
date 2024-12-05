@@ -280,7 +280,7 @@ The processes realistically needed to transition any identities, such as from be
 
 Socialization Workers.
 
-### Health Insurers, Including Medicaid and Medicare, Should Cover Dietary Prescriptions, Not Just Pharmaceuticals
+### Health Insurers, Including Medicaid and Medicare, Covering Dietary Prescriptions
 
 Might even save them money, actually.  
 
