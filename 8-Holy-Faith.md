@@ -294,6 +294,14 @@ Also, if you're gonna cancel that, I was a leftist before most of you hopped ont
 
 That doesn't sound good, but the truth of it is important, because track record means a person is actually reasoning based on their own fundamental principles.
 
+Enlightenment generalized from wokism would amplify the principles (root causes) of woke beliefs rather than only certain symptoms that come from such principles not being known, by people who are more woke or otherwise.
+
+Namely, anti-coercion, anti-bullying, pro-expression, and tolerance including of extreme awkwardness, coercion, bullying, and anti-expression views.
+
+Then how would anyone heal?
+
+Well, if there were even 10% of the population who were like that, the other 90 would slowly fall in.
+
 ### Medical "training coaches" or "wing men/women" to help motivate people to get out of bed, shower, and perhaps advise on fashion or hygiene, and to take people to social events, including bar type and night club type events, to help them socialize and meet people, and for that to become destigmatized and normalized
 
 Socialization Workers.
