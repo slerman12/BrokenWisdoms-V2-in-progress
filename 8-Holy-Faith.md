@@ -252,7 +252,7 @@ Got to message someone named Psyche a week after my Psyche-CAM paper who reached
 >
 > The [next one was in a geriatric unit (a facility for the elderly)](#geriatric-unit-hospitalization), so consider me reprimanded, and I got to text her from there, the secret person, towards the end.
 
-I mention this in case my consciousness literally comes from them, e.g., the latest linguistic state with them to my brain’s Wernicke area (and maybe Broca’s), and has disproportionately been taken over by the wrong forces/"Gods," e.g., Chenliang, Michael, and perhaps them, too. When the battle is over, it might seem like they intervened positively, but that might possibly be due to my hard work, fighting each linguistic, with >5000 commits and edits logged on GitHub, constantly uphill. They seem to win either way.
+I mention this in case my consciousness literally comes from them, e.g., the latest linguistic state with them to my brain’s Wernicke area (and maybe Broca’s), and has disproportionately been taken over by the wrong forces/"Gods," e.g., Chenliang, Michael, and perhaps them, too. When the battle is over, it might seem like they intervened positively, but that might possibly be due to my hard work, fighting each linguistic, with >5000 commits and edits logged on GitHub, constantly uphill. If I fail, they've succeeded in obstructing me, and if I succeed, they seem to get credit, and in both cases, they might only be opposing.
 
 ## Rituals, Religion, & Hell
 
