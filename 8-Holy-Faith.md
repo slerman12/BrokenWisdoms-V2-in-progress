@@ -323,7 +323,7 @@ The question of sex work is an overlapping one, and porn falls under that catego
 
 The fields of psychology and psychiatry have adopted mindfulness, DBT, and such therapies relatively recently [from Buddhist Vippasana meditation](https://www.amazon.com/Full-Catastrophe-Living-Revised-Illness/dp/0345536932) (though I think [TM](https://en.wikipedia.org/wiki/Transcendental_Meditation) is better), and abstinence is a long practiced discipline in Buddhist and Hindu Upanishad brahmacharyan works that the medical field is still catching up with, despite one of the main founding depth psychologists, Carl Jung, having made this point upwards a century ago almost as if entirely without his own field's notice, those who owe him their respect cherrypicking what to take seriously.
 
-That being said, the University of Rochester seems to suppy [janitors](4-Opposing-Views.md#janitor-friend).
+That being said, the University of Rochester seems to supply [janitors](4-Opposing-Views.md#janitor-friend).
 
 ### Medical "training coaches" or "wing men/women" to help motivate people to get out of bed, shower, and perhaps advise on fashion or hygiene, and to take people to social events, including bar type and night club type events, to help them socialize and meet people, and for that to become destigmatized and normalized
 
