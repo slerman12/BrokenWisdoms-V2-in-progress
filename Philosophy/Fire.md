@@ -50,5 +50,5 @@ Note: This is already independent from the conclusion that "Fire is usually wate
 
 "Wait, but why would Ents care about respecting fires as burning hydrocarbons, if they're made of hydrocarbons?" asks Merry about the Ents, the ancient living trees that can walk and talk.
 
-"Because," the Ent begins, slowly. "It was the ancients who took our branches, sometimes our bodies, yes. But Saruman has destroyed all the forests."
+"Because," the Ent begins, slowly. "It was the ancients who took our branches, sometimes our bodies, yes. But Saruman has destroyed all the forests. The ancients stayed away from us. They respected the Ents. They felt that we were sacred. And those trees they burned gave us a small amount of carbon to breathe. But Saruman, has changed the vegetation of the world, and been merciless to all wood and hydrocarbon alike."
 
