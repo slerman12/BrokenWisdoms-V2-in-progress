@@ -26,4 +26,6 @@ Now the carbons on the other hand can also bond with oxygen. And that creates CO
 
 So fire is water? Yes, reconfigured-electron (let's call it "electriquey") water. It is possible. It’s water with some electrons creating a photoelectric rainbow of red and blue and yellow in your survival-expert-tool-wielding human eyes.
 
+If water with a neutron added is ["heavy water,"](https://en.wikipedia.org/wiki/Heavy_water) why isn't water with some reconfiguring electrons a kind of water?
+
 That’s fire!
