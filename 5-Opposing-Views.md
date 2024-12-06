@@ -223,7 +223,7 @@ My family besides me also have higher-level degrees. My mom, a master's degree i
 
 At the area exam, I presented word by word as I rehearsed. 
 
-Henry, compared to other professors of similar rank ([one of the highest in the world in AI](https://en.wikipedia.org/wiki/Henry_Kautz)) and background (symbolic reasoning, or, more fittingly to this book, perhaps, ["worst-case"](https://henrykautz.com) problems), deserves credit for not thinking deep learning was a fad, and had some intuition about ideas like the biologically-inspired neuron in the diagram [earlier](#benzodiazepine-benzos-mechanism-of-action), though not always of involved ideas, like the use of attention mechanisms (e.g., MHDPA). 
+Henry [is/was one of the top AI researchers in the world](https://en.wikipedia.org/wiki/Henry_Kautz). Compared to some other professors at the University of Rochester, he did not think deep learning was a fad, and had some intuition about ideas like the biologically-inspired neuron in the diagram [earlier](#benzodiazepine-benzos-mechanism-of-action), though not always of involved ideas, like the use of attention mechanisms (e.g., MHDPA). 
 
 Henry recommended the following time allocation for my area exam:
 
