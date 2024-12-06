@@ -36,4 +36,4 @@ It still reads like tragedy.
 
 > Well, there are other kinds of fires, e.g., magnesium fires, that don't need water at all.
 
-"Fire is usually water."
+"Fire is usually water." Especially in the majority of human existence and in particular on Earth.
