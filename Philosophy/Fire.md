@@ -54,4 +54,4 @@ Note: This is already independent from the conclusion that "Fire is usually wate
 
 > "Got it," Saruman says. "Hydrocarbon is not Ent." And he proceeds with his burning.
 
-Does anyone else hear candle "flame" as sounding more natural than candle "fire?"
+[Does anyone else hear candle "flame" as sounding more natural than candle "fire?"](https://www.google.com/search?client=safari&rls=en&q=difference+between+flame+and+fire&ie=UTF-8&oe=UTF-8)
