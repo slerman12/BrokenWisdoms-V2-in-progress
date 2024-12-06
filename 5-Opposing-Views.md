@@ -269,7 +269,7 @@ I saw anecdotes [in this website](https://www.reddit.com/r/BadPill/) from former
 
 #### Teeth-Falling-Out Literal Nightmare
 
-You know, the way I learned about the calcification was because chunks of what I thought were tooth were falling out. Just chunks of tooth-like pieces from my mouth. So I went to the dental hygienist and she said it was de-calcification. This was already when I was starting to recover to some extent, when I was already on the steak-only diet. To reiterate: it started *de*-calcifying at that point. The calcification built up a lot during the 6 months I was on benzos. That was her diagnosis: calcification due to dry mouth from benzos. The steak-diet saved my teeth, I think.
+You know, the way I learned about the calcification was because chunks of what I thought were tooth were falling out. Just chunks of tooth-like pieces from my mouth. So I went to the dental hygienist and she said it was de-calcification. This was already when I was starting to recover to some extent, when I was already on the steak-only diet. To reiterate: it started *de*-calcifying at that point. The calcification built up a lot during the 6 months I was on benzos and withdrawal. That was her diagnosis: decalcification due to dry mouth from benzos. The steak-diet saved my teeth, I think.
 
 `As if losing my hair, eyebrows, eyelashes, nails, cognition, and skin weren't enough.`
 
