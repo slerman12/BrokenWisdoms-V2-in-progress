@@ -264,6 +264,8 @@ For reference, I have an actual unification of general relativity and quantum me
 
 ## Actual Methods of Mental Healthcare, Proposed by Me 
 
+> Editing in progress
+
 ### Gradually Reducing the Coercion on Kids by Schools
 
 For example, coercing kids to go to child labor camps where they have to concentrate all day, 5 days a week, 8 hours a day, during the best hours of the day, for no wage, listening and obeying, going from room to room under schoolbells signaling when to mobilize and sitting in a crowded room silent listening, in the world’s most mentally destroying many year long "meditation" of abuse of children, one-size-fits-all, under lifetime threats of punishment. History will look on that the way the 21st century looks at late 1800s chimney sweeps child labor in the Industrial Revolution, but the fact is that these child labor camps of concentration are worse than anything modern humankind can imagine. I’d say "concentration camps," but it’s on all kids, globally, almost universally, so normalized that everyone is blind and deaf to the extreme atrocity. Bernie is right to propose his [32 hour work week with no loss in pay](https://medium.com/@slerman12/does-nature-endorse-f3e9cd22bdc2) bill. Even without AI automation, the technological advances and increases in productivity in the last century have neither resulted in an increase in worker salary nor a decrease in worker hours. Some kids are forced by school to work 60 hours a week, for no wage. That reasoning extends to child labor too, no?
@@ -273,8 +275,6 @@ For example, coercing kids to go to child labor camps where they have to concent
 True intimacy is more valuable than money and can't be bought. Love is wealth. Relationships are more of a basic human necessity than food, shelter, and power systems, and everything else, everything. The wealthiest person is the person most satisfied with the love in their life, and love can’t be synthesized, and the deprivation of love is deserving of real pity. Privilege has generalized social forms too. Popularity is a privilege. 
 
 The processes realistically needed to transition any identities, such as from being social anxious to not being socially anxious requiring experimentation which often leads to awkwardness and misunderstandings, or transitioning from depressed to not depressed, schizophrenic to not schizophrenic, traumatized to not traumatized. Those all involve transcendence processes that are riskier than the boundaries currently normalized for people in accepted identity transformation processes.
-
-> To do: Unfair villification and anti-bullying
 
 ### Ashkenazi, not Nazi!
 
