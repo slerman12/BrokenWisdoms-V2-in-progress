@@ -44,9 +44,9 @@ Note: This is already independent from the conclusion that "Fire is usually wate
 
 > Yes, but the Garden of Eden wants its fire back.
 
-"Yes, and I'm Saruman, building my Urak-hai army with 'false' fires," Webster dictionary says snobbishly.
+"Yes, and I'm Saruman, building my Urak-hai army with 'false' fires," Webster dictionary says snobbishly, thinking it's being sarcastic.
 
-[All the armies of Rohan and the Ents rally to defeat isengard].
+[All the armies of Rohan and the Ents rally to defeat Isengard].
 
 "Wait, but why would Ents care about respecting fires as burning hydrocarbons, if they're made of hydrocarbons?" asks Merry about the Ents, the ancient living trees that can walk and talk.
 
