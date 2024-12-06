@@ -268,6 +268,20 @@ For reference, I have an actual unification of general relativity and quantum me
 
 For example, coercing kids to go to child labor camps where they have to concentrate all day, 5 days a week, 8 hours a day, during the best hours of the day, for no wage, listening and obeying, going from room to room under schoolbells signaling when to mobilize and sitting in a crowded room silent listening, in the world’s most mentally destroying many year long "meditation" of abuse of children, one-size-fits-all, under lifetime threats of punishment. History will look on that the way the 21st century looks at late 1800s chimney sweeps child labor in the Industrial Revolution, but the fact is that these child labor camps of concentration are worse than anything modern humankind can imagine. I’d say "concentration camps," but it’s on all kids, globally, almost universally, so normalized that everyone is blind and deaf to the extreme atrocity. Bernie is right to propose his [32 hour work week with no loss in pay](https://medium.com/@slerman12/does-nature-endorse-f3e9cd22bdc2) bill. Even without AI automation, the technological advances and increases in productivity in the last century have neither resulted in an increase in worker salary nor a decrease in worker hours. Some kids are forced by school to work 60 hours a week, for no wage. That reasoning extends to child labor too, no?
 
+### Medical "training coaches" or "wing men/women" to help motivate people to get out of bed, shower, and perhaps advise on fashion or hygiene, and to take people to social events, including bar type and night club type events, to help them socialize and meet people, and for that to become destigmatized and normalized
+
+Socialization Workers.
+
+### Health Insurers, Including Medicaid and Medicare, Covering Dietary Prescriptions
+
+Might even save them money, actually.  
+
+Elaboration from [earlier](6-Opposing-Views.md#factory-food)<!-- and [here](https://github.com/slerman12/Governance-original-and-for-future-editing/blob/main/Does-Nature-Endorse%3F.md#healthcare)-->:
+
+Currently, hospitals provide 4 - 5 types of services: tests, drugs, surgeries, personal care (e.g., helping with walking to the bathroom), therapies. High quality food, is not an insignificant omission. Hospitals and health insurances should pay for high quality food. Doctors should gear more towards making high quality food prescriptions, which should be covered by health insurers, including Medicaid and Medicare. I suggest a specific debit card (can be any kind of card) given without means-testing that can be used at grocers. Such a card can be the basis of paying for dietary prescriptions that doctors make, meant to pay for specific foods, so that health insurers, including Medicaid and Medicare, cover the costs, as they do with prescription pharmaceuticals.
+
+The whole idea was novel, but the main novel idea now, is the specific card for use at grocers, to make prescriptions possible, and give health insurances the ability to pay for them.
+
 ### Normalizing Truths and the Processes Therein
 
 True intimacy is more valuable than money and can't be bought. Love is wealth. Relationships are more of a basic human necessity than food, shelter, and power systems, and everything else, everything. The wealthiest person is the person most satisfied with the love in their life, and love can’t be synthesized, and the deprivation of love is deserving of real pity. Privilege has generalized social forms too. Popularity is a privilege. 
@@ -314,20 +328,6 @@ Love starvation is a coercion issue, because when people are hungry, they have t
 And even if that lover is extremely good, the threat of losing them always hangs extremely high, to the point that attachment issues, often called "disorder," reasonably arise without any underpinning disorder actually fueling whatever gets treated with drugs, therapies, disciplines, what have you.
 
 This isn't advocacy for polyamory, though not discouraging that either. It's advocacy for having really good resources in the world like [socialization workers](#medical-training-coaches-or-wing-menwomen-to-help-motivate-people-to-get-out-of-bed-shower-and-perhaps-advise-on-fashion-or-hygiene-and-to-take-people-to-social-events-including-bar-type-and-night-club-type-events-to-help-them-socialize-and-meet-people-and-for-that-to-become-destigmatized-and-normalized), [marriage counselors for arbitrary pairs of people](#marriage-counselors-for-arbitrary-pairs-of-people), and [anti-bullying pop-ups](#anti-bullying-pop-up) as therapeutic treatments as love starvation is a coercion and threat issue, more than just [deserving of pity](#normalizing-truths-and-the-processes-therein), and, as with most of what I write about in this book, affecting kids too at scale, in many cases universally, all kids, and globally.
-
-### Medical "training coaches" or "wing men/women" to help motivate people to get out of bed, shower, and perhaps advise on fashion or hygiene, and to take people to social events, including bar type and night club type events, to help them socialize and meet people, and for that to become destigmatized and normalized
-
-Socialization Workers.
-
-### Health Insurers, Including Medicaid and Medicare, Covering Dietary Prescriptions
-
-Might even save them money, actually.  
-
-Elaboration from [earlier](6-Opposing-Views.md#factory-food)<!-- and [here](https://github.com/slerman12/Governance-original-and-for-future-editing/blob/main/Does-Nature-Endorse%3F.md#healthcare)-->:
-
-Currently, hospitals provide 4 - 5 types of services: tests, drugs, surgeries, personal care (e.g., helping with walking to the bathroom), therapies. High quality food, is not an insignificant omission. Hospitals and health insurances should pay for high quality food. Doctors should gear more towards making high quality food prescriptions, which should be covered by health insurers, including Medicaid and Medicare. I suggest a specific debit card (can be any kind of card) given without means-testing that can be used at grocers. Such a card can be the basis of paying for dietary prescriptions that doctors make, meant to pay for specific foods, so that health insurers, including Medicaid and Medicare, cover the costs, as they do with prescription pharmaceuticals.
-
-The whole idea was novel, but the main novel idea now, is the specific card for use at grocers, to make prescriptions possible, and give health insurances the ability to pay for them.
 
 ### Marriage Counselors For Arbitrary Pairs of People
 
