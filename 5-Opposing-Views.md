@@ -251,7 +251,7 @@ I was more than capable of tackling any challenging question about any of the sp
 
 As any shaman does, I have become a Master by way of drug.
 
-Before my area exam, I taught Henry "sequence-to-sequence attention" from my office, in a state of misery that I couldn't convey, as I was also working on my application of MHDPA for vision in RL, now suffering due to grad-level classes, TAship, impending area exam, and the brain damage. I tried to tell Henry what was going on regarding the benzo agony and he couldn't understand the severity, giving me an anecdote about his son's medication.
+Before my area exam, I taught Henry "sequence-to-sequence attention" from my office, in a state of misery that I couldn't convey, as I was also working on my application of MHDPA for vision in RL, now suffering due to grad-level classes, TAship, impending area exam, and the brain damage. I tried to tell Henry what was going on regarding the benzo agony and he couldn't understand the severity, giving me an anecdote about his son's medication, and in the state of misery and extreme pain I was in, the moderate empathy actually hurt more than it helped.
 
 At after the 6 month point, I started gradually reducing the dose, now entering the ["hungover" chemical waterboarding phase](https://www.reddit.com/r/depression/comments/cksl7u/health_disaster_brain_damage_alopecia_universalis/).
 
