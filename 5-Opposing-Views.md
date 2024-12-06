@@ -346,7 +346,7 @@ Had I taken a medical leave at the peak of this, and where the work was most int
 
 Actually, *termination all but guaranteed if medical leave at any point*. Chenliang would later accept me into his group, after Henry left, on the condition that I submit a top-venue Computer Vision conference paper by the end of that summer. I would never have been able to do that if I didn't build on my interaction effects work at the Medical Center during this benzo torture period, working, that I later [transferred to Computer Vision](https://arxiv.org/abs/2006.08601) to meet his requirement.
 
-Nor would he have accepted somebody else's student with no prior papers before that student even passed the area exam.
+Nor would he have accepted somebody else's student with no published top-venue Computer Vision conference papers before that student even passed the area exam.
 
 I would've lost the opportunity permanently for a PhD if I took a medical leave. 
 
