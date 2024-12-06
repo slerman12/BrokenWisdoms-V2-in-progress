@@ -53,3 +53,5 @@ Note: This is already independent from the conclusion that "Fire is usually wate
 "Because," the Ent begins, slowly. "It was the ancients who took our branches, sometimes our bodies, yes. But Saruman has destroyed all the forests. The ancients held sacred the Ents, rarely chose Ent over tree for their fire. Those trees that they burned left carbon for Ents to breathe, not from Ent bark. But Saruman, has forsaken the Ents. He doesn't see hydrocarbon from Ent. He burns all."
 
 > "Got it," Saruman says. "Hydrocarbon is not Ent." And he proceeds with his burning.
+
+Does anyone else hear candle "flame" as sounding more natural than candle "fire?"
