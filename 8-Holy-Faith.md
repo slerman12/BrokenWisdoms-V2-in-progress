@@ -335,7 +335,7 @@ Elaboration from [earlier](6-Opposing-Views.md#factory-food)<!-- and [here](http
 
 Currently, hospitals provide 4 - 5 types of services: tests, drugs, surgeries, personal care (e.g., helping with walking to the bathroom), therapies. High quality food, is not an insignificant omission. Hospitals and health insurances should pay for high quality food. Doctors should gear more towards making high quality food prescriptions, which should be covered by health insurers, including Medicaid and Medicare. I suggest a specific debit card (can be any kind of card) given without means-testing that can be used at grocers. Such a card can be the basis of paying for dietary prescriptions that doctors make, meant to pay for specific foods, so that health insurers, including Medicaid and Medicare, cover the costs, as they do with prescription pharmaceuticals.
 
-The whole idea was novel, but the main novel idea at time of writing, is the specific card for use at grocers, to make prescirptions possible, and give health insurances the ability to pay for them.
+The whole idea was novel, but the main novel idea now, is the specific card for use at grocers, to make prescirptions possible, and give health insurances the ability to pay for them.
 
 ### Marriage Counselors For Arbitrary Pairs of People
 
