@@ -386,6 +386,7 @@ And even if that lover is extremely good, the threat of losing them always hangs
 
 This isn't advocacy for polyamory, though not discouraging that either. It's advocacy for having really good resources in the world like [socialization workers](#medical-training-coaches-or-wing-menwomen-to-help-motivate-people-to-get-out-of-bed-shower-and-perhaps-advise-on-fashion-or-hygiene-and-to-take-people-to-social-events-including-bar-type-and-night-club-type-events-to-help-them-socialize-and-meet-people-and-for-that-to-become-destigmatized-and-normalized), [marriage counselors for arbitrary pairs of people](#marriage-counselors-for-arbitrary-pairs-of-people), and [anti-bullying pop-ups](#anti-bullying-pop-up) as therapeutic treatments as love starvation is a coercion and threat issue, more than just [deserving of pity](#normalizing-truths-and-the-processes-therein), and, as with most of what I write about in this book, affecting kids too at scale, in many cases universally, all kids, and globally.
 
+Zero, though, is a form of torture.
 
 ### Anti-Bullying Pop-Up
 
