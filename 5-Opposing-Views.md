@@ -257,7 +257,7 @@ At after the 6 month point, I started gradually reducing the dose, now entering 
 
 They say the only thing to fear is fear itself: GABA downregulation is fear itself. The experience is like being in a warzone. It's like burning alive—without stop—more than a year, torture. The neurochemical experience is literally what you go through if you're in a warzone, and being chased by a predator, while in the middle of having a seizure: hellfire, indescribable pain. I remember staying up nights shaking, just shaking, electricity swarming through me, my face curled, deformed as I tensed and agonized all night unless I got some sleep if I was lucky and then waking up feeling like that, again, for the rest of the day, every day, for months like this. 
 
-[Even at lower comparative doses than what I took, by people who are seen as teachers of manliness,](https://youtu.be/laheAXdZK7w?si=FuPXGh1cLuuvtfHW) this experience of misery and crippling agony is experienced.
+[Even at lower comparative doses than what I took, by people who are seen as teachers of manliness,](https://youtu.be/laheAXdZK7w?si=FuPXGh1cLuuvtfHW) this experience of misery and crippling agony is experienced (debilitating).
 
 Skin dry, teeth calcifying (at a dental cleaning appointment, the hygienist diagnosed it as calcification and the attributed cause as dry mouth due to benzodiazepines), no memory, no linguistic expression, cognition completely grey and burning. 
 
