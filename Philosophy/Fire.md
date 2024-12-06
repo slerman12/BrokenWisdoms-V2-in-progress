@@ -33,3 +33,7 @@ That’s fire! Or maybe the whole sum is fire, and "heavy water" should be renam
 Disclaimer: this is meant to be educational comedy.
 
 It still reads like tragedy.
+
+Well, there are other kinds of fires, e.g., magnesium fires, that don't need water at all.
+
+In prehistoric times, fire on Earth was only observed from hydrocarbons, but yes.
