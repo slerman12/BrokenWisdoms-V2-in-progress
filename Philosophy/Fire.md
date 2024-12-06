@@ -10,7 +10,7 @@ Fire is a result of compounds breaking in such a way that their fragments bond w
 
 Those compounds are called hydrocarbons, in the case of, for example, wood. Wood is hydrocarbons. Hydrogen and carbon. Paired together in holy divorcable matrimony.
 
-Now when you rub them together hard and long enough with enough friction, you can rupture those bonds! After all, they’re held together quite precariously by gravity and electromagnetism and all of that. Squeeze ‘em hard enough and they’ll more-or-less split.
+Now when you rub them together hard and long enough with enough friction, you can rupture those bonds! After all, they’re held together quite precariously by gravity and electromagnetism and all of that. Squeeze ‘em hard enough and they more-or-less split.
 
 So you rub two sticks together, say, using the bow-drill method (for fire making), and you rupture those hydrocarbons into hydrogens and carbons. Now the hydrogen will bond with the oxygen (if you’re lucky), that is, in the air, and the carbon will bond with the oxygen (if you’re unlucky), and this all-around combo-reconfiguration-of-bonding<sup>TM</sup> tends to leave excess energy that shoots off like knives into your eyes (or rather specific colors of light emitted by those accelerated/reconfigured electrons) — and also potentially into other atoms and hydrocarbons. So now that emission is what you see. It’s a spark!
 
