@@ -31,3 +31,5 @@ If water with a neutron added is ["heavy water,"](https://en.wikipedia.org/wiki/
 That’s fire! Or maybe the whole sum is fire, and "heavy water" should be renamed something else and only something else.
 
 Disclaimer: this is meant to be educational comedy.
+
+It still reads like tragedy.
