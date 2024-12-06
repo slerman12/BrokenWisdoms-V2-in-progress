@@ -52,3 +52,4 @@ Note: This is already independent from the conclusion that "Fire is usually wate
 
 "Because," the Ent begins, slowly. "It was the ancients who took our branches, sometimes our bodies, yes. But Saruman has destroyed all the forests. The ancients held sacred the sacred. They respected the Ents. And those trees that they burned left carbon for our Ents to breathe. But Saruman, has forsaken the Ents. He doesn't see hydrocarbon from Ent."
 
+> "Hydrocarbon is not Ent."
