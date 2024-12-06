@@ -54,7 +54,7 @@ Note: This is already independent from the conclusion that "Fire is usually wate
 
 > "Got it," Saruman says. "Hydrocarbon is not Ent." And he proceeds with his burning[^4].
 
-[Does anyone else hear candle "flame" as sounding more natural than candle "fire?"](https://www.google.com/search?client=safari&rls=en&q=difference+between+flame+and+fire&ie=UTF-8&oe=UTF-8)
+[Does anyone else hear candle "flame" as sounding more natural than candle "fire?"](https://www.google.com/search?client=safari&rls=en&q=difference+between+flame+and+fire&ie=UTF-8&oe=UTF-8)[^2]
 
 [^1]: No Ent bark were harmed in the making of this hydrogen ("pure-water, no CO2") combustion, a clean, [renewable](https://energy.ec.europa.eu/topics/energy-systems-integration/hydrogen/renewable-hydrogen_en#:~:text=Renewable%20hydrogen%20is%20produced%20through,biological%20origin'%20(RFNBO).) energy source.
 [^2]: Magnesium fire produces a lot of pollution, and "flame" doesn't sound more natural. "Candle wick fire" sounds perfectly okay. Maybe words can have colloquial meanings and formal meanings. [There was a time by the way when "blue" didn't exist](https://lethbridgenewsnow.com/2021/02/09/the-curious-case-of-the-missing-color-blue/#:~:text=It%20turns%20out%20the%20color,see”%20blue%20until%20modern%20times!). Unlike fission, fusion, and unrenewable energy sources, "fire" in the primitive sense of our ancestor-paleolithic days in nature, is, vaporized regular H20, with no-neutrons, water (enchanted) by the power of electrons. With residue and sustainable levels of CO2 that the trees can breathe. The sun's fire, undergoing fusion rather than combustion, is quite often heavy water.
