@@ -281,7 +281,7 @@ The benzos forced on me an idea that almost become too much of an "execution."
 
 The risk of mortality was a foreseeable outcome <!--by my psychiatrists-->from benzos, [as published study data shows](https://thischangedmypractice.com/long-term-benzodiazepine-mortality-schizophrenia/), that suicide is a probable risk <!--in long-term benzo usage of patients presenting symptoms similar to mine--> in the symptomatic context of my medical record seen by my psychiatrists.<!-- that was included in my medical record.-->
 
-During this time, my mom found and my family took away the helium tank connected to tubing I was going to kill myself with.
+During this time, my mom found and my family took away the helium tank connected to tubing in a bag I was going to kill myself with.
 
 The trauma I went through during my psychosis (which the psychiatrists didn't even know about, or consider had a hint of beyond what what was written in the medical record, and the entire exhaustive description of which <!--is omitted-->isn't even included in this version of the book, so far) doesn't compare to the upwards of a year of benzo neurochemical torture that was induced on me. 
 
