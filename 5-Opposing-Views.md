@@ -46,7 +46,7 @@ I convinced him—or perhaps he would’ve agreed with my worry anyway—and he 
 <!--
 A week or two later, the second psychiatrist entered. She was an Asian woman, stern and astute, detached and efficient. After glancing at my chart, she said the tapering schedule was too fast, and that the outpatient psychiatrist would handle it after discharge. The first psychiatrist, self-doubting, noticed my worry and emphasized that he had intended to taper me off before discharge. She dismissed his effort. She disagreed and reassured me that I’d be tapered right after discharge.
 -->
-The second psychiatrist was Asian, taller than him. They were in my room. She was stern about the tapering schedule being too fast. The first psychiatrist still felt belief based on the first conversation <!--about tapering me off--> with me. He mentioned it, the plan to taper me off<!--it-->, <!--to see if that was the energy (meaning, he brought it up kind of-->but hesitantly, self-doubting<!--)-->. She was stern, <!--but-->and reassured I was going to be tapered right after discharge. That was the only time I saw her. It was a 2 minute conversation. 
+The second psychiatrist was Asian, taller than him. They were in my room. She was stern about the tapering schedule being too fast. The first psychiatrist still felt belief based on the first conversation <!--about tapering me off--> with me. He mentioned it, the plan to taper me off<!--it-->, <!--to see if that was the energy (meaning, he brought it up kind of-->but hesitantly, self-doubting<!--)-->. She was stern, <!--but-->and reassured I was going to be tapered right after discharge by the outpatient doctor. That was the only time I saw her. It was a 2 minute conversation. 
 
 She appeared a week or two after the first one, who said I'd be tapered off before discharge, who I convinced in our conversation walking together in the hall. That was the only time I saw him, besides that next meeting, by the way.
 
@@ -54,7 +54,7 @@ She appeared a week or two after the first one, who said I'd be tapered off befo
 The benzos were prescribed without any effort to learn what had been happening with me, and this lack of investigation was on top of me being given Risperdal, a strong antipsychotic.
 -->
 
-In case the durations of those conversations don't make this clear, to be clear: the benzos, and Risperadol, were prescribed without any effort to learn what had happened or had been happening to me, the same ones that were also threatened to be taken at court order, and, later, prescribed indefinitely.
+In case the durations of those conversations don't make this clear, to be clear: the benzos, and Risperadol, were prescribed without any effort to learn what <!--had--> happened <!--or had been happening--> to me, the same ones that were also threatened to be taken at court order, and, later, by the outpatient doctor, prescribed indefinitely.
 <!--The benzos, and Risperadol for that matter, were prescribed without any effort to learn what had been happening with me.-->
 
 <!--
