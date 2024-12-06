@@ -34,10 +34,4 @@ Disclaimer: this is meant to be educational comedy.
 
 It still reads like tragedy.
 
-Well, there are other kinds of fires, e.g., magnesium fires, that don't need water at all.
-
-In prehistoric times, fire on Earth was only observed from hydrocarbons, but yes.
-
-The manufactured fires, the industrial fires, the Urak-hai army fires are all part of the definition now, too.
-
-The Garden of Eden, once undivided, is now the Tower of Babel.
+> Well, there are other kinds of fires, e.g., magnesium fires, that don't need water at all.
