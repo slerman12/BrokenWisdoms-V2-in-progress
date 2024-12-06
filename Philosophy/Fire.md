@@ -24,6 +24,6 @@ Now the carbons on the other hand can also bond with oxygen. And that creates CO
 
 "Electriquey steam with some residue" — FIRE — in 5 words.
 
-So fire is water? Yes, electricity water. It is possible. It’s water with some electrons creating a photoelectric rainbow of red and blue and yellow in your survival-expert-tool-wielding human eyes.
+So fire is water? Yes, reconfigured-electron (let's call it "electriquey") water. It is possible. It’s water with some electrons creating a photoelectric rainbow of red and blue and yellow in your survival-expert-tool-wielding human eyes.
 
 That’s fire !
