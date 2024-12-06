@@ -272,9 +272,9 @@ For example, coercing kids to go to child labor camps where they have to concent
 
 I propose, as a first step, the 32 hour work week "with neither gain nor loss in pay" for kids, together with Bernie's Bill, by 2032. That gives us more time than the full duration of World War II.
 
-### Medical "training coaches" or "wing men/women" to help motivate people to get out of bed, shower, and perhaps advise on fashion or hygiene, and to take people to social events, including bar type and night club type events, to help them socialize and meet people, and for that to become destigmatized and normalized
+### Socialization Workers
 
-Socialization Workers.
+Medical "training coaches" or "wing men/women" to help motivate people to get out of bed, shower, and perhaps advise on fashion or hygiene, and to take people to social events, including bar type and night club type events, to help them socialize and meet people, and for that to become destigmatized and normalized.
 
 ### Health Insurers, Including Medicaid and Medicare, Covering Dietary Prescriptions
 
