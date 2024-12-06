@@ -48,7 +48,7 @@ Note: This is already independent from the conclusion that "Fire is usually wate
 
 [All the armies of Rohan and the Ents rally to defeat isengard].
 
-"Wait, but why would Ents care about respecting fires as burning hydrocarbons, if they're made of hydrocarbons?" asks Merry about the Ents, the ancient living trees that walk and talk.
+"Wait, but why would Ents care about respecting fires as burning hydrocarbons, if they're made of hydrocarbons?" asks Merry about the Ents, the ancient living trees that can walk and talk.
 
 "Because," the Ent begins, slowly. "It was the ancients who took our branches, sometimes our bodies, yes. But Saruman has destroyed all the forests."
 
