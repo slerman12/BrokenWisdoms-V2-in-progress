@@ -20,7 +20,7 @@ Meanwhile, those broken off hydrogens bonded to oxygen — you know what they ar
 
 Now the carbons on the other hand can also bond with oxygen. And that creates CO2. Meanwhile, some non-combustible elements in the mix (since non-charcoal wood for example is composed combustibly of more than just hydrocarbons) create the resultant ash and, its rising form, lifted by those gasses and water rising, smoke. 
 
-(But does that mean fire is also CO2? Depending on the composition, maybe, though [very much](https://www.osha.gov/green-jobs/hydrogen/fire-explosion#:~:text=Hydrogen%20used%20in%20the%20fuel,a%20leak%20can%20be%20detected.) [not necessarily](https://www.quora.com/Can-you-burn-something-without-producing-CO2) and [varies](https://theconversation.com/curious-kids-if-steam-contains-water-what-does-smoke-from-fire-contain-172505))
+(But does that mean fire is also CO2? Depending on the composition, maybe, though [very much](https://www.osha.gov/green-jobs/hydrogen/fire-explosion#:~:text=Hydrogen%20used%20in%20the%20fuel,a%20leak%20can%20be%20detected.) [not necessarily](https://www.quora.com/Can-you-burn-something-without-producing-CO2)[^1] and [varies](https://theconversation.com/curious-kids-if-steam-contains-water-what-does-smoke-from-fire-contain-172505))
 
 "Electriquey steam with some residue" — FIRE — in 5 words.
 
@@ -55,3 +55,5 @@ Note: This is already independent from the conclusion that "Fire is usually wate
 > "Got it," Saruman says. "Hydrocarbon is not Ent." And he proceeds with his burning.
 
 [Does anyone else hear candle "flame" as sounding more natural than candle "fire?"](https://www.google.com/search?client=safari&rls=en&q=difference+between+flame+and+fire&ie=UTF-8&oe=UTF-8)
+
+[^1]: No Ent bark were harmed in the making of this hydrogen ("pure-water, no CO2") combustion, a clean, [renewable](https://energy.ec.europa.eu/topics/energy-systems-integration/hydrogen/renewable-hydrogen_en#:~:text=Renewable%20hydrogen%20is%20produced%20through,biological%20origin'%20(RFNBO).) energy source.
