@@ -24,7 +24,7 @@ Now the carbons on the other hand can also bond with oxygen. And that creates CO
 
 "Electriquey steam with some residue" — FIRE — in 5 words.
 
-So fire is water? Yes, reconfigured-electron (let's call it "electriquey") water (electrons accelerating the way they do within an atom). It is possible. It’s water with some electrons creating a photoelectric rainbow of red and blue and yellow in your survival-expert-tool-wielding human eyes.
+So fire is water? Yes, reconfigured-electron (let's call it "electriquey") water (electrons accelerating the way they do withinor across water atoms). It is possible. It’s water with some electrons creating a photoelectric rainbow of red and blue and yellow in your survival-expert-tool-wielding human eyes.
 
 If water with a neutron added is ["heavy water,"](https://en.wikipedia.org/wiki/Heavy_water) why isn't gaseous water with some reconfiguring electrons a kind of water, with [or without](https://www.osha.gov/green-jobs/hydrogen/fire-explosion#:~:text=Hydrogen%20used%20in%20the%20fuel,a%20leak%20can%20be%20detected.) CO2 in the mix?
 
