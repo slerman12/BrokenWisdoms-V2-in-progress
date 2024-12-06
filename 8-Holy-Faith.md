@@ -275,7 +275,7 @@ I propose, as a first step, the 32 hour work week "with neither gain nor loss in
 ### Normalizing Truths and the Processes Therein
 
 <!--True intimacy is more valuable than money and can't be bought. Love is wealth.--> 
-Relationships are more of a basic human necessity than food, shelter, and power systems, and everything else, everything. The wealthiest person is the person with the most love in their life, from their families, from their communities, from the systems that rule the world, and love can’t be synthesized, and the deprivation of love is deserving of real pity. Privilege has generalized social forms too. Popularity is a privilege. 
+Relationships are more of a basic human necessity than food, shelter, and power systems, and everything else, everything. The wealthiest person is the person with the most love in their life, from their families, from their communities, from the systems that rule the world, and love can’t be synthesized, and the deprivation of love is deserving of real pity. Privilege has generalized social forms too. Popularity is a privilege. Attractiveness is a privilege.
 
 The processes realistically needed to transition any identities, such as from being social anxious to not being socially anxious requiring experimentation which often leads to awkwardness and misunderstandings, or transitioning from depressed to not depressed, schizophrenic to not schizophrenic, traumatized to not traumatized. Those all involve transcendence processes that are riskier than the boundaries currently normalized for people in accepted identity transformation processes.
 
