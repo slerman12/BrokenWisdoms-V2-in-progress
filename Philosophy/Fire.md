@@ -28,6 +28,6 @@ So fire is water? Yes, reconfigured-electron (let's call it "electriquey") water
 
 If water with a neutron added is ["heavy water,"](https://en.wikipedia.org/wiki/Heavy_water) why isn't gaseous water with some reconfiguring electrons (the excess energy of which causes light to be emitted) a kind of water, with [or without](https://www.osha.gov/green-jobs/hydrogen/fire-explosion#:~:text=Hydrogen%20used%20in%20the%20fuel,a%20leak%20can%20be%20detected.) CO2 in the mix?
 
-That’s fire!
+That’s fire! Or maybe the whole sum is fire, and "heavy water" should be renamed something else and only something else.
 
 Disclaimer: this is meant to be educational comedy.
