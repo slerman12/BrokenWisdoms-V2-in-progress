@@ -78,7 +78,7 @@ That [heavy water cares](https://en.wikipedia.org/wiki/CANDU_reactor)! Smashing 
 
 Though in the creation of helium-4, it (<!--the neutron / stabilization-->caring hydrogen with its extra neutron stabilizing and participating in the reaction of reconfigured electrons, and maybe protons, that emit sunlight, photons, like flame) comes in handy in the [reconfiguration engine for our sun](https://energyeducation.ca/encyclopedia/Nuclear_fusion_in_the_Sun#:~:text=This%20resulting%20proton%2Dneutron%20pair,and%20are%20released%20as%20sunlight.), where instead of hydrocarbons splitting to produce water, hydrogen conjoin to produce helium and heavy hydrogen!
 
-Short of some oxygen, the sun is almost fire/water!
+Short of some oxygen, the sun is almost water!
 
 combo-reconfiguration-of-bonding<sup>TM</sup>
 
