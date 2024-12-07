@@ -46,6 +46,7 @@ But here's an argument for why the definition of fire should be narrowed down to
 
 > "Note: This is already independent from the conclusion that 'Fire is usually water, especially in the majority of human existence and in particular on Earth.'"
 
+<!--
 Yes, but the Garden of Eden wants its fire back.
 
 > "Yes, and I'm Saruman, building my Urak-hai army with 'false' fires," Webster dictionary says snobbishly, thinking it's being sarcastic.
@@ -57,8 +58,9 @@ Yes, but the Garden of Eden wants its fire back.
 "Because," the Ent begins, slowly. "It was the ancients who took our branches, sometimes our bodies, yes. But Saruman has destroyed all the forests. The ancients held sacred the Ents, rarely chose Ent over tree for their fire. Those trees that they burned left carbon for Ents to breathe, not from Ent bark. But Saruman, has forsaken the Ents. He doesn't see hydrocarbon from Ent. He burns all."
 
 > "Got it," Saruman says. "Hydrocarbon is not Ent." And he proceeds with his burning.[^6]
+-->
 
-And there is an argument to be made that we are all just adjectives on a finite number of elementary particles, or even just one ubiquitous one, e.g., photon. 
+And there is an argument to be made that we are all just adjectives on a finite number of elementary particles, or even just one ubiquitous one, e.g., photon, or flame. 
 
 <!--
 [^2]: Magnesium fire produces a lot of pollution.
