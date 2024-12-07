@@ -38,7 +38,7 @@ Disclaimer: this is meant to be educational comedy.
 
 It still reads like tragedy.
 -->
-> "Well, there are other kinds of fires, e.g., magnesium fires, that don't need water at all."
+> "Well, there are other kinds of fires, e.g., magnesium fires, that don't need water at all."[^6]
 
 <!--"Fire is usually water." Especially in the majority of human existence and in particular on Earth.-->
 
