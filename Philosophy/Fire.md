@@ -6,7 +6,7 @@ Therefore, below we will more or less prove that fire is water. Fire, actually, 
 
 For fun. Let’s begin.
 
-Fire is a result of compounds breaking in such a way that their fragments bond with oxygen in the air and their rupture releases a hailstorm of accelerative electrons, and photons shooting into the air like knives, triggering a chain reaction of more such compounds breaking up.
+Fire is a result of compounds breaking in such a way that their fragments bond with oxygen in the air and their rupture releases a hailstorm of accelerative electrons and photons, shooting into the air like knives, triggering a chain reaction of more such compounds breaking up.
 
 Those compounds are called hydrocarbons, in the case of, for example, wood. Wood is hydrocarbons. Hydrogen and carbon. Paired together in holy divorcable matrimony.
 
