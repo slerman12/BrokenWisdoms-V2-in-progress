@@ -367,7 +367,7 @@ The processes realistically needed to transition any identities, such as from be
 I don't recommend all of this on the part of the individual, within this constrained world, as that would endanger the individual, but on the collective as a whole, I recommend to welcome those transformation processes as best as gradually possible.
 -->
 
-There are collective processes that current therapies haven't discovered, involving as I suggested [socialization workers](#socialization-workers) or [marriage counselors / relational healers between arbitrary pairs of people](#marriage-counselors-for-arbitrary-pairs-of-people), that would be more effective than just one-on-one clinical treatment, as well as cultural changes, where "woke" becomes about more than just gender, but also these processes of identity transcendence that require a large scale awakening of open-mindedness to.
+There are collective processes that current therapies haven't discovered, involving as I suggested [socialization workers](#socialization-workers) or [marriage counselors / relational healers between arbitrary pairs of people](#marriage-counselors-for-arbitrary-pairs-of-people), that might help more than just one-on-one clinical treatment, as well as cultural changes, where "woke" becomes about more than just gender, but also these processes of identity transcendence that require a large scale awakening of open-mindedness to.
 
 ### Ashkenazi, not Nazi!
 
