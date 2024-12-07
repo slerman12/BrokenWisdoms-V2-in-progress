@@ -2,11 +2,11 @@
 
 > So what, just gonna ignore **[UnifiedML](6-Opposing-Views.md#unifiedml), [XRD project](6-Opposing-Views.md#niaz-abdolrahim), [2 publications](6-Opposing-Views.md#chenliang-xu), [grants](6-Opposing-Views.md#literally-did-the-grants), [evolutionary learning algorithms](6-Opposing-Views.md#chenliang---early-days), [Visio-Relational Perceiver](6-Opposing-Views.md#chenliang---early-days), [real-time RL robotics](6-Opposing-Views.md#real-time-rl-robotics), [a general-purpose parallelized memory and sampler](6-Opposing-Views.md#sampling-without-replacement-in-rl-description), [entire GATO/JEPA type framework](6-Opposing-Views.md#real-time-rl-robotics) before either were proposed**?
 
-> Note: Due to loading diagrams, your browser might link to slightly shifted sub-chapter
-
 Fully implemented on my GitHubs and elaborated on as much as humanly possible in a microsecond timespan to the committee, by the video meeting, many slides, and long emails. I'm not qualified. They want certain formalities that look like the scientific method, without actually noticing that more of the actual substance was delivered them than from any other student. There are no RL experts in U of R. There weren't deep learning experts there. They doubted me my whole PhD, as stated even by the best faculty member, Henry Kautz, on email record, having discouraged me from studying MHDPA in 2018. Until the 2020s, most faculty at the U of R still thought deep learning was a fad. The new ones are superficially interested in structures that look like the scientific method, but dismiss the ones that sound too big and too good to be true, because the structures they use don't account for exceptional work. All of them arrived late. None of them are qualified to mentor or evaluate me.
 
 Specifically, by "arrived late," I don't just mean as faculty members; I mean there isn't a single person at the U of R who knows as much about deep learning as I do, or who's been studying it in its modern form as long as I have, and I was kind to them and trying to explain, in every way humanly possible, better and more passionately/faithfully/caringly than anybody would've.
+
+> Note: Due to your browser loading the diagrams of the linked files, your browser might link to slightly shifted sub-chapters relative to the links above.
 
 # $\mathfrak{Credits,}$ $\text{written by}$ $\mathcal{Frodo  \ Baggins}$ <sup> $(Sam)$ </sup>
 
