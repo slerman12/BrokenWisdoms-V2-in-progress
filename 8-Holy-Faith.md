@@ -373,7 +373,7 @@ Over the years, many solutions to repression have emerged, especially meditation
 
 When instincts are misplaced, as to the wrong person, they still fester and snowball. It's not enough to tell your therapist, or your friend. The brain is wiser than that, and those feelings attach to specific people, sometimes even specific contexts, and, when buried from an early age, possibly lead to worse crimes even than sexual assault on an adult. 
 
-Note: Not in my case, on any of this, except the being horny part.
+Note: Not in my case, on any of this, except the being horny part. And a bit hungry. I could probably use dinner right now.
 
 ### Ashkenazi, not Nazi!
 
