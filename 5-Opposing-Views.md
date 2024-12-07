@@ -201,7 +201,7 @@ And I replied:
 > Although, I’m not totally sure the paper will get accepted to the ICML workshop - I don’t think I motivate it well.
 > ### $\Huge &#8221;$
 
-It's not just a question of how much progress I made in 2018, but how much progress I would've made if not for the induced debilitation in the middle of it, that lasted into 2020, and which was immediately succeeded by the faculty member, Chenliang Xu, giving me an ultimatum that further prevented me from studying my research independently yet longer.
+It's not just the point that I made this progress in 2018, but how much progress I would've made if not for the induced debilitation, that lasted for more than a year, and which was immediately succeeded by the faculty member, Chenliang Xu, giving me an ultimatum that further prevented me from studying my research independently yet longer.
 
 Charles also sent me an email:
 
