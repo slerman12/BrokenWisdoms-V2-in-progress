@@ -346,7 +346,7 @@ Had I taken a medical leave at the peak of this, and where the work was most int
 
 Actually, *termination all but guaranteed if medical leave at any point*. Chenliang would later accept me into his group, after Henry left, on the condition that I submit a top-venue Computer Vision conference paper by the end of that summer. I would never have been able to do that if I didn't build on my interaction effects work at the Medical Center during this benzo torture period, working, that I later [transferred to Computer Vision](https://arxiv.org/abs/2006.08601) to meet his requirement.
 
-Also, it's improbable he'd have accepted somebody else's student with no published top-venue Computer Vision conference papers while that student was also still in debt an area exam, and that's an independent reason to the first for why I couldn't have taken a medical leave during the benzo trauma. Not taking a medical leave was necessary during the early and remainder period of the benzo trauma.
+Also, it's improbable Chenliang would have accepted somebody else's student without a published top-venue Computer Vision conference paper while that student was also still behind an area exam, and that's an independent reason to the first for why I couldn't have taken a medical leave during the benzo trauma. Not taking a medical leave was necessary during the early and remainder period of the benzo trauma.
 
 I would've lost the opportunity permanently for a PhD if I took a medical leave. 
 
