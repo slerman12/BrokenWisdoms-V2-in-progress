@@ -76,6 +76,8 @@ Careful with that [heavy water though](https://en.wikipedia.org/wiki/CANDU_react
 
 Though in the creation of helium-4, it comes in handy as the [reconfiguration engine for our sun](https://energyeducation.ca/encyclopedia/Nuclear_fusion_in_the_Sun#:~:text=This%20resulting%20proton%2Dneutron%20pair,and%20are%20released%20as%20sunlight.), where instead of hydrocarbons splitting to produce water, hydrogen conjoin to produce helium and heavy water!
 
+The sun is water!
+
 <!--
 [^2]: Magnesium fire produces a lot of pollution.
 -->
