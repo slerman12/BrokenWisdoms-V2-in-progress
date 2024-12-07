@@ -363,7 +363,6 @@ The processes realistically needed to transition any identities, such as from be
 
 [Repression from primal instincts came with the "knowledge" brought through civilization, as humanity lost connection to nature](Philosophy/My-Spirituality.md) and divided into a tower of societally controlled instincts.
 
-Over the millenia since the Paleolithic age, many proposals to repression have emerged, from meditation to other Eastern philosophy practices to turning to God to transmutation through alchemy, therapy, or drugs, but without good relationships, none of these are solutions.
 
 ### Ashkenazi, not Nazi!
 
