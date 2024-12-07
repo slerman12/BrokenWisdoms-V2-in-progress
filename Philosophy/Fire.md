@@ -40,7 +40,7 @@ It still reads like tragedy.
 -->
 > "Well, there are other kinds of fires, e.g., magnesium fires, that don't need water at all."[^6]
 
-Those work by igniting the magnesium with some other heat source, and the magnesium molecules breaking apart the way water or CO2 molecules do, bonding with oxygen, and releasing a hailstorm of energy in the same way as primal fire.
+Those work by igniting the magnesium with some other heat source, and the magnesium molecules breaking apart the way water or CO2 molecules would, bonding with oxygen, and releasing a hailstorm of energy in the same way as that primal fire would.
 
 <!--"Fire is usually water." Especially in the majority of human existence and in particular on Earth.-->
 
