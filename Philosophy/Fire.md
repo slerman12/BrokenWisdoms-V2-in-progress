@@ -40,6 +40,8 @@ It still reads like tragedy.
 -->
 > "Well, there are other kinds of fires, e.g., magnesium fires, that don't need water at all."[^6]
 
+Those work by igniting the magnesium with some other heat source, and the magnesium molecules breaking apart the way water or CO2 molecules do, bonding with oxygen, and releasing a hailstorm of energy in the same way as primal fire.
+
 <!--"Fire is usually water." Especially in the majority of human existence and in particular on Earth.-->
 
 But here's an argument for why the definition of fire should be narrowed down to the primal one and those other fires should be called combustion: The definition is already narrowed down from fission, which like the shooting knives of fire, breaks apart neighbors through chain reactions facilitated by neutrons rather than photons, and from the acceleration of nuclei[^3] rather than electrons. If modifying water with a neutron doesn't change the "heavy water" from being water, then modifying photons with neutrons, and electrons with nuclei might not change "fission" from being fire. But it does. So we can narrow down that definition further in such a way as to respect primal ancestors, while still appreciating magnesium combustion, manufactured combustion, industrial combustion as combustion, to remember the sacredness of our roots as a species, and the first technology we ever invented and evolved with. Millions of years with one type of fire, and you want to equate it to magnesium and candle wax? 
