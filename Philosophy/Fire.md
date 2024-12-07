@@ -37,18 +37,18 @@ That’s fire! Or maybe the whole sum is fire, and "heavy water" should be renam
 Disclaimer: this is meant to be educational comedy.
 
 It still reads like tragedy.
+-->
+> "Well, there are other kinds of fires, e.g., magnesium fires, that don't need water at all."
 
-> Well, there are other kinds of fires, e.g., magnesium[^2] fires, that don't need water at all.
+<!--"Fire is usually water." Especially in the majority of human existence and in particular on Earth.-->
 
-"Fire is usually water."[^4] Especially in the majority of human existence and in particular on Earth.
+But here's an argument for why the definition of fire should be narrowed down to the primal one and those other fires should be called combustion: The definition is already narrowed down from fission, which like the shooting knives of fire, breaks apart neighbors through chain reactions facilitated by neutrons rather than photons, and from the acceleration of nuclei[^3] rather than electrons. If modifying water with a neutron doesn't change the "heavy water" from being water, then modifying photons with neutrons, and electrons with nuclei might not change "fission" from being fire. But it does. So we can narrow down that definition further in such a way as to respect primal ancestors, while still appreciating magnesium combustion, manufactured combustion, industrial combustion as combustion, to remember the sacredness of our roots as a species, and the first technology we ever invented and evolved with. Millions of years with one type of fire, and you want to equate it to magnesium and candle wax? 
 
-> But here's an argument for why the definition of fire should be narrowed down to the primal one and those other fires should be called combustion: The definition is already narrowed down from fission, which like the shooting knives of fire, breaks apart neighbors through chain reactions facilitated by neutrons rather than photons, and from the acceleration of nuclei[^3] rather than electrons. If modifying water with a neutron doesn't change the "heavy water" from being water, then modifying photons with neutrons, and electrons with nuclei might not change "fission" from being fire. But it does. So we can narrow down that definition further in such a way as to respect primal ancestors, while still appreciating magnesium combustion, manufactured combustion, industrial combustion as combustion, to remember the sacredness of our roots as a species, and the first technology we ever invented and evolved with. Millions of years with one type of fire, and you want to equate it to magnesium and candle wax? 
+> "Note: This is already independent from the conclusion that 'Fire is usually water, especially in the majority of human existence and in particular on Earth.'"
 
-Note: This is already independent from the conclusion that "Fire is usually water, especially in the majority of human existence and in particular on Earth."
+Yes, but the Garden of Eden wants its fire back.
 
-> Yes, but the Garden of Eden wants its fire back.
-
-"Yes, and I'm Saruman, building my Urak-hai army with 'false' fires," Webster dictionary says snobbishly, thinking it's being sarcastic.
+> "Yes, and I'm Saruman, building my Urak-hai army with 'false' fires," Webster dictionary says snobbishly, thinking it's being sarcastic.
 
 [All the armies of Rohan and the Ents rally to defeat Isengard].
 
@@ -57,14 +57,18 @@ Note: This is already independent from the conclusion that "Fire is usually wate
 "Because," the Ent begins, slowly. "It was the ancients who took our branches, sometimes our bodies, yes. But Saruman has destroyed all the forests. The ancients held sacred the Ents, rarely chose Ent over tree for their fire. Those trees that they burned left carbon for Ents to breathe, not from Ent bark. But Saruman, has forsaken the Ents. He doesn't see hydrocarbon from Ent. He burns all."
 
 > "Got it," Saruman says. "Hydrocarbon is not Ent." And he proceeds with his burning.[^6]
--->
+
+And there is an argument to be made that we are all just adjectives on a finite number of elementary particles, or even just one ubiquitous one, e.g., photon. 
+
 <!--
 [^2]: Magnesium fire produces a lot of pollution.
+-->
 [^3]: [the garden of eden](https://github.com/slerman12/BrokenWisdoms/blob/1a40b9eeba475368712def76444c3317418c318d/Philosophy/Fire.md), [now grown to](https://translate.google.com/?sl=sa&tl=en&text=कालोऽस्मि%20लोकक्षयकृत्प्रवृद्धो&op=translate) the modern [time, the destroyer of worlds](https://scroll.in/article/1053670/now-i-am-become-death-the-destroyer-of-worlds-truth-and-lies-in-oppenheimers-gita-moment#:~:text=Verse%2011.32%20of%20the%20Gita,here%20to%20annihilate%20the%20worlds.”), emblazed
+<!--
 [^4]: Unlike fission, fusion (the sun's fire, undergoing fusion rather than combustion, is quite often heavy water), and unrenewable energy sources, "fire" in the primitive sense of our ancestor-paleolithic days in nature, is, vaporized regular H20, with no-neutrons, water (enchanted) by the power of electrons. With residue and sustainable levels of CO2 that the trees can breathe. 
 [^5]: And there is an argument to be made that we are all just adjectives on a finite number of elementary particles, or even just one ubiquitous one, e.g., photon. 
 -->
 <!--We are all flame.--><!-- And depending on the reference frame, those adjectives may widely vary.-->
-<!--
+
 [^6]: This is a reflection of how you start with an interesting premise, educate people a lot with it, and then at the end they forget to attribute the person and premise who and that taught and showed them all of those things, and only notice the original premise. But technically, the original premise is accurate. "The idea of saying 'everything is one' is counterintuitive to most people." and I think I just showed that pretty well, as well as following through on my "Therefore." Once all of the material is burned through, the teacher is just cooked meat.
--->
+
