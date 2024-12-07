@@ -201,6 +201,8 @@ And I replied:
 > Although, I’m not totally sure the paper will get accepted to the ICML workshop - I don’t think I motivate it well.
 > ### $\Huge &#8221;$
 
+It's not just a question of how much progress I made in 2018, but how much progress I would've made if not for the induced debilitation in the middle of it, that lasted more than a year, and which wasn't interupted until after Henry left, and I was already forced onto new distractions, specifically with the faculty member, Chenliang Xu.
+
 Charles also sent me an email:
 
 > ### $\Huge &#8220;$
