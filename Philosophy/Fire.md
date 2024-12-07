@@ -26,7 +26,7 @@ Now the carbons on the other hand can also bond with oxygen. And that creates CO
 
 So fire is water? Yes, reconfigured-electron (let's call it "electriquey") water (electrons accelerating the way they do into water atoms). It is possible. It’s water with some electrons creating a photoelectric rainbow of red and blue and yellow in your survival-expert-tool-wielding human eyes.
 
-If water with a neutron added is called ["heavy water,"](https://en.wikipedia.org/wiki/Heavy_water) why isn't gaseous water with some reconfiguring electrons (the excess energy of which causes light to be emitted) a kind of water, with [or without](https://www.osha.gov/green-jobs/hydrogen/fire-explosion#:~:text=Hydrogen%20used%20in%20the%20fuel,a%20leak%20can%20be%20detected.) CO2 in the mix?<!--[^5]-->
+If water with a neutron added is called ["heavy water,"](https://en.wikipedia.org/wiki/Heavy_water) why isn't gaseous water with some reconfiguring electrons (the excess energy of which causes light to be emitted) a kind of water, with ([or possibly without](https://www.quora.com/Can-you-burn-something-without-producing-CO2)) CO2 in the mix?<!--[^5]-->
 
 Unlike fission, fusion<!-- (the sun's fire, undergoing fusion rather than combustion, is quite often heavy water)-->, and unrenewable energy sources, **"fire" in the primitive sense of our ancestor-paleolithic days in nature, is, vaporized regular H20, with no-neutrons, water (enchanted) by the power of electrons. With residue and sustainable levels of CO2 that the trees can breathe.**
 
