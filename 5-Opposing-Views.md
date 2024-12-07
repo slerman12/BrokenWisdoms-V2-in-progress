@@ -468,7 +468,7 @@ The bigger red light, is that Dean Wendi Heinzelman should've been filled in on 
 >
 > In 2018, I had to build on top of a DeepMind Sonnet implementation of a transformer, there being no standardized infrastructure in 2018 for transformers, my MHDPA innovation in TensorFlow 1.x. TensorFlow was still declarative, and extremely inconvenient compared to how PyTorch and TensorFlow are imperative today. In 2018, there weren’t even methods for differentiably doing Gumbel Softmax and I had to program that in TensorFlow 1.x, possibly the first ever to do so.
 
-But it's not just a question of how much progress I made in 2018, but how much progress I would've made if not for the induced debilitation in the middle of it, that lasted more than a year, and which wasn't interupted until after Henry left, and I was already forced onto new work, to meet Chenliang's additional demands.
+<!--But it's not just a question of how much progress I made in 2018, but how much progress I would've made if not for the induced debilitation in the middle of it, that lasted more than a year, and which wasn't interupted until after Henry left, and I was already forced onto new work, to meet Chenliang's additional demands.-->
 
 > [!NOTE]
 >
