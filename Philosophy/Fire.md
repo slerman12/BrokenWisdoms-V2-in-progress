@@ -64,7 +64,7 @@ Yes, but the Garden of Eden wants its fire back.
 
 And there is an argument to be made that we are all just adjectives on a finite number of elementary particles, or even just one ubiquitous one, e.g., photon, which composes [flame](https://www.google.com/search?client=safari&rls=en&q=difference+between+flame+and+fire&ie=UTF-8&oe=UTF-8). 
 
-Careful with that [heavy water though](https://en.wikipedia.org/wiki/CANDU_reactor)!
+Careful with that [heavy water though](https://en.wikipedia.org/wiki/CANDU_reactor)![^3]
 
 <!--
 [^2]: Magnesium fire produces a lot of pollution.
