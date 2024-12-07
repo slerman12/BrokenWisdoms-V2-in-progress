@@ -48,7 +48,7 @@ Those work by igniting the magnesium with some other heat source, and the magnes
 
 Though in fires like that, water doesn't come into the picture and we're just dealing with magnesium and all of the pollution needed to get it burning to such a hot degree. Unless, for example, that temperature were reached by the energy of the sun, whose hydrogens "fuse" into helium, or by the rupture of the atom e.g. uranium or plutonium as in the controlled atomic bomb power of nuclear fission, combined sometimes with fusion as in the hydrogen bomb, or man-induced fusion: via the use of deuterium ("heavy water"). That is, water with one extra neutron, whose, and I say this with caution, knife-cut can act a bit like electron energy in causing some disarray, if misused — that, a far deviation from the innocent days of nature.[^3]
 
-> "Well, there are other kinds of fires, e.g., magnesium fires, that don't need water at all."[^6]
+> "Well, there are other kinds of fires, e.g., magnesium fires, that don't need water at all."<!--[^6]-->
 
 <!--"Fire is usually water." Especially in the majority of human existence and in particular on Earth.-->
 
@@ -88,5 +88,7 @@ Though in the creation of helium-4, it comes in handy as the [reconfiguration en
 <!--[Does anyone else hear candle "flame" as sounding more natural than candle "fire?"](https://www.google.com/search?client=safari&rls=en&q=difference+between+flame+and+fire&ie=UTF-8&oe=UTF-8)-->
 <!--"Candle wick fire" sounds perfectly fine though, because the wick is burning, the candle is lit with flame.-->
 
+<!--
 [^6]: This is a reflection of how you start with an interesting premise, educate people a lot with it, and then at the end they forget to attribute the person and premise who and that taught and showed them all of those things, and only notice the original premise. But technically, the original premise is accurate. "The idea of saying 'everything is one' is counterintuitive to most people." and I think I just showed that pretty well, as well as following through on my "Therefore." Once all of the material is burned through, the teacher is just cooked meat.
+-->
 
