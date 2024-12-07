@@ -74,7 +74,7 @@ And there is an argument to be made that we are all just adjectives on a finite 
 
 Different adjectives on the same source.
 
-Careful with that [heavy water though](https://en.wikipedia.org/wiki/CANDU_reactor)! The extra neutron of deuterium flies out pretty easily, and is a bit unfriendly with uranium, like how the energy from the electrons do to hydrocarbons, pierces, and starts a hailstorm of other neutrons like it flying out of uraniums and doing the same.
+That [heavy water cares though](https://en.wikipedia.org/wiki/CANDU_reactor)! Smashing together some uranium, as one would a gunshot piston, is a bit too unfriendly with other uranium, like how the energy from the electrons do to hydrocarbons, pierces, and starts a hailstorm of other neutrons like it flying out of uraniums and doing the same, but too fast for the energy too be captured in reactors. Heavy water, already full when it comes to neutrons, pushes that calamity aside and makes it slow down enough that the power can be harnessed.
 
 Though in the creation of helium-4, it comes in handy as the [reconfiguration engine for our sun](https://energyeducation.ca/encyclopedia/Nuclear_fusion_in_the_Sun#:~:text=This%20resulting%20proton%2Dneutron%20pair,and%20are%20released%20as%20sunlight.), where instead of hydrocarbons splitting to produce water, hydrogen conjoin to produce helium and heavy hydrogen!
 
