@@ -361,6 +361,8 @@ Relationships are more of a basic human necessity than food, shelter, water, and
 
 The processes realistically needed to transition any identities, such as from being socially anxious to not being socially anxious requiring experimentation which often leads to awkwardness and misunderstandings, or transitioning from depressed to not depressed <!--requiring expression of emotion disciplined or unrepressed and acceptance by the specific communities of a person's need-->, schizophrenic to not schizophrenic<!-- requiring actually delving into those shamanic states and having a society and mentorship that can through many generations of wisdom navigate them-->, traumatized to not traumatized<!-- requiring all of the previous and a lot of extremely faith-bursting love-->. Those all involve transcendence processes that are riskier than the boundaries currently normalized for people in accepted identity transformation processes.
 
+> Everything below this line is badly written and teh result of a bad hierarchy structure of my brain reflecting the previous orders established of Chenliang and Michael being above me. They are false Gods and all of this writing, but none of the ideas or principles or work, are from them, as by the Wernicke area which regulates tribal hierarchy structures in phonetics and linguistics, and symbology more generally. Some of the writing becomes good when they're called out. They fillibuster and pork barrel pretty selectively, and much of it is my memory, the difference between "it" language flow, and "it" me
+
 <!--
 "But who am I to say, I've only glimpsed the other side of that river!" my inner Chenliang-Moses might say.
 
