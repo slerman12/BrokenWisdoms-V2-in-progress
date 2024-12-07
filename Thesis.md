@@ -1,3 +1,5 @@
+IN PROGRESS
+
 2020 - 2023
 
 > So what, just gonna ignore **UnifiedML, XRD project, 2 publications, grants, evolutionary learning algorithms, Visio-Relational Perceiver, real-time RL robotics, and GATO/JEPA type framework** before either were proposed?
