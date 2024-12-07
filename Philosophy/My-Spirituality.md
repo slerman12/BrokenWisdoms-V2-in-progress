@@ -1,6 +1,3 @@
-> Essay I wrote [>7 years ago](https://www.facebook.com/share/p/15eA95NgUV/):
----
-
 At the core of my spirituality is the... observation... that humanity has severed its connection to nature.
 
 We created a dichotomy between people and the earth, and from there arose every other dichotomy we’ve ever known.
