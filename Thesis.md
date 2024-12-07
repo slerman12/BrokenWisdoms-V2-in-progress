@@ -6,7 +6,7 @@ Fully implemented on my GitHubs and elaborated on as much as humanly possible in
 
 Specifically, by "arrived late," I don't just mean as faculty members; I mean there isn't a single person at the U of R who knows as much about deep learning as I do, or who's been studying it in its modern form as long as I have, and I was kind to them and trying to explain, in every way humanly possible, better and more passionately/faithfully/caringly than anybody would've.
 
-> Note: Due to your browser loading the diagrams of the linked files, your browser might link to slightly shifted sub-chapters relative to <!--the links-->each link above. Give it a moment to load initially and it should open the rest at the correct sub-chapter.
+> Note: Due to your browser loading the diagrams of the linked files, your browser might link to slightly shifted sub-chapters relative to the links<!--each link--> above. Give it a moment to load initially and it should open the rest at the correct sub-chapter.
 
 # $\mathfrak{Credits,}$ $\text{written by}$ $\mathcal{Frodo  \ Baggins}$ <sup> $(Sam)$ </sup>
 
