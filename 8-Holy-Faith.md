@@ -363,7 +363,7 @@ The processes realistically needed to transition any identities, such as from be
 
 [Repression from primal instincts came with the "knowledge" brought through civilization, as humanity lost connection to nature](Philosophy/My-Spirituality.md) and divided into a tower of societally controlled instincts.
 
-Over the years, many proposals to repression have emerged, especially meditation and other Eastern philosophy practices, but without good social lives, these aren't solutions.
+Over the millenia since the Paleolithic age, many proposals to repression have emerged, especially meditation and other Eastern philosophy practices, but without good social lives, these aren't solutions.
 
 ### Ashkenazi, not Nazi!
 
