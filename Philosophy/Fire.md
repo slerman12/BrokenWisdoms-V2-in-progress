@@ -60,7 +60,7 @@ Yes, but the Garden of Eden wants its fire back.
 > "Got it," Saruman says. "Hydrocarbon is not Ent." And he proceeds with his burning.[^6]
 -->
 
-And there is an argument to be made that we are all just adjectives on a finite number of elementary particles, or even just one ubiquitous one, e.g., photon, or flame. 
+And there is an argument to be made that we are all just adjectives on a finite number of elementary particles, or even just one ubiquitous one, e.g., photon, [or flame](https://www.google.com/search?client=safari&rls=en&q=difference+between+flame+and+fire&ie=UTF-8&oe=UTF-8). 
 
 <!--
 [^2]: Magnesium fire produces a lot of pollution.
@@ -71,6 +71,8 @@ And there is an argument to be made that we are all just adjectives on a finite 
 [^5]: And there is an argument to be made that we are all just adjectives on a finite number of elementary particles, or even just one ubiquitous one, e.g., photon. 
 -->
 <!--We are all flame.--><!-- And depending on the reference frame, those adjectives may widely vary.-->
+<!--[Does anyone else hear candle "flame" as sounding more natural than candle "fire?"](https://www.google.com/search?client=safari&rls=en&q=difference+between+flame+and+fire&ie=UTF-8&oe=UTF-8)-->
+<!--"Candle wick fire" sounds perfectly fine though, because the wick is burning, the candle is lit with flame.-->
 
 [^6]: This is a reflection of how you start with an interesting premise, educate people a lot with it, and then at the end they forget to attribute the person and premise who and that taught and showed them all of those things, and only notice the original premise. But technically, the original premise is accurate. "The idea of saying 'everything is one' is counterintuitive to most people." and I think I just showed that pretty well, as well as following through on my "Therefore." Once all of the material is burned through, the teacher is just cooked meat.
 
