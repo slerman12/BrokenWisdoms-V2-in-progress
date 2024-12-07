@@ -80,6 +80,8 @@ Though in the creation of helium-4, it (<!--the neutron / stabilization-->caring
 
 Short of some oxygen, the sun is almost water!
 
+combo-reconfiguration-of-bonding<sup>TM</sup>
+
 <!--
 [^2]: Magnesium fire produces a lot of pollution.
 -->
