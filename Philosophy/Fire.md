@@ -42,7 +42,7 @@ Disclaimer: this is meant to be educational comedy.
 It still reads like tragedy.
 -->
 
-If the fire is hot enough, as in magnesium fires, then you need something really dry, that isn't water or CO2, like copper, to separate the reactants from the oxygen frenzying it. In that case, water, vis a vis its supply of hydrogen and oxygen, can break apart and <!--actually--> fuel the magnesium with <!--more-->that stolen oxygen. 
+If the fire is hot enough, as in magnesium fires, then you need something really dry, that isn't water or CO2, like copper, to separate the reactants from the oxygen frenzying it. In that case, water, vis a vis its supply of hydrogen and oxygen, can break apart and <!--actually--> fuel the magnesium with more <!--that stolen--> oxygen. 
 
 Those work by igniting the magnesium with some other heat source, and the magnesium molecules breaking apart the way hydrocarbon molecules would, bonding with oxygen, and releasing a hailstorm of energy in the same way as that primal fire would.
 
