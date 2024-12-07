@@ -361,9 +361,11 @@ Relationships are more of a basic human necessity than food, shelter, and power 
 
 The processes realistically needed to transition any identities, such as from being socially anxious to not being socially anxious requiring experimentation which often leads to awkwardness and misunderstandings, or transitioning from depressed to not depressed <!--requiring expression of emotion disciplined or unrepressed and acceptance by the specific communities of a person's need-->, schizophrenic to not schizophrenic<!-- requiring actually delving into those shamanic states and having a society and mentorship that can through many generations of wisdom navigate them-->, traumatized to not traumatized<!-- requiring all of the previous and a lot of extremely faith-bursting love-->. Those all involve transcendence processes that are riskier than the boundaries currently normalized for people in accepted identity transformation processes.
 
+<!--
 "But who am I to say, I've only glimpsed the other side of that river!" my inner Chenliang-Moses might say.
 
 I don't recommend all of this on the part of the individual, within this constrained world, as that would endanger the individual, but on the collective as a whole, I recommend to welcome those transformation processes as best as gradually possible.
+-->
 
 There are collective processes that current therapies haven't discovered, that would be more effective than one-on-one clinical treatment.
 
