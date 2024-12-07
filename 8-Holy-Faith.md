@@ -357,7 +357,7 @@ Zero love, though, is a form of torture.
 ### Normalizing Truths and the Processes Therein
 
 <!--True intimacy is more valuable than money and can't be bought. Love is wealth.--> 
-Relationships are more of a basic human necessity than food, shelter, and power systems, and everything else, everything. Relationships can’t be synthesized, and the deprivation of them is deserving of real pity. Privilege has generalized social forms too. Popularity is a privilege. Attractiveness is a privilege.
+Relationships are more of a basic human necessity than food, shelter, water, and everything else, everything. Relationships can’t be synthesized, and the deprivation of them is deserving of real pity. Privilege has generalized social forms too. Popularity is a privilege. Attractiveness is a privilege.
 
 The processes realistically needed to transition any identities, such as from being socially anxious to not being socially anxious requiring experimentation which often leads to awkwardness and misunderstandings, or transitioning from depressed to not depressed <!--requiring expression of emotion disciplined or unrepressed and acceptance by the specific communities of a person's need-->, schizophrenic to not schizophrenic<!-- requiring actually delving into those shamanic states and having a society and mentorship that can through many generations of wisdom navigate them-->, traumatized to not traumatized<!-- requiring all of the previous and a lot of extremely faith-bursting love-->. Those all involve transcendence processes that are riskier than the boundaries currently normalized for people in accepted identity transformation processes.
 
