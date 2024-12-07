@@ -355,10 +355,10 @@ I would've lost the opportunity permanently for a PhD if I took a medical leave.
 ## Red Light at Clover St. 
 
 <p align="center">
-<a href="https://github.com/user-attachments/assets/fc7da86b-64c3-4ae7-9e77-2e79023b1525">
+<a href="https://github.com/user-attachments/assets/200ee09c-9378-43d0-9673-e77238340d05">
  <picture>
-   <source width="65%" media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/04008b45-a765-43d8-97f2-c2c47cf57212">
-   <img width="65%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/user-attachments/assets/fc7da86b-64c3-4ae7-9e77-2e79023b1525">
+   <source width="77%" media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/dde0bfec-52c1-464e-90ed-90274e910890">
+   <img width="77%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/user-attachments/assets/200ee09c-9378-43d0-9673-e77238340d05">
 </picture>
 </a>
 </p>
