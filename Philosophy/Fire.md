@@ -72,7 +72,7 @@ Yes, but the Garden of Eden wants its fire back.
 
 And there is an argument to be made that we are all just adjectives on a finite number of elementary particles, or even just one ubiquitous one, e.g., photon, which, besides its energy absorbed in the human body, composes [flame](https://www.google.com/search?client=safari&rls=en&q=difference+between+flame+and+fire&ie=UTF-8&oe=UTF-8). 
 
-Careful with that [heavy water though](https://en.wikipedia.org/wiki/CANDU_reactor)! The extra neutron of deuterium flies out pretty easily, and is a bit unfriendly with uranium, like the energy from the electrons do to hydrocarbons, pierces, and starts a hailstorm of other neutrons like it flying out and doing the same.
+Careful with that [heavy water though](https://en.wikipedia.org/wiki/CANDU_reactor)! The extra neutron of deuterium flies out pretty easily, and is a bit unfriendly with uranium, like the energy from the electrons do to hydrocarbons, pierces, and starts a hailstorm of other neutrons like it flying out of uraniums and doing the same.
 
 Though in the creation of helium-4, it comes in handy as the [reconfiguration engine for our sun](https://energyeducation.ca/encyclopedia/Nuclear_fusion_in_the_Sun#:~:text=This%20resulting%20proton%2Dneutron%20pair,and%20are%20released%20as%20sunlight.), where instead of hydrocarbons splitting to produce water, hydrogen conjoin to produce helium and heavy water!
 
