@@ -70,7 +70,7 @@ Yes, but the Garden of Eden wants its fire back.
 > "Got it," Saruman says. "Hydrocarbon is not Ent." And he proceeds with his burning.[^6]
 -->
 
-And there is an argument to be made that we are all just adjectives on a finite number of elementary particles, or even on just one ubiquitous one, e.g., photon, which, besides its energy absorbed in the human body, <!--is what-->tis compose<!--s--> [flame](https://www.google.com/search?client=safari&rls=en&q=difference+between+flame+and+fire&ie=UTF-8&oe=UTF-8). 
+And there is an argument to be made that we are all just adjectives on a finite number of elementary particles, or even on just one ubiquitous one, e.g., photon, which, besides its energy absorbed in the human body, is what composes<!--tis compose--> [flame](https://www.google.com/search?client=safari&rls=en&q=difference+between+flame+and+fire&ie=UTF-8&oe=UTF-8). 
 
 Different adjectives on the same source.
 
