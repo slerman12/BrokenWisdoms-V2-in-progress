@@ -28,7 +28,7 @@ So fire is water? Yes, reconfigured-electron (let's call it "electriquey") water
 
 If water with a neutron added is called ["heavy water,"](https://en.wikipedia.org/wiki/Heavy_water) why isn't gaseous water with some reconfiguring electrons (the excess energy of which causes light to be emitted) a kind of water, with [or without](https://www.osha.gov/green-jobs/hydrogen/fire-explosion#:~:text=Hydrogen%20used%20in%20the%20fuel,a%20leak%20can%20be%20detected.) CO2 in the mix?<!--[^5]-->
 
-Unlike fission, fusion<!-- (the sun's fire, undergoing fusion rather than combustion, is quite often heavy water)-->, and unrenewable energy sources, "fire" in the primitive sense of our ancestor-paleolithic days in nature, is, vaporized regular H20, with no-neutrons, water (enchanted) by the power of electrons. With residue and sustainable levels of CO2 that the trees can breathe. 
+Unlike fission, fusion<!-- (the sun's fire, undergoing fusion rather than combustion, is quite often heavy water)-->, and unrenewable energy sources, **"fire" in the primitive sense of our ancestor-paleolithic days in nature, is, vaporized regular H20, with no-neutrons, water (enchanted) by the power of electrons. With residue and sustainable levels of CO2 that the trees can breathe.**
 
 That's, often, fire!
 
@@ -70,7 +70,7 @@ Yes, but the Garden of Eden wants its fire back.
 > "Got it," Saruman says. "Hydrocarbon is not Ent." And he proceeds with his burning.[^6]
 -->
 
-And there is an argument to be made that we are all just adjectives on a finite number of elementary particles, or even just one ubiquitous one, e.g., photon, which, besides its energy absorbed in the human body, composes [flame](https://www.google.com/search?client=safari&rls=en&q=difference+between+flame+and+fire&ie=UTF-8&oe=UTF-8). 
+And there is an argument to be made that we are all just adjectives on a finite number of elementary particles, or even on just one ubiquitous one, e.g., photon, which, besides its energy absorbed in the human body, composes [flame](https://www.google.com/search?client=safari&rls=en&q=difference+between+flame+and+fire&ie=UTF-8&oe=UTF-8). 
 
 Different adjectives on the same source.
 
