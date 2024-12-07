@@ -1,4 +1,4 @@
-> Written [in 2017](https://www.facebook.com/share/p/15eA95NgUV/). Facebook [notes](https://www.socialchamp.io/social-media-glossary/facebook-notes/#:~:text=Although%20the%20Facebook%20Notes%20feature,still%20access%20your%20old%20notes.) was discontinued in 2020.
+> Written [in 2017](https://www.facebook.com/share/p/15eA95NgUV/). Facebook [notes](https://www.socialchamp.io/social-media-glossary/facebook-notes/#:~:text=Although%20the%20Facebook%20Notes%20feature,still%20access%20your%20old%20notes.) was discontinued in 2020. <!--The identity of the likers around that time vs. surrounding posts vs. future posts might sort of disambiguate that indeed it was 2017.-->
 ---
 
 At the core of my spirituality is the... observation... that humanity has severed its connection to nature.
