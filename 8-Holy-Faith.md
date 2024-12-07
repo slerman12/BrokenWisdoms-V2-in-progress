@@ -324,7 +324,7 @@ See [above](#right-to-talk-about-suicide-seriously).
 
 ### Hospital Environments
 
-Lots more plants. 
+Lots more plants. Trees especially.
 
 <!--Feng shui.-->
 
