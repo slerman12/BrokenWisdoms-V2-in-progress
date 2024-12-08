@@ -97,5 +97,7 @@ combo-reconfiguration-of-bonding<sup>TM</sup>
 
 <!--
 [^6]: This is a reflection of how you start with an interesting premise, educate people a lot with it, and then at the end they forget to attribute the person and premise who and that taught and showed them all of those things, and only notice the original premise. But technically, the original premise is accurate. "The idea of saying 'everything is one' is counterintuitive to most people." and I think I just showed that pretty well, as well as following through on my "Therefore." Once all of the material is burned through, the teacher is just cooked meat.
+
+No other source teaches so thoroughly what fire, fission, and fussion are in so short, entertaining, and easily readable way, and yet some extremely bad experts might read this, learn a lot in the background, entirely not notice due to how simply the material is explained, and then think the point is something else.
 -->
 
