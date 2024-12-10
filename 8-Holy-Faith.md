@@ -413,7 +413,7 @@ Pause, meditate, return, is my philosophy. Pause can be a long time.
 A mute-and-alarm option should be available, so that after a chosen time, for example, a month, year, decade, a blocker can remind themselves that they've put a person on standstill, since blocking is a form of bullying sometimes and causes a lot of pain. Apps also should allow blockers to look at a block-ee's messages without the read receipt going off. It helps to peak in to make sure it really isn’t your responsibility, even without the "seen" bell going off. 
 
 **Argument:** These little things don’t matter *that* much. </br>
-**Counterargument:** child basketball hoop access replaced with paved cement starting to overgrow with grass. 
+**Counterargument:** <!--child basketball hoop access replaced with paved cement starting to overgrow with grass. --> Of every trauma I went through, being blocked was the biggest.
 
 **Argument:** Blocking is like a cold face given to people without exceptions.</br> 
 **Counterargument:** Blocking gets so cold that you might not know you’re bullying. In person, you have a chance to see or learn. 
