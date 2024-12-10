@@ -426,7 +426,7 @@ A mute-and-alarm option should be available, so that after a chosen time, for ex
 
 The reason my generation snyly laughs at this, is because, insidiously, the people who block aren't starving enough that they can see how painful being blocked is — oh, they see it's painful, but not how much. People who've blocked me brought me inches within literal death. Starting from Psyche, my communication trauma snowballed. Communication is the only connection a person has to other humans. When that's destroyed, a person like me has nothing. But those in power have no pity or empathy for this. They are bullies.
 
-Psyche was the first person to block me. In the 2 years that followed, a total of 34 people have blocked me. That is either ahuge synchroncicity, or major communication-trauma. 1995 - 2020, 0 people blocked me. 2020 - 2023, 34, including the [person above who I described](#marriage-counselors-for-arbitrary-pairs-of-people), and wrote about "I didn't know that experience existed."
+Psyche was the first person to block me. In the 2 years that followed, a total of 34 people have blocked me. That is either a huge coincidence, or major communication-trauma. 1995 - 2020, 0 people blocked me. 2020 - 2023, 34, including the [person above who I described](#marriage-counselors-for-arbitrary-pairs-of-people), and wrote about "I didn't know that experience existed."
 
 ## Rituals, Religion, & Hell
 
