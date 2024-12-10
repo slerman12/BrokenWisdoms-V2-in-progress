@@ -424,7 +424,7 @@ A mute-and-alarm option should be available, so that after a chosen time, for ex
 **Argument:** More people have access to you via text. </br>
 **Counterargument:** Then the warning should be specifically about contexts where the person isn’t famous, and if they are, how much harm is possible. Fame and popularity decrease the culpability, increase the responsibility. Most people who block aren’t at extreme levels of either. 
 
-The reason my generation snyly laughs at this, is because, insidiously, the people who block aren't starving enough that they can see how painful being blocked is — oh, they see it's painful, but not how much. People who've blocked me brought me inches within literal death and, starting from Psyche, snowballed my communication trauma. Communication is the only connection a person has to other humans. When that's destroyed, a person like me has nothing. But those in power have no pity or empathy for this. They are bullies.
+The reason my generation snyly laughs at this, is because, insidiously, the people who block aren't starving enough that they can see how painful being blocked is — oh, they see it's painful, but not how much. People who've blocked me brought me inches within literal death. Starting from Psyche, my communication trauma snowballed. Communication is the only connection a person has to other humans. When that's destroyed, a person like me has nothing. But those in power have no pity or empathy for this. They are bullies.
 
 ## Rituals, Religion, & Hell
 
