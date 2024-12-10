@@ -453,6 +453,7 @@ It's kind of remarkable the substitutability of psychiatric unit workers with ge
 # Synchronicities (Part 3)
 
 > To do: List all of them here, including the many already mentioned and new ones previously not mentioned that add to the book's quality
+> 
 > I'm gonna leave most of the major ones from 2021 - 2023 out since they require premission from people, and can probably be a separate book
 
 Meanwhile, before and after, astonishing [synchronicities](https://en.wikipedia.org/wiki/Synchronicity) happened that can be listed below and I leave for your judgement on their metaphysical or coincidental nature.
