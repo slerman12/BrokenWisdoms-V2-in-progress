@@ -428,7 +428,7 @@ The reason my generation snyly laughs at this, is because, insidiously, the peop
 
 Psyche was the first person to block me. In the 2 years that followed, a total of 34 people have blocked me. That is either a huge coincidence, or major communication-trauma. 1995 - 2020, 0 people blocked me. 2020 - 2023, 34, including the [person above who I described](#marriage-counselors-for-arbitrary-pairs-of-people), and wrote about "I didn't know that experience existed."
 
-It's not a message from me. It's not a coincidence, but a synchronicity. The number of people who blocked me shortly after Psyche is too extreme to be random, but also too extreme to be ordinary. I didn't have them block me on purpose! Each block was traumatic, and many led to gas being leaked into my lungs. But the consciousness change in each scenario that led to blocking, usually something suddenly awkward (not anything bad), was probably God/universe-induced. The message that I can take away is this, as small and unimportant as it seems. God's brain is becoming hemorrhaged, from all of the blocking that people do. 
+It's not a message from me. It's not a coincidence, but a synchronicity. The number of people who blocked me shortly after Psyche is too extreme to be random, but also too extreme to be ordinary. I didn't have them block me on purpose! Each block was traumatic, and many led to gas being leaked into my lungs. But the consciousness change in each scenario that led to blocking, usually something suddenly awkward (not anything bad), was probably God/universe-induced. The message that I can take away is this anti-bullying pop-up, as small and unimportant as it seems. God's brain is becoming hemorrhaged, from all of the blocking that people do. 
 
 ## Rituals, Religion, & Hell
 
