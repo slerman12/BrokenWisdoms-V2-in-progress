@@ -430,8 +430,6 @@ Psyche was the first person to block me. In the 2 years that followed, a total o
 
 It's not a message from me. It's not a coincidence, but a synchronicity. The number of people who blocked me shortly after Psyche is too extreme to be random, but also too extreme to be ordinary. I didn't have them block me on purpose! Each block was traumatic, and many led to gas being leaked into my lungs. But the consciousness change in each scenario that led to blocking, usually something suddenly awkward (not anything bad), was probably God/universe-induced. The message that I can take away is this anti-bullying pop-up, as small and unimportant as it seems. God's brain is becoming hemorrhaged, from all of the blocking that people do.
 
-The logic might be different for dating apps, but nobody has blocked me on a dating app.
-
 ## Rituals, Religion, & Hell
 
 One of the most powerful rituals was during the Psyche hospitalization. When they first brought me in, before the psychiatric unit, I was held in some various different rooms. One of them, was part of a hallway where there was a male nurse sitting outside, who looked just like my best friend. He even had a nametag that I think was my best friend's first name, so I vaguely recall. I knew it wasn't my best friend, but somehow led him in a ritual, that he willingly participated in. The state I was in was shamanic. He was about my age and let me speak to him as if I was speaking to my best friend, as he literally went along with sitting on the floor, since I was playful and had unambiguous humor and self awareness in my voice, but had some "commanding" flying colors. I understood the nurse wasn't literally him, my best friend who I projected lucidly-but-not-fully-intentionally.
