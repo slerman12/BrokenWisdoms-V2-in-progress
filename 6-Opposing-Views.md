@@ -282,6 +282,10 @@ Since I started building it for my PhD (from about 2021, in Chenliang's lab, onw
 
 > Much of what UnifiedML is: a GATO/JEPA type framework, implemented (unlike JEPA), started before GATO, and more general than GATO. and open-sourced this whole time
 
+Describing this is hard because it was so much work that is currently unappreciated that my soul hurts even thinking
+
+But best way would probably be bullets listing the different blocks with links to the corresponding diagrams and descriptions in the to-be-finished documentation
+
 ### B-, or "Sam Hasn't Been Put Through Enough Systems, the Sequel-Sequel"
 
 I had to retake a grad-level systems class, on account of getting a tiny fraction of a point below B, and the professor, having decided my research wouldn't independently involve enough systems work, chose to not give me that tiny fraction of a point, so I ended up with a B-, the CS department PhD program requires a B or higher, and I had to take a whole semester <!--, in my 3rd year, during benzo recovery, --> of grad-level systems again, systems being my least favorite subfield of CS, and ended up mostly teaching the class anyway since it had to do with a topic that would, later, end up being taken over by AI. Chris Kanan, having suggested I implement a novel RL systems algorithm for my research, and me actually having done so in a 2 month time span, a huge, insane amount of work, disproved that earlier professor, and puts the school in debt for my retaking a grad-level systems class, and the teaching I did for it.
