@@ -430,7 +430,7 @@ Psyche was the first person to block me. In the 2 years that followed, a total o
 
 It's not a message from me. It's not a coincidence, but a synchronicity. The number of people who blocked me shortly after Psyche is too extreme to be random, but also too extreme to be ordinary. I didn't have them block me on purpose! Each block was traumatic, and many led to gas being leaked into my lungs. But the consciousness change in each scenario that led to blocking, usually something suddenly awkward (not anything bad), was probably God/universe-induced. The message that I can take away is this anti-bullying pop-up, as small and unimportant as it seems. God's brain is becoming hemorrhaged, from all of the blocking that people do.
 
-None of those blocks happened through dating apps, and if I used ChatGPT, possibly all of those blocks would've been prevented. They would not have exiled a robot, but some didn't hesitate to exile a human. This preferance towards machine over human is seen in all of technology's progress up to today, and the risk is only increasing with AI and robotics.
+If I used ChatGPT, possibly all of those blocks would've been prevented. They would not have exiled a robot, but some didn't hesitate to exile a human. This preferance towards machine over human is seen in all of technology's progress up to today, and the risk is only increasing with AI and robotics.
 
 ## Rituals, Religion, & Hell
 
