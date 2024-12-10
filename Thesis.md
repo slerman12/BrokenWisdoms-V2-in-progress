@@ -1,4 +1,4 @@
-2020 - 2023
+**2020 - 2023**
 
 > So what, just gonna ignore **[UnifiedML](6-Opposing-Views.md#unifiedml), [XRD project](6-Opposing-Views.md#niaz-abdolrahim), [2 publications](6-Opposing-Views.md#chenliang-xu), [grants](6-Opposing-Views.md#literally-did-the-grants), [evolutionary learning algorithms](6-Opposing-Views.md#chenliang---early-days), [Visio-Relational Perceiver](6-Opposing-Views.md#chenliang---early-days), [real-time RL robotics](6-Opposing-Views.md#real-time-rl-robotics), [a general-purpose parallelized memory and sampler](6-Opposing-Views.md#sampling-without-replacement-in-rl-description), [entire GATO/JEPA type framework](6-Opposing-Views.md#unifiedml) before either were proposed**?
 
