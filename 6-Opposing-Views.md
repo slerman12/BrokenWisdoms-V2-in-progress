@@ -280,7 +280,7 @@ Since I started building it for my PhD (from about 2021, in Chenliang's lab, onw
 
 > To do
 
-> Much of what UnifiedML is: a GATO/JEPA type framework, implemented (unlike JEPA), started before GATO, and more general than GATO. and open-sourced this whole time
+> Much of what UnifiedML is: a GATO/JEPA type framework, implemented (unlike JEPA), started before GATO, and more general than GATO, open-sourced this whole time, and meant from the ground up for open-source and democratized understanding and use of AI
 
 Describing this is hard because it was so much work that is currently unappreciated that my soul hurts even thinking
 
