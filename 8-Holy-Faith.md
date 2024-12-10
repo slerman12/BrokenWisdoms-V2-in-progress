@@ -426,6 +426,8 @@ A mute-and-alarm option should be available, so that after a chosen time, for ex
 
 The reason my generation snyly laughs at this, is because, insidiously, the people who block aren't starving enough that they can see how painful being blocked is — oh, they see it's painful, but not how much. People who've blocked me brought me inches within literal death. Starting from Psyche, my communication trauma snowballed. Communication is the only connection a person has to other humans. When that's destroyed, a person like me has nothing. But those in power have no pity or empathy for this. They are bullies.
 
+All I'm asking for is a pop-up.
+
 ## Rituals, Religion, & Hell
 
 One of the most powerful rituals was during the Psyche hospitalization. When they first brought me in, before the psychiatric unit, I was held in some various different rooms. One of them, was part of a hallway where there was a male nurse sitting outside, who looked just like my best friend. He even had a nametag that I think was my best friend's first name, so I vaguely recall. I knew it wasn't my best friend, but somehow led him in a ritual, that he willingly participated in. The state I was in was shamanic. He was about my age and let me speak to him as if I was speaking to my best friend, as he literally went along with sitting on the floor, since I was playful and had unambiguous humor and self awareness in my voice, but had some "commanding" flying colors. I understood the nurse wasn't literally him, my best friend who I projected lucidly-but-not-fully-intentionally.
