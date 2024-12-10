@@ -366,7 +366,7 @@ I would've lost the opportunity permanently for a PhD if I took a medical leave.
 > [!NOTE]
 > ### Buffy
 >
-> In high school, I loved Lost, and Heroes, and Community, and Better Off Ted, and at some point Reaper, a show no one's heard of<!-- (well, I guess Reaper was middle school)-->. But my favorite-favorite has been Buffy the Vampire Slayer, which at the time was available on Netflix. I was obsessed.<!--, as well as with [Dr. Horrible's Sing-Along Blog](https://youtu.be/Of9kHpCv1ts?si=FPBQagGV-MX0BOK4).-->
+> In high school, I loved Lost, and Community, and Better Off Ted, and at some point Reaper, a show no one's heard of<!-- (well, I guess Reaper was middle school)--> (oh, and while going back to middle school, also Heroes). But my favorite-favorite has been Buffy the Vampire Slayer, which at the time was available on Netflix. I was obsessed.<!--, as well as with [Dr. Horrible's Sing-Along Blog](https://youtu.be/Of9kHpCv1ts?si=FPBQagGV-MX0BOK4).-->
 >
 > Almost nobody heard of Buffy in my high school, 2009 - 2013, Golden Age Peak TV era. I had a debate with my friend, another film buff, where I claimed TV shows were better than movies. He didn't believe me yet. In my high school, all those TV shows were getting missed<!--, at least by many of the people I talked to-->. Buffy had been out since the 90s/early 2000s, and was the most—maybe universally at my high school—unappreciated.
 >
