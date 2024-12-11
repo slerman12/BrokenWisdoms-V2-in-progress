@@ -434,7 +434,7 @@ If I used ChatGPT, possibly all of those blocks would've been prevented. They wo
 
 Almost everybody I could turn to besides people who were just as socially isolated as me blocked me. None of the blocks had to do with anything sexually or romantically forward. All of them had to do with fear expressed from me to person, all of them following the traumas that, individually (menaing, even not-in-combination), would destroy a person from trusting anybody, but didn't in my case, until the 34 blocks that followed.
 
-(Note: I don't know if it was 34. It was probably more like 10 - 30, but the baseline was 0).
+(Note: I don't know if it was 34. It was probably more like 10 - 30, but the baseline was 0, and I'm not talking about dating apps).
 
 ## Rituals, Religion, & Hell
 
