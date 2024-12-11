@@ -437,7 +437,9 @@ I was at the [2017 Women's March](https://www.facebook.com/media/set/?vanity=sam
 
 That is what people are doing. Building walls to keep out "crime [...] rapists [...] And some, I assume, are good people."
 
-Almost everybody I could turn to besides people who were just as socially isolated as me blocked me. None of the blocks had to do with anything sexually or romantically targeted. All of them had to do with fear expressed from me to person, or maybe more generally, suspicious linguistic phenomena, all of them following the traumas and [other traumas](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/tree/main), and yet others unmentioned, that, individually (meaning, even not-in-combination), would destroy a person, but didn't in my case, until the 34 blocks that followed.
+Almost everybody I could turn to besides people who were just as socially isolated as me blocked me. None of the blocks had to do with anything sexually or romantically targeted. All of them had to do with fear expressed from me to person, or maybe more generally, suspicious linguistic phenomena, probably superconscious, God, or something really suspicious in the governances and regulations of mind.
+
+All of the blocks followed the traumas and [other traumas](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/tree/main), and yet others unmentioned, that, individually (meaning, even not-in-combination), would destroy a person, but didn't in my case. The blocks did.
 
 (Note: I don't know if it was 34. It was probably more like 10 - 30, but the baseline was 0, and I'm not talking about dating apps).
 
