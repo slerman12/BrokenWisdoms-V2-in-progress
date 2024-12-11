@@ -410,7 +410,7 @@ One issue though: if the other person can know if they’ve been blocked, then t
 
 Pause, meditate, return, is my philosophy. Pause can be a long time.
 
-A mute-and-alarm option should be available, so that after a chosen time, for example, a month, year, decade, a blocker can remind themselves that they've put a person on pause, since blocking is a form of bullying sometimes and causes a lot of pain. Apps also should allow blockers to look at a block-ee's messages without the read receipt going off. It helps to peak in to make sure it really isn’t your responsibility, even without the "seen" bell going off. But maybe some choice on the block-ee's part about whether their own messages should go through once they've been muted or blocked. 
+A mute-and-alarm option should be available, so that after a chosen time, for example, a month, year, decade, a blocker can remind themselves that they've put a person on pause, since blocking is a form of bullying sometimes and causes a lot of pain. Apps also should allow blockers to look at a block-ee's messages without the read receipt going off. It's responsible to peak in to make sure it really isn’t your responsibility, even without the "seen" bell going off. But maybe some choice on the block-ee's part about whether their own messages should go through once they've been muted or blocked. 
 
 **Argument:** These little things don’t matter *that* much. </br>
 **Counterargument:** <!--child basketball hoop access replaced with paved cement starting to overgrow with grass. --> Of every trauma I went through, being blocked was the biggest.
