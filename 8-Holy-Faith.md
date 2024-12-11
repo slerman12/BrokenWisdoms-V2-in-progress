@@ -438,6 +438,8 @@ Almost everybody I could turn to besides people who were just as socially isolat
 
 (And to be fair to them, my consciousness was changing a lot. 2020 - 2023 were when the biggest synchronicities were happening, including Biblical ones, and not described in this book, enough for an independent book, or just as an offhand reference for this one that serves no purpose except to let it be known that I didn't even finish writing all of what the universe may have wanted me to).
 
+Of everything that happened to me, the most traumatic were these blockings.
+
 ## Rituals, Religion, & Hell
 
 One of the most powerful rituals was during the Psyche hospitalization. When they first brought me in, before the psychiatric unit, I was held in some various different rooms. One of them, was part of a hallway where there was a male nurse sitting outside, who looked just like my best friend. He even had a nametag that I think was my best friend's first name, so I vaguely recall. I knew it wasn't my best friend, but somehow led him in a ritual, that he willingly participated in. The state I was in was shamanic. He was about my age and let me speak to him as if I was speaking to my best friend, as he literally went along with sitting on the floor, since I was playful and had unambiguous humor and self awareness in my voice, but had some "commanding" flying colors. I understood the nurse wasn't literally him, my best friend who I projected lucidly-but-not-fully-intentionally.
