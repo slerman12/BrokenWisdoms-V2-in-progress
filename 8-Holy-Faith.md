@@ -432,7 +432,7 @@ It's not a message from me. It's not a coincidence, but a synchronicity. The num
 
 If I used ChatGPT, possibly all of those blocks would've been prevented. They would not have exiled me as a robot, though due to sudden linguistic limitations, that's what they did. Objectifying humans is categorically entangled with humanizing technology, so as for relationships (mine being almost all long distance and/or people who'd only hung out with me a few times, being the only people I had) to be destroyed by the conflation of person for phone. I was at the [2017 Women's March](https://www.facebook.com/media/set/?vanity=sam.lerman.75&set=a.10206971843653674) following Trump's inauguration, and started a chant, "Down with walls!" Everybody joined in. Trump's idea of building a wall in order to keep out the "crime [...] rapists [...] And some, I assume, are good people" seemed really stupid to me.
 
-Almost everybody I could turn to besides people who were just as socially isolated as me blocked me. None of the blocks had to do with anything sexually or romantically forward. All of them had to do with fear expressed from me to person, all of them following traumas that, individually and independently, would destroy a person from trusting anybody, even without 34 blocks to follow.
+Almost everybody I could turn to besides people who were just as socially isolated as me blocked me. None of the blocks had to do with anything sexually or romantically forward. All of them had to do with fear expressed from me to person, all of them following the traumas that, individually and independently, would destroy a person from trusting anybody, but didn't in my case, until the 34 blocks that followed.
 
 ## Rituals, Religion, & Hell
 
