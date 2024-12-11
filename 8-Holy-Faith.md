@@ -434,6 +434,8 @@ If I used ChatGPT, possibly all of those blocks would've been prevented. They wo
 
 Almost everybody I could turn to besides people who were just as socially isolated as me blocked me. None of the blocks had to do with anything sexually or romantically forward. All of them had to do with fear expressed from me to person, all of them following the traumas that, individually (menaing, even not-in-combination), would destroy a person from trusting anybody, but didn't in my case, until the 34 blocks that followed.
 
+(Note: I don't know if it was 34. It was probably more like 10 - 30, but the baseline was 0).
+
 ## Rituals, Religion, & Hell
 
 One of the most powerful rituals was during the Psyche hospitalization. When they first brought me in, before the psychiatric unit, I was held in some various different rooms. One of them, was part of a hallway where there was a male nurse sitting outside, who looked just like my best friend. He even had a nametag that I think was my best friend's first name, so I vaguely recall. I knew it wasn't my best friend, but somehow led him in a ritual, that he willingly participated in. The state I was in was shamanic. He was about my age and let me speak to him as if I was speaking to my best friend, as he literally went along with sitting on the floor, since I was playful and had unambiguous humor and self awareness in my voice, but had some "commanding" flying colors. I understood the nurse wasn't literally him, my best friend who I projected lucidly-but-not-fully-intentionally.
