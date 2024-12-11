@@ -426,7 +426,7 @@ A mute-and-alarm option should be available, so that after a chosen time, for ex
 
 The reason my generation snyly laughs at this, is because, insidiously, the people who block aren't starving enough that they can see how painful being blocked is — oh, they see it's painful, but not how much. People who've blocked me brought me inches within literal death. Starting from Psyche, my communication trauma snowballed. Communication is the only connection a person has to other humans. When that's destroyed, a person like me has nothing. But those in royalty have no pity or empathy for this. They are bullies.
 
-Psyche was the first person to block me. In the 3 - 4 years that followed, a total of 34 people have blocked me. That is either a huge coincidence, or major communication-trauma. 1995 - 2020, 0 people blocked me. Late 2020 - 2024, 34, including the [2017 person above who I described ("secret person")](#marriage-counselors-for-arbitrary-pairs-of-people). I did get accepted into the Drama House in 2014, and kicked out of a drama house in 2017, and maybe one person did block me in 2017, perhaps being the actual first, maybe.
+Psyche was the first person to block me. In the 3 - 4 years that followed, a total of 34 people have blocked me. That is either a huge coincidence, or major communication-trauma. 1995 - 2020, 0 people blocked me. Late 2020 - 2024, 34, including the [2017 person above who I described ("secret person")](#marriage-counselors-for-arbitrary-pairs-of-people). 
 
 It's not a message from me. It's not a coincidence, but a synchronicity. The number of people who blocked me shortly after Psyche is too extreme to be random, but also too extreme to be ordinary. I didn't have them block me on purpose! Each block was traumatic, and many led to gas being leaked into my lungs. But the consciousness change in each scenario that led to blocking, usually something suddenly awkward (not anything bad), was probably God/universe-induced. The message that I can take away is this anti-bullying pop-up, as small and unimportant as it seems. God's brain is becoming hemorrhaged, from all of the blocking that people do.
 
@@ -439,6 +439,8 @@ Almost everybody I could turn to besides people who were just as socially isolat
 (And to be fair to them, my consciousness was changing a lot. 2020 - 2023 were when the biggest synchronicities were happening, including Biblical ones, and not described in this book, enough for an independent book, or just as an offhand reference for this one that serves no purpose except to let it be known that I didn't even finish writing all of what the universe may have wanted me to).
 
 Of everything that happened to me, the most traumatic were these blockings.
+
+I did get accepted into the Drama House in 2014, and kicked out of a drama house in 2017, and maybe one person did block me in 2017, perhaps being the actual first, maybe.
 
 ## Rituals, Religion, & Hell
 
