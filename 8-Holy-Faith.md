@@ -440,7 +440,7 @@ Almost everybody I could turn to besides people who were just as socially isolat
 
 Of everything that happened to me, the most traumatic were these blockings.
 
-Before that, I did get accepted into the Drama House in 2014, and kicked out of a drama house in 2017 (that's a whole thematically relevant story that would require permission), and maybe one person did block me in 2017, perhaps being the actual first, maybe, and there were people I blocked 2017 and before, who I unblocked after realizing I didn't have a good reason to block them. This issue is insidious, ubiquitous, and not one I would've thought important.
+Before that, I did get accepted into the Drama House in 2014, and kicked out of a drama house in 2017 (that's a whole thematically relevant story that would require permission), and maybe one person did block me in 2017, perhaps being the actual first, maybe, and there were people I blocked 2017 and before, who I unblocked after realizing I didn't have a good reason to block them. This issue is insidious and ubiquitous.
 
 ## Rituals, Religion, & Hell
 
