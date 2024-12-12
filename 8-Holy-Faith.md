@@ -12,7 +12,7 @@ By the literal meaning of the words, I don't think "Right To Die" is "Right For 
 - One permits a person to take actions towards suicide, including talking to a therapist about those actions, without coercion (e.g., hospitalization, drugging, intervention), and without punishment.
 - The other gives doctors permission to assist with the suicide.
 
-"Right To Die," by my way more literal interpretation, only changes one item from the current legality in New York: gets rid of involuntary institutionalization and coerced chemicals for planning to commit suicide, so that somebody planning to commit suicide, but not wanting the security of their plan ruined, can get therapy, and not just through philosophy and art.
+"Right To Die," by my way more literal interpretation, only changes one item from th current legality in New York: gets rid of involuntary institutionalization and coerced chemicals for planning to commit suicide, so that somebody planning to commit suicide, but not wanting the security of their plan ruined, can get therapy, and not just through philosophy and art.
 
 Here is my favorite Shakespeare sonnet:
 
@@ -466,7 +466,7 @@ One disproof of it can change a person's life permanently.
 
 I have yet to see a single implementable policy for the "specter of unfair villification" until now. This pop-up is an easy addition that hurts nobody and limits no freedoms. "Down with walls!" is a more radical statement, but wouldn't hurt to be integrated into movements whose principles claim to be about compassion and tolerance, but also movements who argue for the importance of dialogue, continued dialogue, and tolerance to that dialogue.
 
-The two biggest blocks happened under extraordinary consciousness circumstances starting from when I was at a meditation retreat, at the Zen Center, with the TM group, in 2022, where I messaged Psyche and "secret person" and my therapist who I'd been seeing for a year that week, all at once. That was unambiguously a synchronicity, a cruel one that I will never forgive the universe for. Details not specified. It was also my birthday week and exactly when I suddenly lost a lot of money. I served 30ish peope at that meditation retreat because I was volunteering there, doing all the dishes and preparing and serving the food. I can't elaborate, but this is painful and the worst thing that ever happened to me resulted. 
+The two biggest blocks happened under extraordinary consciousness circumstances starting from when I was at a meditation retreat, at the Zen Center, with the TM group, in 2022, where I messaged Psyche and "secret person" and my therapist who I'd been seeing for a year that week, all at once. That was unambiguously a synchronicity, a cruel one that I will never forgive the universe for. Details not specified. It was also my birthday week and when I suddenly lost a lot of money. I served 30ish peope at that meditation retreat because I was volunteering there, doing all the dishes and preparing and serving the food. I can't elaborate, but this is painful and the worst thing that ever happened to me resulted. 
 
 ## Rituals, Religion, & Hell
 
