@@ -462,7 +462,7 @@ There is always more context, and blocking blocks the blocker's ability to learn
 
 People need love. The lack of it is mortal.
 
-A disproof of it from one person can change a person's life permanently.
+One disproof of it can change a person's life permanently.
 
 ## Rituals, Religion, & Hell
 
