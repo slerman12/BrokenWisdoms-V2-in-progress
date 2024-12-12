@@ -466,6 +466,8 @@ One disproof of it can change a person's life permanently.
 
 I have yet to see a single implementable policy for the "specter of unfair villification" until now. This pop-up is an easy addition that hurts nobody and limits no freedoms. "Down with walls!" is a more radical statement, but wouldn't hurt to be integrated into movements whose principles claim to be about compassion and tolerance, but also movements who argue for the importance of dialogue, continued dialogue, and tolerance to that dialogue.
 
+The two biggest blocks happened under extraordinary consciousness circumstances starting from when I was at a meditation retreat, at the Zen Center, with the TM group, in 2022. That was unambiguously a synchronciity, a cruel one that I will never forgive the universe for. Details not specified.
+
 ## Rituals, Religion, & Hell
 
 One of the most powerful rituals was during the Psyche hospitalization. When they first brought me in, before the psychiatric unit, I was held in some various different rooms. One of them, was part of a hallway where there was a male nurse sitting outside, who looked just like my best friend. He even had a nametag that I think was my best friend's first name, so I vaguely recall. I knew it wasn't my best friend, but somehow led him in a ritual, that he willingly participated in. The state I was in was shamanic. He was about my age and let me speak to him as if I was speaking to my best friend, as he literally went along with sitting on the floor, since I was playful and had unambiguous humor and self awareness in my voice, but had some "commanding" flying colors. I understood the nurse wasn't literally him, my best friend who I projected lucidly-but-not-fully-intentionally.
