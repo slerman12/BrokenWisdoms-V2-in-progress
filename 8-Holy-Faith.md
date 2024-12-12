@@ -460,7 +460,9 @@ Before that, I did get accepted into the Drama House in 2014, and kicked out of 
 
 There is always more context, and blocking blocks the blocker's ability to learn about more context. More context can change verything More context can make a blocking decision evil, cruel, heartless, and unjustifiable. More context can expose a bully as a bully victim, or a bully victim as a bully. Blocking oneself to context risks seriously ignoring preventable pain. "Pause, meditate, return"; or mute/"Punch"; but in any case, all I'm proposing in this contentious chapter is an anti-bullying pop-up, in case one's decision to block *might* carry the risk of some attributes of bullying or literally killing an innocent person previously not on death's edge.
 
-Perople need love. The lack of it is mortal.
+People need love. The lack of it is mortal.
+
+A disproof of it from one person can change a person's life permanently.
 
 ## Rituals, Religion, & Hell
 
