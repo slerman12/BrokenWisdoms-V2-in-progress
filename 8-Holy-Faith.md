@@ -450,7 +450,7 @@ Almost everybody I could turn to besides people who were just as socially isolat
 
 All of the blocks followed the traumas and [other traumas](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/tree/main), and yet others unmentioned, that, individually (meaning, even not-in-combination), would destroy a person, but didn't in my case. The blocks did.
 
-(Note: I don't know if it was 34. It was probably more like 10 - 30, but the baseline was 0, and I'm not talking about dating apps).
+(Note: I don't know if it was 34. It was probably more like 15 - 40, but the baseline was 0, and I'm not talking about dating apps).
 
 (And to be fair to them, my consciousness was changing a lot. 2020 - 2023 were when the biggest synchronicities were happening, including Biblical ones, and not described in this book, enough for an independent book, or just as an offhand reference for this one that serves no purpose except to let it be known that I didn't even finish writing all of what the universe may have wanted me to in this one).
 
