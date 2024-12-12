@@ -419,7 +419,7 @@ A block/mute-and-alarm option should be available, so that after a chosen time, 
 - Somebody muted should maybe have the choice about whether their messages would be seen if they've been muted.
 - "Mute with read receipt turned off" should maybe be called "Punch" or something like that so that blockers have more emotional incentive to select that option over blocking. "Block" has a meaner sound to it that people might gravitate towards in heated emotional moments currently.
 
-Pause, meditate, return, is my philosophy. Pause can be a long time.
+"Pause, meditate, return," is my philosophy. "Pause" can be a long time.
 
 **Argument:** These little things don’t matter *that* much. </br>
 **Counterargument:** <!--child basketball hoop access replaced with paved cement starting to overgrow with grass. --> Of every trauma I went through, being blocked was the biggest.
