@@ -414,7 +414,7 @@ Apps should have an anti-bullying pop-up warning when a person selects the block
 
 <!--If the other person can know if they’ve been blocked, then that incentivizes blockers to choose the blocking over muting option. So maybe apps should have no way of a recipient discovering whether the other person has blocked or muted. -->
 
-A mute-and-alarm option should be available, so that after a chosen time, for example, a month, year, decade, a blocker can remind themselves that they've put a person on pause, since blocking is a form of bullying sometimes and causes a lot of pain. 
+A block/mute-and-alarm option should be available, so that after a chosen time, for example, a month, year, decade, a blocker can remind themselves that they've put a person on pause, since blocking is a form of bullying sometimes and causes a lot of pain. 
 - Apps also should allow muters to look at a block-ee's messages without the read receipt going off. <!--It's responsible to peak in to make sure it really isn’t your responsibility, even without the "seen" bell going off. But maybe-->
 - Somebody muted should maybe have the choice about whether their messages would be seen if they've been muted. 
 
