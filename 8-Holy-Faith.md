@@ -456,7 +456,7 @@ All of the blocks followed the traumas and [other traumas](https://github.com/an
 
 Of everything that happened to me, the most traumatic were these blockings.
 
-Before that, I did get accepted into the Drama House in 2014, and kicked out of a drama house in 2017 (that's a whole thematically relevant story connected to transcendence and identity limitation that would require permission), and maybe one person did block me in 2017, perhaps being the actual first, maybe, and there were a total of two people I blocked in my life, who I'm pretty sure didn't notice or weren't severely affected, and who I unblocked after realizing I didn't have a good reason to block them. <!--This issue is insidious and ubiquitous.-->
+Before that, I did get accepted into the Drama House in 2014, and kicked out of a drama house (different building, independent reference) in 2017 (that's a whole thematically relevant story connected to transcendence and identity limitation that would require permission), and maybe one person did block me in 2017, perhaps being the actual first, maybe, and there were a total of two people I blocked in my life, who I'm pretty sure didn't notice or weren't severely affected, and who I unblocked after realizing I didn't have a good reason to block them. <!--This issue is insidious and ubiquitous.-->
 
 There is always more context, and blocking blocks the blocker's ability to learn about any previously unknown context that could make their decision in doing that extremely evil, cruel, heartless, and unjustifiable. Blocking oneself to context risks seriously ignoring easily preventable, unintrusive injustice. Pause, meditate, return; or mute; but in any case, all I'm proposing in this contentious chapter is an anti-bullying pop-up.
 
