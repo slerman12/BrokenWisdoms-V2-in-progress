@@ -464,7 +464,7 @@ People need love. The lack of it is mortal.
 
 One disproof of it can change a person's life permanently.
 
-I have yet to see a single implementable policy for the "specter of unfair villification" until now. This pop-up is an easy step that hurts nobody and limits no freedoms. "Down with walls!" is a more radical statement, but wouldn't hurt to be integrated into movements whose principles claim to be about compassion and tolerance, but also movements who argue for the importance of dialogue, continued dialogue, and tolerance to that dialogue.
+I have yet to see a single implementable policy for the "specter of unfair villification" until now. This pop-up is an easy addition that hurts nobody and limits no freedoms. "Down with walls!" is a more radical statement, but wouldn't hurt to be integrated into movements whose principles claim to be about compassion and tolerance, but also movements who argue for the importance of dialogue, continued dialogue, and tolerance to that dialogue.
 
 ## Rituals, Religion, & Hell
 
