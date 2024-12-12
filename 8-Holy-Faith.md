@@ -460,6 +460,8 @@ Before that, I did get accepted into the Drama House in 2014, and kicked out of 
 
 There is always more context, and blocking blocks the blocker's ability to learn about more context. More context can change verything More context can make a blocking decision evil, cruel, heartless, and unjustifiable. More context can expose a bully as a bully victim, or a bully victim as a bully. Blocking oneself to context risks seriously ignoring preventable pain. "Pause, meditate, return"; or mute/"Punch"; but in any case, all I'm proposing in this contentious chapter is an anti-bullying pop-up, in case one's decision to block *might* carry the risk of some attributes of bullying or literally killing an innocent person previously not on death's edge.
 
+Perople need love. The lack of it is mortal.
+
 ## Rituals, Religion, & Hell
 
 One of the most powerful rituals was during the Psyche hospitalization. When they first brought me in, before the psychiatric unit, I was held in some various different rooms. One of them, was part of a hallway where there was a male nurse sitting outside, who looked just like my best friend. He even had a nametag that I think was my best friend's first name, so I vaguely recall. I knew it wasn't my best friend, but somehow led him in a ritual, that he willingly participated in. The state I was in was shamanic. He was about my age and let me speak to him as if I was speaking to my best friend, as he literally went along with sitting on the floor, since I was playful and had unambiguous humor and self awareness in my voice, but had some "commanding" flying colors. I understood the nurse wasn't literally him, my best friend who I projected lucidly-but-not-fully-intentionally.
