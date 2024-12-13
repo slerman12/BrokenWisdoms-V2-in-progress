@@ -354,6 +354,8 @@ That being said, the University of Rochester seems to supply [janitors](4-Opposi
 
 When near people, there should be an app, that those who've signed up on that app can specify what kind of approaches they're comfortable with from strangers, and, people in proximity to each other can see the notes and checkmarked preferances of the person. That way, there isn't so much dependence on Tinder and dating apps, but some amount of comfort can be pre-established, for both the person being approached and the person risking approaching, maybe. 
 
+The downside is, people you may know might be able to then see your notes and checkmarked preferances, and that could be embarassing, so perhaps the activity of that app per person can be retsricted to certain locations, e.g., a bar, night club, the beach, and maybe even excluding people in one's contacts.
+
 ### Love Starvation
 
 Love starvation is a coercion issue, because when people are hungry, they have to eat, no matter what "love" is given to them. There's no choice in that for a starving person, and that is a form of coercion, if a person only has one choice at any given time for who they can receive love from.
