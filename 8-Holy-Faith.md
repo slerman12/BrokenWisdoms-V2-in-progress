@@ -358,7 +358,7 @@ The downside is, people you may know might be able to then see your notes and ch
 
 For example, if I were an attractive woman—just empathizing here—I would maybe write in my notes: "no 5' 5" guys with deeply seated trauma and medically induced hair loss"—to be extra sure that such a creepo doesn't approach me.
 
-(In reality, I would probably write "Anything goes.").
+(In reality, I would probably write, "Anything goes.").
 
 ### Love Starvation
 
