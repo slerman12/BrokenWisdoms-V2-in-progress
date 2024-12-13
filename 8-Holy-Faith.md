@@ -350,6 +350,10 @@ The fields of psychology and psychiatry have adopted mindfulness, DBT, and such 
 
 That being said, the University of Rochester seems to supply [janitors](4-Opposing-Views.md#janitor-friend).
 
+### Approach Consent Apps
+
+When near people, there should be an app, that those who've signed up on that app can specify what kind of approaches they're comfortable with from strangers, and, people in proximity to each other can see the notes and checkmarked preferances of the person. That way, there isn't so much dependence on Tinder and dating apps, but some amount of comfort can be pre-established, for both the person being approached and the person risking approaching, maybe. 
+
 ### Love Starvation
 
 Love starvation is a coercion issue, because when people are hungry, they have to eat, no matter what "love" is given to them. There's no choice in that for a starving person, and that is a form of coercion, if a person only has one choice at any given time for who they can receive love from.
