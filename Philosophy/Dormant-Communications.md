@@ -21,3 +21,5 @@ And while that scrutiny can be answered by proposing that God's attention is pri
 It's still absurd to imagine that all of that space beyond is connected within the intelligence of a being who is predominantly focussing on us as central to that being's designs and attention, or that we might be connected to other such sub-networks of species far beyond in galaxies incomprehensible through that same being, all entangled (or not) and planning together.
 
 With all that intelligence, it's hard to imagine [*why* unethical realities might still exist on the face of this human-centric blip of a planet, and the reasoning for the laws of physics as they are](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/Consciousness.md#cosmogenesis-myth).
+
+> To do: Add a long Q & A answering every question, like why non-local intelligences wouldn't prove themselves by communicating, for example, an SOS signal when somebody is stranded, and elaboration on why physics are the way they are, the physics that would seem at first imperfect given the mass amounts of suffering and atrocity caused through them
