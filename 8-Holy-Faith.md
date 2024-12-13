@@ -419,7 +419,7 @@ Apps should have an anti-bullying pop-up warning when a person selects the block
 - Somebody muted should maybe have the choice about whether their messages would be delivered and seen if they've been muted according to this option.
 - "Mute with read receipt turned off" should maybe be called "Punch" or something like that so that blockers have more emotional incentive to select that option over blocking. "Block" has a meaner sound to it that people gravitate towards in heated emotional moments.
 
-"Pause, meditate, return," is my philosophy about this, for the sake of being responsible to otehrs, I think. "Pause" can be a long time, hours or decades. I don't believe in prohibiting anybody from muting/blocking forever, but that's my general philosophy. The principles informing that, besides my own subjective pain, are: compassion/tolerance, continued dialogue, and perspective about how little one might have to do to potentially prevent a big injustice.
+"Pause, meditate, return," is my philosophy about this, for the sake of being responsible to others, I think. "Pause" can be a long time, hours or decades. I don't believe in prohibiting anybody from muting/blocking forever, but that's my general philosophy. The principles informing that, besides my own subjective pain, are: compassion/tolerance, continued dialogue, and perspective about how little one might have to do to potentially prevent a big injustice.
 
 **Argument:** These little things don’t matter *that* much. </br>
 **Counterargument:** <!--child basketball hoop access replaced with paved cement starting to overgrow with grass. --> Of every trauma I went through, being blocked was the biggest.
