@@ -484,7 +484,7 @@ The two biggest blocks happened under extraordinary consciousness circumstances 
 
 One injustice snowballs into bigger injustices. I think a pop-up is a small, but possibly preventative measure.
 
-Mental health is heavily connected to relationships. An anti-bullying pop-up scales to so many people that, despite the small effect, some relationships might be saved, some traumas might be prevented, and kids under 18 might be spared some of the coldness that the era of technology creates through the substitution of people for phone, AI, and judgement without eyes, ears, or sense percept in the humanized object. Judging a person as their phone communications is objectifying and undignfying, and possibly an extreme infliction of cruelty on somebody not prepared.
+Mental health is heavily connected to relationships. An anti-bullying pop-up scales to so many people that, despite the small effect, some relationships might be saved, some traumas might be prevented, and kids under 18 might be spared some of the coldness that the era of technology creates through the substitution of people for phone, AI, and judgement without eyes, ears, or sense percept in the humanized object. Judging a person as their phone communications is objectifying and undignfying, and possibly an extreme infliction of cruelty on somebody not prepared. When a person has few others to turn to in their life, that cold banishment of a person feels like a death sentence from the world's meanest, most unloving God.
 
 ## Rituals, Religion, & Hell
 
