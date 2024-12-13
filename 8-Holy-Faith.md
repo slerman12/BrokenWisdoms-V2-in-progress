@@ -514,6 +514,8 @@ Meanwhile, before and after, astonishing [synchronicities](https://en.wikipedia.
 
 My benzo trauma was with a [comparatively](https://www.mdcalc.com/calc/10091/benzodiazepine-conversion-calculator) higher dose than what Jordan Peterson took (he took approximately 12% - 80% the dose I did, and that's when I was taking them at the lowest dose the psychiatrists had reduced to), and preceded the situation Mikhaila Peterson, his daughter, described ([originally on her channel](https://youtu.be/laheAXdZK7w)), about how the professional psychoanalyst was caught off guard by the severe damages that the drugs caused, wherein he took [0.5 mg](https://ashnavabi.com/2022/01/19/jordan-peterson-was-not-addicted-to-benzos/) of [Clonazepam](https://windwardway.com/rehab-blog/jordan-peterson-finishes-lengthy-treatment-for-addiction/) per day as prescribed, reportedly, and unlike him I didn’t have the entire Russian army brigade bringing me into health (he went to Russia, where they were the first to have the medicine and specialized treatment to help him).
 
+`My benzo trauma preceded his by a year.`
+
 ### Mikhaila Peterson
 
 Prior to that, by coincidence, his daughter Mikhaila (thankfully) recommended the steak-only diet (for an independent thing), which is where I heard it from, a clip from her podcast. That’s a global-level synchronicity involving them that happened after I was put through all of this crisis, which contributed to bringing me out, as well as my hair growing back, thanks to her diet recommendation.
