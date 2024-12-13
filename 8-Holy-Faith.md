@@ -360,7 +360,7 @@ For example, if I were an attractive woman—just empathizing here—I would may
 
 (In reality, I would probably write, "Anything goes.").
 
-Side note: *these can also be used for friend making.*
+Side note: *these can also be used for friend making*, and enabled/disabled.
 
 ### Love Starvation
 
