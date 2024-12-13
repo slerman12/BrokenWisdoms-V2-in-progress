@@ -137,7 +137,7 @@ My uncle Slava was the first of my grandparents' descendants to be born, followe
       - Michael L. Scott
         - Summary of why interim
 - [**Disproof**](3-Disproof.md)
-    - Part 4
+    - Part 1
       - Email: 10/27/2023
       - Email: 10/30/2023
       - 10/30/2023 - 10/31/2023, and 7 years ago - now
@@ -152,14 +152,31 @@ My uncle Slava was the first of my grandparents' descendants to be born, followe
       - Email: 10/31/2023
       - Conclusive disproof
 - [**Holy Faith**](4-Faith.md)
-    - Part 5
+    - Part 1
       - Right to talk about suicide seriously 
         - Academia & medicine
         - Love & loneliness
       - Friends
       - Allies
       - Enemies
-    - Synchronicities
+    - Part 2
+      - Comedic Aside: Sexier Moments During Chenliang Advising:
+        - Psyche Hospitalization
+      - Actual Methods of Mental Healthcare, Proposed by Me
+        - Gradually Reducing the Coercion on Kids by Schools
+        - Socialization Workers
+        - Health Insurers, Including Medicaid and Medicare, Covering Dietary Prescriptions
+        - Marriage Counselors For Arbitrary Pairs of People
+        - Right to Talk About Suicide Seriously
+        - Publicly Funded Event Organizing to the Public
+        - Hospital Environments
+        - Intimacy Healing
+        - Love Starvation
+        - Normalizing Truths and the Processes Therein
+        - Ashkenazi, not Nazi!
+        - Anti-Bullying Pop-Up
+      - Rituals, Religion, & Hell
+    - Synchronicities (Part 3)
       - Chris Kanan (Deus ex memory)
       - Jordan Peterson
       - Mikhaila Peterson
