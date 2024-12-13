@@ -6,13 +6,13 @@ Dialogue of the Congress 1
 
 War
 
-When the Nazis came to Ukraine, they did not arrive as strangers. Long before their boots touched the soil, anti-Semitism had already taken root among the general populace of Ukraine. The Jews of Ukraine—Ashkenazi Jews, like my family—went from persecuted to tortured, including forced displacement, and mass killings, with many victims executed and buried in mass graves. My grandpa, Yury, only thirteen at the time, fled with his mother, Maná, and younger sister, Rosá, escaping eastward to the relative safety of Kazakhstan, as many other Jews evacuated similarly.
+When the Nazis came to Ukraine, they did not arrive as strangers. Long before their boots touched the soil, anti-Semitism had already taken root among the general populace of Ukraine. The Jews of Ukraine—Ashkenazi Jews, like my family—went from persecuted to tortured, including forced displacement, and mass killings, with many victims executed and buried in mass graves. My grandpa, Yury, only 13 at the time, fled with his mother, Maná, and younger sister, Rosá, escaping eastward to the relative safety of Kazakhstan, as many other Jews evacuated similarly.
 
 Years later, when the war ended, they came back to Chernihiv. Yakob, Yury’s father, had been drafted to fight for Ukraine. He survived the war, and they were reunited—husband with wife, father with children. For years they had been apart.
 
 A New Name
 
-At sixteen, my grandpa formalized his name on the official record. He was born "Izya," a Jewish name, but in a world like his, being openly Jewish was dangerous. He adopted "Yury"—a name that could help him survive. The nickname for "Yury," which he also went by, was "Yura." During the war, his documents had been lost, and when he had to make things official, he chose "Yury" for good. His last name, though, stayed the same: "Lerman,” an old Ashkenazi Jewish surname with German origins.
+At 16, my grandpa formalized his name on the official record. He was born "Izya," a Jewish name, but in a world like his, being openly Jewish was dangerous. He adopted "Yury"—a name that could help him survive. The nickname for "Yury," which he also went by, was "Yura." During the war, his documents had been lost, and when he had to make things official, he chose "Yury" for good. His last name, though, stayed the same: "Lerman,” an old Ashkenazi Jewish surname with German origins.
 
 Asya and Yury
 
@@ -26,7 +26,7 @@ Samarkand is an old city. Maybe [one of the oldest in the world](https://www.adv
 
 In that city, my uncle Slava was born first, then my mother, Nélya. Later, my aunt Jenya had two daughters, Lena and Irina, with Lena being the oldest. All of us—my cousins, my sister, and I—were born in Samarkand, Ashkenazi Jews, all heritage sides, in an ancient, multi-ethnic city.
 
-My mother was thirty-three when she had my sister, Marina. Five years later, at thirty-eight, she had me. My sister’s name was inspired by Maná, but my mother wanted something different, so she chose "Marina." My name? "Sam of Samarkand" emerged only after we immigrated to America. My real name is Siímyon. I was named after my grandmother’s sister’s late husband, Siímyon, who passed away years before I was born. But my family calls me "Syoma."
+My mother was 33 when she had my sister, Marina. Five years later, at 38, she had me. My sister’s name was inspired by Maná, but my mother wanted something different, so she chose "Marina." My name? "Sam of Samarkand" emerged only after we immigrated to America. My real name is Siímyon. I was named after my grandmother’s sister’s late husband, Siímyon, who passed away years before I was born. But my family calls me "Syoma."
 
 “Sam of Samarkand” (nor “Marina of Maracanda,” actually) wasn’t planned. It just happened. My name took an especially roundabout path from Siímyon, ultimately becoming “Sam of Samarkand” in America [independent of any of us](3-Opposing-Views.md#immigration).
 
