@@ -520,7 +520,7 @@ My benzo trauma was with a [comparatively](https://www.mdcalc.com/calc/10091/ben
 
 Prior to that, by coincidence, his daughter Mikhaila (thankfully) recommended the steak-only diet (for an independent thing), which is where I heard it from, a clip from her podcast. That’s a global-level synchronicity involving them that happened after I was put through all of this crisis, which contributed to bringing me out, as well as my hair growing back, thanks to her diet recommendation.
 
-`My hair grew back thanks to her diet recommendation, which also tied to an I Ching prediction. It just happened her father went through the world's most sensationalized benzo trauma shortly after me.`
+`My hair grew back thanks to her diet recommendation, which also tied to an I Ching prediction. It just happened her father went through the world's most sensationalized benzo trauma prior to this and within a year after me.`
 
 ### Timing of benzodiazepine coercion [diagram](https://github.com/slerman12/Detective-Sam/assets/9126603/497f6d9b-ff12-4e6a-97c5-e5230c05e505)
 
