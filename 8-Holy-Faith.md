@@ -356,7 +356,7 @@ When near people, there should be an app, that those who've signed up on that ap
 
 The downside is, people you may know might be able to then see your notes and checkmarked preferances, and that could be embarassing, so perhaps the activity of that app per person can be restricted to certain locations, e.g., a bar, night club, the beach, and maybe even excluding people in one's contacts.
 
-For example, if I were an attractive woman—just empathizing here—I would maybe write in the notes: "no 5' 5" guys with deeply seated trauma and medically induced hair loss"—to be extra sure that such a creepo doesn't approach me.
+For example, if I were an attractive woman—just empathizing here—I would maybe write in my notes: "no 5' 5" guys with deeply seated trauma and medically induced hair loss"—to be extra sure that such a creepo doesn't approach me.
 
 ### Love Starvation
 
