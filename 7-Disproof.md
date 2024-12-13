@@ -345,7 +345,7 @@ $\rightarrow |x| = 0$
 
 $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
-Their alleged reason for terminating me was that I violated <!--a policy in--> the PhD student handbook. Here is a proof, derived mathematically, that they have violated and are currently violating <!--a policy in--> the PhD student handbook. Of course, whether I did, is still a question, since I notified the faculty in advance with extremely good cause that I wouldn't attend the make-up review and they didn't disapprove.
+Their alleged reason for terminating me was that I violated <!--a policy in--> the PhD student handbook. Here is a proof, derived mathematically, that they have violated and are currently violating <!--a policy in--> the PhD student handbook. Of course, whether I did, is still a question, since I notified the faculty well in advance with extremely good cause that I wouldn't attend the make-up review and they didn't disapprove.
 
 #
 
