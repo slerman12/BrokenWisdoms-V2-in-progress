@@ -178,13 +178,13 @@ My uncle Slava was the first of my grandparents' descendants to be born, followe
         - Anti-Bullying Pop-Up
       - Rituals, Religion, & Hell
     - Synchronicities (Part 3)
-      - Chris Kanan (Deus ex memory)
       - Jordan Peterson
       - Mikhaila Peterson
       - Timing of benzodiazepine coercion diagram
       - CMT deletion of record
       - Sam "Altman"
       - Michael Scott’s paper factory
+      - Chris Kanan (Deus ex memory)
       - "Life ruined" post
       - House on May St.
 - [**Early Work in Program**](9-Early-Work-in-Program.md)
