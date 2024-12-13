@@ -466,7 +466,7 @@ All of the blocks followed the traumas and [other traumas](https://github.com/an
 
 (Note: I don't know if it was 34. It was probably more like 15 - 34, but the baseline was 0, and I'm not writing about dating apps<!--, the conversations from which haven't had especially negative effects on me, though those also have harmful bullying behaviors-->, only text/Messenger/WhatsApp/Telegram).
 
-(To be fair to them, my consciousness was changing a lot. 2020 - 2023 were when the biggest synchronicities were happening, including Biblical ones, and not described in this book, enough for an independent book, or just as an offhand reference for this one that serves no purpose except to let it be known that I didn't even finish writing all of what the universe may have wanted me to<!-- in this one-->).
+(To be fair to them, my consciousness was changing a lot. 2020 - 2023 were when the biggest synchronicities were happening, including Biblical ones, and not described in this book, enough for an independent book, or just as an offhand reference for this one that serves no purpose except to let it be known that I didn't even finish writing all of what the universe may have wanted<!-- me to--><!-- in this one-->).
 
 Of everything that happened to me, the most traumatic were these blockings.
 
