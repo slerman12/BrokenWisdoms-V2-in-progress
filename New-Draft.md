@@ -12,7 +12,7 @@ Years later, when the war ended, they came back to Chernihiv. Yakob, Yury’s fa
 
 A New Name
 
-At 16, my grandpa formalized his name on the official record. He was born "Izya," a Jewish name, but in a world like his, being openly Jewish was dangerous. He adopted "Yury"—a name that could help him survive. The nickname for "Yury," which he also went by, was "Yura." During the war, his documents had been lost, and when he had to make things official, he chose "Yury" for good. His last name, though, stayed the same: "Lerman,” an old Ashkenazi Jewish surname with German origins.
+At 16, my grandpa formalized his name on the official record. He was born "Izya," a Jewish name, but in a world like his, being openly Jewish was dangerous. He adopted "Yury"—a name that could help him survive. The nickname for "Yury," which he also went by, was "Yura." During the war, his documents had been lost, and when he had to make things official, he chose "Yury" for good. His last name, though, stayed the same: "Lerman," an old Ashkenazi Jewish surname with German origins.
 
 Asya and Yury
 
@@ -28,7 +28,7 @@ In that city, my uncle Slava was born first, then my mother, Nélya. Later, my a
 
 My mother was 33 when she had my sister, Marina. Five years later, at 38, she had me. My sister’s name was inspired by Maná, but my mother wanted something different, so she chose "Marina." My name? "Sam of Samarkand" emerged only after we immigrated to America. My real name is Siímyon. I was named after my grandmother’s sister’s late husband, Siímyon, who passed away years before I was born. But my family calls me "Syoma."
 
-“Sam of Samarkand” (nor “Marina of Maracanda,” actually) wasn’t planned. It just happened. My name took an especially roundabout path from Siímyon, ultimately becoming “Sam of Samarkand” in America [independent of any of us](3-Opposing-Views.md#immigration).
+"Sam of Samarkand" (nor "Marina of Maracanda," actually) wasn’t planned. It just happened. My name took an especially roundabout path from Siímyon, ultimately becoming "Sam of Samarkand" in America [independent of any of us](3-Opposing-Views.md#immigration).
 
 `Synchronicity 1. My name is Sam.` 
 
@@ -38,21 +38,21 @@ Severe Eczema Since a Month and a Half, Infancy
 
 From just a month and a half old, I had severe eczema. It wasn’t something I could escape. The itchiness overwhelmed me, and my tiny infant hands couldn’t stop scratching—scratching until my skin bled, as my mom described. It was endless. I cried, scratched, and cried some more. My mom, desperate to help, put me in a baby’s shirt with mittens sewn onto the sleeves, trying to stop the scratching, trying to stop me from hurting myself.
 
-By the time I was two or three, a family friend named Shafkad told my mom about a man—a healer living far away in a village. He wasn’t a doctor, but a kind of shaman, someone who might have a cure. My mom agreed to go. Shafkad drove us to this far-off village, which looked different from where we lived—“looking-uncivilized-village,” my mom described, in the sense that it seemed ancient, rustic.
+By the time I was two or three, a family friend named Shafkad told my mom about a man—a healer living far away in a village. He wasn’t a doctor, but a kind of shaman, someone who might have a cure. My mom agreed to go. Shafkad drove us to this far-off village, which looked different from where we lived—"looking-uncivilized-village," my mom described, in the sense that it seemed ancient, rustic.
 
-When we arrived, a man came out, someone Shafkad knew, and he told my mom, “I’ll take him to the healer. No, you stay here.”
+When we arrived, a man came out, someone Shafkad knew, and he told my mom, "I’ll take him to the healer. No, you stay here."
 
 My mom wanted to come along, but the man wouldn’t allow it. "No. You not allowed." Maybe because she was a woman, and this was a Muslim village. 
 
-She hesitated, but Shafkad reassured her. “No, no. They’re good people. They heal.”
+She hesitated, but Shafkad reassured her. "No, no. They’re good people. They heal."
 
 And so, reluctantly, she stayed behind. I went.
 
 After about twenty minutes, they brought me back. The man who had taken me returned with the healer. He was a short, middle-aged man—maybe in his 40s or 50s—who looked Uzbek or perhaps Tajik.
 
-The healer looked at my mom and said, “Sorry. I couldn’t. I don’t know how to. I couldn’t help your son. I don’t know how to fix it.” That was it. He didn’t accept payment. “I couldn’t heal him. I can’t.”
+The healer looked at my mom and said, "Sorry. I couldn’t. I don’t know how to. I couldn’t help your son. I don’t know how to fix it." That was it. He didn’t accept payment. "I couldn’t heal him. I can’t."
 
-Before we left, the healer spoke again. “Are you going to America? Maybe they can heal him there. They have better doctors.”
+Before we left, the healer spoke again. "Are you going to America? Maybe they can heal him there. They have better doctors."
 
 My mom didn’t know how he knew about our plans to immigrate, if Shafkad had told him or how.
 
