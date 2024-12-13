@@ -22,4 +22,6 @@ It's still absurd to imagine that all of that space beyond is connected within t
 
 With all that intelligence, it's hard to imagine [*why* unethical realities might still exist on the face of this human-centric blip of a planet, and the reasoning for the laws of physics as they are](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/Consciousness.md#cosmogenesis-myth).
 
-> To do: Add a long Q & A answering every question, like why non-local intelligences wouldn't prove themselves by communicating, for example, an SOS signal when somebody is stranded, and elaboration on why physics are the way they are, the physics that would seem at first imperfect given the mass amounts of suffering and atrocity caused through them
+> To do: Add a long Q & A answering every question, like why non-local intelligences wouldn't prove themselves by communicating, for example, an SOS signal when somebody is stranded, and elaboration on why physics are the way they are, the physics that would seem at first imperfect given the mass amounts of suffering and atrocity caused through them.
+>
+> I can and have answered these questions philosophically, but writing them takes a little bit of force from my cognitive will because sometimes my writing is inspired and requires no will, and I worry in those cases the writing quality is actually worse, and writing by force might mean I might have to edit and completely overhaul everything I wrote by force, and that would be disheartening.
