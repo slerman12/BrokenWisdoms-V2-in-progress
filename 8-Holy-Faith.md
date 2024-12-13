@@ -488,7 +488,7 @@ Physical and mental health are heavily connected to relationships. An anti-bully
 
 (Although, I don't think it was the traumas, but a superconscious or God force that changed my personality, and the fear resultant from that, as my mind was disrupted too quickly and extremely like by telepathic force, invaders, or a higher plan meant to teach me the 10 - 13 specific proposed medical policies here in this part of this book).
 
-But there is something to say about emotional intelligence culture. Words like "toxic" have become really commonplace and used too readily, describing *people*, as if *people* are waste. Behaviors can be bad for specific reasons, but Frankenstein monsters are created, not born, in my opinion, and the reason perceiving a person "toxic" readily is a toxic behavior is because it means you've internalized a sense of superiority about yourself over that person, that you yourself are not guilty or would not be guilty of the same things or if shoes were reversed.
+But there is something to say about emotional intelligence culture. Words like "toxic" have become really commonplace and used too readily, describing *people*, as if *people* are waste. Behaviors can be bad for specific reasons, but Frankenstein monsters are created, not born, in my opinion, and the reason perceiving a person "toxic" readily is a toxic behavior is because it means you've internalized a sense of superiority about yourself over that person, that you yourself are not guilty or would not be guilty of the same things or if shoes were reversed. I would probably call this "hypocrisy culture," which seems to be the ruling culture.
 
 ## Rituals, Religion, & Hell
 
