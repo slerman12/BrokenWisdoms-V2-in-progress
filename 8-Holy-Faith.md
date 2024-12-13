@@ -362,7 +362,7 @@ For example, if I were an attractive woman—just empathizing here—I would may
 
 Side note: if implemented, *these can also be used for friend making*, and enabled/disabled. Maybe like Pokemon Go, but sometimes for sex (note: I haven't played that, and my only connection to that is Hillary Clinton's really bad reference).
 
-### Love Starvation
+### Recognizing Love Starvation
 
 Love starvation is a coercion issue, because when people are hungry, they have to eat, no matter what "love" is given to them. There's no choice in that for a starving person, and that is a form of coercion, if a person only has one choice at any given time for who they can receive love from.
 
