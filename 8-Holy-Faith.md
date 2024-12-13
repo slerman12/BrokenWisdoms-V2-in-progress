@@ -379,7 +379,7 @@ Relationships are more of a basic human necessity than food, shelter, water, and
 
 The processes realistically needed to transition any identities, such as from being socially anxious to not being socially anxious requiring experimentation which often leads to awkwardness and misunderstandings, or transitioning from depressed to not depressed<!--requiring expression of emotion disciplined or unrepressed and acceptance by the specific communities of a person's need-->, schizophrenic to not schizophrenic<!-- requiring actually delving into those shamanic states and having a society and mentorship that can through many generations of wisdom navigate them-->, traumatized to not traumatized<!-- requiring all of the previous and a lot of extremely faith-bursting love-->. Those all involve transcendence processes that are riskier than the boundaries currently normalized for people in accepted identity transformation processes. 
 
-Love is wealth.
+Love is wealth. Who's priviliged and who's not might not be as simple as the current marginalization group delineations, but those are good starting points for thinking about social inequalities that have to do with economic and power systems, and repression of sexuality, that generalize to perhaps less talked about groups.
 
 ### Ashkenazi, not Nazi!
 
