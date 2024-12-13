@@ -6,7 +6,7 @@ Dialogue of the Congress 1
 
 War
 
-When the Nazis came to Ukraine, they did not arrive as strangers. Long before their boots touched the soil, anti-Semitism had already taken root among the general populace of Ukraine. The Jews of Ukraine—Ashkenazi Jews, like my family—went from persecuted to tortured, including forced displacement, and mass killings, with many victims executed and buried in mass graves. My grandpa, Yury, only thirteen at the time, fled with his mother, Maná, and younger sister, Rosá, escaping eastward to the relative safety of Kazakhstan, as many other Jews evacuated.
+When the Nazis came to Ukraine, they did not arrive as strangers. Long before their boots touched the soil, anti-Semitism had already taken root among the general populace of Ukraine. The Jews of Ukraine—Ashkenazi Jews, like my family—went from persecuted to tortured, including forced displacement, and mass killings, with many victims executed and buried in mass graves. My grandpa, Yury, only thirteen at the time, fled with his mother, Maná, and younger sister, Rosá, escaping eastward to the relative safety of Kazakhstan, as many other Jews evacuated similarly.
 
 Years later, when the war ended, they came back to Chernihiv. Yakob, Yury’s father, had been drafted to fight for Ukraine. He survived the war, and they were reunited—husband with wife, father with children. For years they had been apart.
 
