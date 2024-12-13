@@ -360,7 +360,7 @@ For example, if I were an attractive woman—just empathizing here—I would may
 
 (In reality, I would probably write, "Anything goes.").
 
-Side note: if implemented, *these can also be used for friend making*, and enabled/disabled. Maybe like Pokemon Go, but Sometiems for sex (note: I haven't played that, and my only connection to that is Hillary Clinton's really bad reference).
+Side note: if implemented, *these can also be used for friend making*, and enabled/disabled. Maybe like Pokemon Go, but sometimes for sex (note: I haven't played that, and my only connection to that is Hillary Clinton's really bad reference).
 
 ### Love Starvation
 
