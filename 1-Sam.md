@@ -131,7 +131,8 @@ My uncle Slava was the first of my grandparents' descendants to be born, followe
       - Tom Howard
         - Employer "Affirmative Consent" isn't a Thing
         - Real-Time RL Robotics
-        - Bittle Speedrun Description
+        - Bittle Fast Description
+        - Art of Science Competition
       - Charles Venuto
       - Recap
       - Michael L. Scott
