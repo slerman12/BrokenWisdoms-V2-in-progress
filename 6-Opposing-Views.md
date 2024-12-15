@@ -410,7 +410,7 @@ Chenliang proposed the submission I went with, and I made it quickly afterwards:
 
 So I did, submitting the [linked above](https://docs.google.com/presentation/d/13tAT_JixcAt1-ym_0Gcw4yZ93siCoKRCwuTxYoEFWUA/edit?usp=sharing) picture story (as a still image), having made it in a short amount of time.
 
-This is meant to show that Chenliang was very supportive about my "Bittle Bots" work, even just a couple months before the six-month review, though perhaps I disagree with their unappreciation with technical diagrams, considering them to be less "'real' art." The 4 I showed were these, as follows, my favorites being "Jungly" and "Framework," and the 4th one (that I called "Public Library") was actually also proposed by Chenliang, but earlier independent the Art of Science Competition, in December, 2022, less than 6 months before the 6 month review.
+This is meant to show that Chenliang was very supportive about my "Bittle Bots" work, even just a couple months before the six-month review, though perhaps I disagree with their unappreciation with technical diagrams, considering them to be less "'real' art." The 4 I showed were these, as follows, my favorites being "Jungly" and "Framework," and the 4th one (that I called "Public Library") was actually also proposed by Chenliang, but earlier independent the Art of Science Competition, in December, 2022, less than 6 months before the 6 month review. 
 
 - ["Jungly"](https://github.com/user-attachments/assets/65bb23d9-0050-4c53-b873-c70f6f860c07)
 - ["Squigglies"](https://github.com/user-attachments/assets/e9108af1-0d3a-4dc1-b8e6-7ae149d6f135)
@@ -425,6 +425,8 @@ I also included this caption:
 > More philosophically, UnifiedML can be defined as an expanding ontology for the process of epistemology, however the expanding is in some way epistemelogical.
 > ### $\Huge &#8221;$
 > &ensp;&ensp;- **03/13/2023**
+
+These [other slides](https://docs.google.com/presentation/d/1ZQFeiOKSU2teVGg5EHlgREAi8pJY_Mr1CJ3H2pfFBfI/edit?usp=sharing) were all good runner-ups that I didn't consider for the Art of Science Competition and used to try to summarize my work in my six-month review.
 
 Well prior to that, another student set up [these training environments in Chenliang's lab]() [To do: add photos to main Github repo], hoping to work on the idea as well after I proposed it (after I had Chenliang order the bots and after I had described the methodology)—and Chenliang had wanted to apply it to a fire-fighting proof-of-concept (like a fire-fighter dog, but now in retrospect, that's a good pun for after my being fired).
 
