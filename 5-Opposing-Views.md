@@ -305,7 +305,7 @@ As these months progressed, my [facial structure changed, wrinkled and my face r
 
 ChatGPT, perhaps itself a wizard behind the curtain—an artificial program—could pass their human cognition or psychiatric tests with flying pixels, probably better than a human in good health.
 
-In med school, the ability to memorize which prescriptions correspond to which diagnoses, and which diagnoses correspond to which symptoms, and which anatomical events correspond to which symptoms, must be most of the work, since according to medical professional evaluators, ChatGPT and similar LLMs can pass medical reasoning and behavior [exceptionally](https://arxiv.org/abs/2404.18416), and with even better [bedside manner](https://www.nature.com/articles/d41586-024-00099-4) than humans.
+In med school, the ability to memorize which prescriptions correspond to which diagnoses, and which diagnoses correspond to which symptoms, and which anatomical events correspond to which symptoms, must be most of the work, since according to medical professional evaluators, ChatGPT and similar LLMs can pass medical reasoning and behavior [exceptionally](https://arxiv.org/abs/2404.18416), and with even better [bedside manner](https://www.nature.com/articles/d41586-024-00099-4) than their human doctor counterparts.
 
 Until recently, [lobotomies](https://psychcentral.com/blog/the-surprising-history-of-the-lobotomy) and [conversion therapies](https://time.com/6344824/how-common-is-conversion-therapy-united-states/) were standard psychiatric practice. Coercion in psychiatric medicine, especially long-term, especially of benzos will be recognized by medicine as barbaric.
 
