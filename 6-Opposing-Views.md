@@ -388,6 +388,8 @@ In both vision model cases, it was a framework for streaming data in real-time [
 
 By using Bittle, at least at the time the first to do so for real-time real-world RL, I made the frst truly democratizable, affordable, and accessible <!--end-to-end-->robotics trainer.
 
+Much of this work was done after the six-month review and before what would’ve been the next six-month review. The formal termination date was 3 months after the six-month review.
+
 ## Charles Venuto
 
 <p align="center">
