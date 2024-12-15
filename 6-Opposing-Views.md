@@ -408,9 +408,9 @@ Chenliang proposed the submission I went with, and I made it quickly afterwards:
 > ### $\Huge &#8221;$
 > &ensp;&ensp;- **03/13/2023**
 
-This is all meant to show that Chenliang was very supportive about my BittleBot work, even just a couple months before the six-month review.
-
 So I did, submitting the [linked above](https://docs.google.com/presentation/d/13tAT_JixcAt1-ym_0Gcw4yZ93siCoKRCwuTxYoEFWUA/edit?usp=sharing) picture story (as a still image), having made it in a short amount of time.
+
+This is meant to show that Chenliang was very supportive about my BittleBot work, even just a couple months before the six-month review.
 
 Well prior to that, another student set up [these training environments in Chenliang's lab]() [To do: add photos to main Github repo], hoping to work on the idea as well after I proposed it (after I had Chenliang order the bots and after I had described the methodology)—and Chenliang had wanted to apply it to a fire-fighting proof-of-concept (like a fire-fighter dog, but now in retrospect, that's a good pun for after my being fired).
 
