@@ -397,7 +397,7 @@ I even submitted the work to the [University of Rochester Art of Science Competi
 > ### $\Huge &#8221;$
 > &ensp;&ensp;- **03/13/2023**
 
-My original planned submission candidates were more technical, but beautiful diagrams that I'm more proud of overall, having to do with the intricates of the UnifiedML framework.
+My original planned submission candidates were more technical, but beautiful diagrams, that I'm proud of, having to do with the intricates of the UnifiedML framework.
 
 Chenliang proposed the submission I went with, and I made it quickly afterwards:
 
