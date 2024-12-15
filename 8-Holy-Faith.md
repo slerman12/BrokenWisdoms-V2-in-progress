@@ -262,7 +262,7 @@ For reference, I have an actual unification of general relativity and quantum me
 
 "it" not referring to the Tao or Sam Lerman, but the literal system that rules below the former and above the latter
 
-## Actual Methods of Mental Healthcare, Proposed by Me 
+## 10 - 13 Actual Methods of Mental Healthcare, Proposed by Me 
 
 > Editing in progress
 
