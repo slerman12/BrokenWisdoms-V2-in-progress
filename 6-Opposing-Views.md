@@ -426,7 +426,7 @@ I also included this caption:
 > ### $\Huge &#8221;$
 > &ensp;&ensp;- **03/13/2023**
 
-These [other slides](https://docs.google.com/presentation/d/1ZQFeiOKSU2teVGg5EHlgREAi8pJY_Mr1CJ3H2pfFBfI/edit?usp=sharing) were all good runner-ups that I didn't consider for the Art of Science Competition and used to try to summarize my work in my six-month review.
+I presented these [other slides](https://docs.google.com/presentation/d/1ZQFeiOKSU2teVGg5EHlgREAi8pJY_Mr1CJ3H2pfFBfI/edit?usp=sharing) to try to summarize my work during my six-month review.
 
 Well prior to that, another student set up [these training environments in Chenliang's lab]() [To do: add photos to main Github repo], hoping to work on the idea as well after I proposed it (after I had Chenliang order the bots and after I had described the methodology)—and Chenliang had wanted to apply it to a fire-fighting proof-of-concept (like a fire-fighter dog, but now in retrospect, that's a good pun for after my being fired).
 
