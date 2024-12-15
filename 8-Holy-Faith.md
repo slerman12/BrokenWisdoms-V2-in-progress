@@ -375,9 +375,19 @@ Zero love, though, is a form of torture.
 ### Normalizing Truths and the Processes Therein
 
 <!--True intimacy is more valuable than money and can't be bought. Love is wealth.--> 
-Relationships are more of a basic human necessity than food, shelter, water, and everything else, everything. Relationships can’t be synthesized, and the deprivation of them is deserving of real pity. Privilege has generalized social forms too. Popularity is a privilege. Attractiveness is a privilege.
+Relationships are more of a basic human necessity than food, shelter, water, and everything else, everything. Relationships can’t be synthesized, and the deprivation of them is deserving of real pity. Privilege has generalized social forms too. Popularity is a privilege. Attractiveness is a privilege. Getting to have sex with people of one's choosing/preference, as the LGBTQ+ community has strongly emphasized, is a privilege; the LGBTQ+ community, unlike hate groups, sexists, and sexual harassers, is correct. 
 
-The processes realistically needed to transition any identities, such as from being socially anxious to not being socially anxious requiring experimentation which often leads to awkwardness and misunderstandings, or transitioning from depressed to not depressed<!--requiring expression of emotion disciplined or unrepressed and acceptance by the specific communities of a person's need-->, schizophrenic to not schizophrenic<!-- requiring actually delving into those shamanic states and having a society and mentorship that can through many generations of wisdom navigate them-->, traumatized to not traumatized<!-- requiring all of the previous and a lot of extremely faith-bursting love-->. Those all involve transcendence processes that are riskier than the boundaries currently normalized for people in accepted identity transformation processes. 
+This issue is so important that most on the left, including myself, believe that even the consequences of that privilege—even when it’s a privilege and not an instance of coercion—should be of one’s choosing (legalizing abortion for more than just coercion cases), a law that wouldn’t matter if celibacy (or if the efficacy of condoms, IUD, birth control were sufficiently high) could ethically be the default on a person regardless of that person’s choice. It’s the top issue for most Democrats, above war, disease, environmental pollution, and economic issues.
+
+The LGBTQ+ community and women and allies have strongly made the case that there are some privileges that are unethical for a person to simply not live with, or to be called unimportant and dismissed.
+
+These principles are good, but when the people who have them hold them hypocritically, then whether the principles are the source of that person’s belief is disproved, in which case, questions are raised about why the alternatives pertaining to the other issues are unethical. 
+
+Besides the resources proposed, one other wisdom can be borrowed for this discussion from the hard fought defense of the LGBTQ+ movement over the last century:
+
+The processes realistically needed to transition any identities, such as from being socially anxious to not being socially anxious requiring experimentation which often leads to awkwardness and misunderstandings, or transitioning from depressed to not depressed<!--requiring expression of emotion disciplined or unrepressed and acceptance by the specific communities of a person's need-->, schizophrenic to not schizophrenic<!-- requiring actually delving into those shamanic states and having a society and mentorship that can through many generations of wisdom navigate them-->, traumatized to not traumatized<!-- requiring all of the previous and a lot of extremely faith-bursting love-->, those all involve transcendence processes that are riskier than the boundaries currently normalized for people in accepted identity transformation processes. 
+
+Simply requiring that people hide the craziest, most taboo parts of themselves from the public isn’t enough, with some limitations. 
 
 ### Ashkenazi, not Nazi!
 
