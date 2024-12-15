@@ -379,11 +379,11 @@ Relationships are more of a basic human necessity than food, shelter, water, and
 
 This issue is so important that most on the left, including myself, believe that even the consequences of that privilege—even when it’s a privilege and not an instance of coercion—should be of one’s choosing (legalizing abortion for more than just coercion cases), a law that wouldn’t *matter* if celibacy <!--(or if the efficacy of condoms, IUD, birth control were sufficiently high)--> could ethically be the default on a person regardless of that person’s choice. It’s the top issue for most Democrats, above war, disease, environmental pollution, and economic issues.
 
+[That's not to discount the benefits of abstinence.](#intimacy-healing)
+
 The LGBTQ+ community and women and allies have strongly made the case that there are some privileges that are unethical for a person to simply not live with, or to be called unimportant and dismissed.
 
 These principles are good, but when the people who have them hold them hypocritically, then whether the principles are the source of that person’s belief is disproved, in which case, questions are raised about why the alternatives pertaining to the other issues are unethical. 
-
-[That's not to discount the benefits of abstinence.](#intimacy-healing)
 
 Besides the resources proposed, one other wisdom can be borrowed for this discussion from the hard fought defense of the LGBTQ+ movement over the last century:
 
