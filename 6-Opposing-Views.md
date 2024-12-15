@@ -394,7 +394,7 @@ I even submitted the work to the [University of Rochester Art of Science Competi
 
 Well prior to that, another student set up [these training environments in Chenliang's lab]() [To do: add photos to main Github repo], hoping to work on the idea as well after I proposed it, had Chenliang order the bots, and described the methodology—and Chenliang had wanted to apply it to a fire-fighting proof-of-concept (like a fire-fighter dog, but now in retrospect, that's a good pun for after my being fired).
 
-Chenliang, having considered UnifiedML sufficient for a thesis, had understood that my progress on robotics was neither essential nor applicable as a basis of critique, though served as a really amazing cherry on top of an already impactful and useful framework and library. The new committee had not engaged as long with what I was doing.
+Chenliang, having recognized UnifiedML—a GATO/JEPA type framework—impressive by itself for a thesis, had understood that my progress on real-time real-world RL robotics was neither essential nor applicable as a basis of critique, though served as a really amazing cherry on top of an already impactful and useful framework and library, and before the idea had gained popularity. The new committee had not had the chance to engage as much with what I was doing, and most of them for so long.
 
 ## Charles Venuto
 
