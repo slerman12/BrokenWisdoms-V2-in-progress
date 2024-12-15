@@ -390,10 +390,10 @@ By using Bittle, at least at the time the first to do so for real-time real-worl
 
 Much of this work was done after the six-month review and before what would’ve been the next six-month review. The formal termination date was 5 months after the six-month review, 3 months after Chenliang's desertion, 2 months after the would-be make-up review. In that time, I updated the committee as much and about everything that I could’ve, given the materials and work they requested. I reported to Chenliang literally-almost everything, though six-months is how long PhD students usually get to report back to a committee, and usually with security under the grad school providing wage and advisor. 
 
-I even submitted the work to the [University of Rochester Art of Science Competition](https://docs.google.com/presentation/d/13tAT_JixcAt1-ym_0Gcw4yZ93siCoKRCwuTxYoEFWUA/edit?usp=sharing) (as a still image), asking for Michael's approval on **03/13/23** by email, 2 months before the six-month review with the brand new committee, since he headed the CS department and no student in the University of Rochester CS department had ever had a submission win the Art of Science Competition, nor mine, though I actually proposed 4 different artworks, and he rejected them (also on email).
+I even submitted the work to the [University of Rochester Art of Science Competition](https://docs.google.com/presentation/d/13tAT_JixcAt1-ym_0Gcw4yZ93siCoKRCwuTxYoEFWUA/edit?usp=sharing) (as a still image), asking for Michael's advice on **03/13/23** by email, 2 months before the six-month review with the brand new committee, since he headed the CS department and no student in the University of Rochester CS department had ever had a submission win the Art of Science Competition, nor mine, though I actually proposed 4 different artworks, and he rejected them (also on email).
 
 > ### $\Huge &#8220;$
-They are mostly NOT technical diagrams but rather images that look like “real” art but come from scientific pursuits.
+> I’m pretty sure you can find winners of past competitions online. They are mostly NOT technical diagrams but rather images that look like “real” art but come from scientific pursuits.
 > ### $\Huge &#8221;$
 > &ensp;&ensp;- **03/13/2023**
 
