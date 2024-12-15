@@ -378,7 +378,7 @@ The truth is, these academics want to be seduced (e.g., "flying colors") or give
 
 In case the detail was missed, since Tom Howard's field is robotics, UnifiedML supports [real-time RL robotics](https://github.com/AGI-init/tributaries/blob/main/Examples/Sweeps/Bittle.py). It was one of the [first works to do so, before the idea gained popularity](https://github.com/PetoiCamp/OpenCat/issues/30). It was one of many [contributions](https://github.com/slerman12/Builder/blob/main/UnifiedML/src/ML/World/Environments/Bittle.py) and innovations I had to quickly go through in our one and only meeting with this interim group.
 
-### Bittle Speedrun Description
+### Bittle Fast Description
 
 First I wasn’t able to do the robot tracking with [YOLO V7](https://arxiv.org/abs/2207.02696) and then [YOLO V8](https://arxiv.org/abs/2305.09972), because those cannot recognize the Bittle robot, and had to do the Bittle robot object detection [by sticking in a fork](https://github.com/user-attachments/assets/e178954e-64ad-4606-a36d-61adb8cff803).
 
