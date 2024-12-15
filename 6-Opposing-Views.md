@@ -434,6 +434,8 @@ Well prior to that, another student set up [these training environments in Chenl
 
 Chenliang, having recognized UnifiedML as being impressive by itself for a PhD student's thesis, not to mention the XRD project which was funding me, and everything else—a GATO/JEPA type framework—believed I was ready to defend and had seen that my progress on real-time real-world RL robotics was already on top of an insightful and useful framework, and before any of the ideas had gained popularity. The new committee had not had the chance to engage as much with what I was doing, and most of them had abandoned ship as soon as the ambitiousness was even begun to be unpacked, and were already on lifeboats far away by the time the context of the information was delivered to their email inboxes after the six-month review, and still prior to the newly added make-up review deadline.
 
+Regarding these 4 artworks, Michael did respond with a "negative non-consent," and I adhered to his and Chenliang's recommendation, submitting the "Bittle Bots" picture story. It lost. It got rejected. I was there at the Art of Science Competition and there were many better submissions that deserved the democratic vote over mine. I walked out upset, but don't disagree.
+
 ## Charles Venuto
 
 <p align="center">
