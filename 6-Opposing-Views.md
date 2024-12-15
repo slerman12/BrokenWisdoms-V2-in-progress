@@ -386,9 +386,7 @@ Then I [got it to work](https://github.com/user-attachments/assets/8ffed7ff-f682
 
 In both vision model cases, it was a framework for streaming data in real-time [from Youtube](https://github.com/slerman12/Builder/blob/main/UnifiedML/src/ML/World/Environments/YouTube.py), filmed live from a smartphone, in a democratized setup that anyone can use, the first robotics infrastructure that one day literally even a child could train, and a serious one at that since it affords real-time RL for adaptive robotics setups, from [Bittle](https://github.com/PetoiCamp/OpenCat/issues/30) robots to any other. Sans YouTube, the simplicity, and a general-purpoe framework, this strategy has become more popular since my termination.
 
-By using Bittle, at least at the time the first to do so for real-time real-world RL, I made the frst truly democratizable, affordable, and accessible <!--end-to-end-->robotics trainer.
-
-Much of this work was done after the six-month review and before what would’ve been the next six-month review. The formal termination date was less than 3 months after the six-month review... more than 3 months before what would’ve been the next six-month review
+By using Bittle, at least at the time the first to do so for real-time real-world RL, I made the first truly democratizable, affordable, and accessible <!--end-to-end-->robotics trainer.
 
 ## Charles Venuto
 
