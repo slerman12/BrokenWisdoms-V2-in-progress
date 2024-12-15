@@ -388,6 +388,8 @@ In both vision model cases, it was a framework for streaming data in real-time [
 
 By using Bittle, at least at the time the first to do so for real-time real-world RL, I made the first truly democratizable, affordable, and accessible <!--end-to-end-->robotics trainer.
 
+Much of this work was done after the six-month review and before what would’ve been the next six-month review. The formal termination date was 5 months after the six-month review, 3 months after Chenliang's desertion, 2 months after the would-be make-up review. In that time, I updated the committee as much and about everything that I could’ve, given the materials and work they requested. I reported to Chenliang almost everything, though six-months is how long PhD students usually get to report back to a committee, and usually with security under the grad school providing wage and advisor. 
+
 ## Charles Venuto
 
 <p align="center">
