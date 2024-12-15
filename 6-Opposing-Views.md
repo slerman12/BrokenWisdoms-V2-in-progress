@@ -392,7 +392,7 @@ Much of this work was done after the six-month review and before what would’ve
 
 I even submitted the work to the [University of Rochester Art of Science Competition](https://docs.google.com/presentation/d/13tAT_JixcAt1-ym_0Gcw4yZ93siCoKRCwuTxYoEFWUA/edit?usp=sharing) (as a still image), asking for Michael's approval on **03/13/23** by email, 2 months before the six-month review with the brand new committee.
 
-Well prior to that, another student set up [these training environments in Chenliang's lab]() [To do: add photos to main Github repo], hoping to work on the idea as well after I proposed it, had Chenliang order the bots, and described the methodology—and Chenliang had wanted to apply it to a fire-fighting proof-of-concept (like a fire-fighter dog, but now in retrospect, that's a good pun for after my being fired by Michael).
+Well prior to that, another student set up [these training environments in Chenliang's lab]() [To do: add photos to main Github repo], hoping to work on the idea as well after I proposed it, had Chenliang order the bots, and described the methodology—and Chenliang had wanted to apply it to a fire-fighting proof-of-concept (like a fire-fighter dog, but now in retrospect, that's a good pun for after my being fired).
 
 ## Charles Venuto
 
