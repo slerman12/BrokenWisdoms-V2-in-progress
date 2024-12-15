@@ -397,7 +397,7 @@ They are mostly NOT technical diagrams but rather images that look like â€œrealâ
 > ### $\Huge &#8221;$
 > &ensp;&ensp;- **03/13/2023**
 
-My original planned submission candidates were more technical, but beautiful diagrams that I'm more proud of overall.
+My original planned submission candidates were more technical, but beautiful diagrams that I'm more proud of overall, having to do with the intricates of the UnifiedML framework.
 
 Chenliang proposed the submission I went with, and I made it quickly afterwards:
 
