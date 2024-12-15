@@ -410,11 +410,11 @@ Chenliang proposed the submission I went with, and I made it quickly afterwards:
 
 So I did, submitting the [linked above](https://docs.google.com/presentation/d/13tAT_JixcAt1-ym_0Gcw4yZ93siCoKRCwuTxYoEFWUA/edit?usp=sharing) picture story (as a still image), having made it in a short amount of time.
 
-This is meant to show that Chenliang was very supportive about my "Bittle Bots" work, even just a couple months before the six-month review. And perhaps I disagree with their unappreciation with technical diagrams, considering them to be less "'real' art." The 4 I showed were these:
+This is meant to show that Chenliang was very supportive about my "Bittle Bots" work, even just a couple months before the six-month review. And perhaps I disagree with their unappreciation with technical diagrams, considering them to be less "'real' art." The 4 I showed were these, my favorites being "Jungly" and "Framework," and the 4th one (that I called "Public Library") was actually also proposed by Chenliang, but earlier independent of the Att of Science Competition:
 
 - ["Jungly"](https://github.com/user-attachments/assets/65bb23d9-0050-4c53-b873-c70f6f860c07)
-- ["Squigglies"](https://github.com/user-attachments/assets/1f0edd1a-1b2b-45aa-b4dd-cbcdfaa0c007)
-- ["Framework"](https://github.com/user-attachments/assets/e9108af1-0d3a-4dc1-b8e6-7ae149d6f135)
+- ["Squigglies"](https://github.com/user-attachments/assets/e9108af1-0d3a-4dc1-b8e6-7ae149d6f135)
+- ["Framework"](https://github.com/user-attachments/assets/1f0edd1a-1b2b-45aa-b4dd-cbcdfaa0c007)
 - ["Public Library"](https://github.com/user-attachments/assets/23c86b94-0ef7-4f72-a3da-a74a0b571ac9)
 
 I also included this caption:
