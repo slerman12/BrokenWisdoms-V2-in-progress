@@ -383,7 +383,7 @@ This issue is so important that most on the left, including myself, believe that
 
 The LGBTQ+ community and women and allies have strongly made the case that there are some privileges that are unethical for a person to simply not live with, or to be called unimportant and dismissed.
 
-These principles are good, but when the people who have them hold them hypocritically, then whether the principles are the source of that person’s belief is disproved, in which case, questions are raised about why the alternatives pertaining to the other issues are unethical. 
+These principles are good, but when the people who have them hold them hypocritically, there is less of an argument for why the alternatives pertaining to those other issues are unethical. 
 
 In my opinion, the bullies, when two sides cast hate on each other, are whoever has the higher standard of living, is stronger, has a louder voice, and survives.
 
