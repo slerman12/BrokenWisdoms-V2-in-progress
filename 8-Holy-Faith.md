@@ -389,7 +389,7 @@ The processes realistically needed to transition any identities, such as from be
 
 Simply requiring that people hide the craziest, most taboo parts of themselves from the public isn’t enough, with some limitations.
 
-That's not to discount the [benefits of abstinence.](#intimacy-healing)
+[That's not to discount the benefits of abstinence.](#intimacy-healing)
 
 ### Ashkenazi, not Nazi!
 
