@@ -284,7 +284,7 @@ Since I started building it for my PhD (from about 2021, in Chenliang's lab, onw
 
 Describing this is hard because it was so much work that is currently unappreciated that my soul hurts even thinking
 
-But best way would probably be bullets listing the different blocks with links to the corresponding diagrams and descriptions in the to-be-finished documentation
+But best way would probably be bullets listing the different blocks with links to the corresponding diagrams and descriptions<!-- in the to-be-finished documentation-->
 
 ### B-, or "Sam Hasn't Been Put Through Enough Systems, the Sequel-Sequel"
 
