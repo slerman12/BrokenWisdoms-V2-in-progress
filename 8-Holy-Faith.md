@@ -276,7 +276,7 @@ I propose, as a first step, the 32 hour work week "with neither gain nor loss in
 -->
 ### Socialization Workers
 
-Medical "training coaches" or "wing men/women" to help motivate people to get out of bed, shower, and perhaps advise on fashion or hygiene, and to take people to social events, including bar type and night club type events, to help them socialize and meet people, and for that to become destigmatized and relatively normalized.
+Medical "training coaches" or "wing men/women" to help motivate people to get out of bed, shower, and perhaps advise on fashion or hygiene, and to take people to social events, including bar type and night club type events, to help them socialize and meet people, and for that to become destigmatized and relatively normalized, since most people under the age of 30 (and probably above) can use that.
 
 ### Health Insurers, Including Medicaid and Medicare, Covering Dietary Prescriptions
 
