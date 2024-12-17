@@ -392,7 +392,7 @@ Much of this work was done after the six-month review and before what would’ve
 
 ### Art of Science Competition
 
-I even submitted the Bittle work to the [University of Rochester Art of Science Competition](https://docs.google.com/presentation/d/13tAT_JixcAt1-ym_0Gcw4yZ93siCoKRCwuTxYoEFWUA/edit?usp=sharing) (as a still image), asking for Michael's advice on **03/13/23** by email, 2 months before the six-month review with the brand new committee, since he headed the CS department and no student in the University of Rochester CS department had ever had a submission win the Art of Science Competition. I showed Michael 4 different artworks. Michael advised against all of them as such:
+I even submitted the Bittle work<!--I submitted a Bittle related artwork--> to the [University of Rochester Art of Science Competition](https://docs.google.com/presentation/d/13tAT_JixcAt1-ym_0Gcw4yZ93siCoKRCwuTxYoEFWUA/edit?usp=sharing) (as a still image), asking for Michael's advice on **03/13/23** by email, 2 months before the six-month review with the brand new committee, since he headed the CS department and no student in the University of Rochester CS department had ever had a submission win the Art of Science Competition. I showed Michael 4 different artworks. Michael advised against all of them as such:
 
 > ### $\Huge &#8220;$
 > I’m pretty sure you can find winners of past competitions online. They are mostly NOT technical diagrams but rather images that look like “real” art but come from scientific pursuits.
@@ -416,7 +416,7 @@ This is meant to show that Chenliang was very supportive about my "Bittle Bots" 
 
 - ["Jungly"](https://github.com/user-attachments/assets/65bb23d9-0050-4c53-b873-c70f6f860c07)
 - ["Squigglies"](https://github.com/user-attachments/assets/e9108af1-0d3a-4dc1-b8e6-7ae149d6f135)
-- ["Framework"](https://github.com/user-attachments/assets/1f0edd1a-1b2b-45aa-b4dd-cbcdfaa0c007)
+- ["Framework"](https://github.com/user-attachments/assets/c865d729-e51d-4b3a-8642-aab54ff9bd60)
 - ["Public Library"](https://github.com/user-attachments/assets/23c86b94-0ef7-4f72-a3da-a74a0b571ac9)
 
 I also included this caption:
