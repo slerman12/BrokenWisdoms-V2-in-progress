@@ -20,7 +20,7 @@ And while that scrutiny can be answered by proposing that God's attention is pri
 
 It's still absurd to imagine that all of that space beyond is connected within the intelligence of a being who is predominantly focussing on us as central to that being's designs and attention, or that we might be connected to other such sub-networks of species far beyond in galaxies incomprehensible through that same being, all entangled (or not) and planning together.
 
-With all that intelligence, it's hard to imagine [*why* unethical realities might still exist on the face of this human-centric blip of a planet, and the reasoning for the laws of physics as they are](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/Consciousness.md#cosmogenesis-myth).
+With all that intelligence, it's hard to imagine [*why* unethical realities might still exist on the face of this human-centric blip of a planet, and the reasoning for the laws of physics as they are](Consciousness.md#cosmogenesis-myth).
 
 > To do: Add a long Q & A answering every question, like why non-local intelligences wouldn't prove themselves by communicating, for example, an SOS signal when somebody is stranded, and elaboration on why physics are the way they are, the physics that would seem at first imperfect given the mass amounts of suffering and atrocity caused through them.
 >
@@ -65,18 +65,18 @@ That seems redundant, and contrary to the default assumption. Isn't lack of thei
 
 In humanity, no. Animism is the default assumption.
 
-In logic, definitely no. [More elaboration here](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/Consciousness.md#cosmogenesis-myth), but to quote part of my elaboration here:
+In logic, definitely no. [More elaboration here](Consciousness.md#cosmogenesis-myth), but to quote part of my elaboration here:
 
 > ### $\Huge &#8220;$
-Cosmologists have asked for centuries, *"How did something arise from nothing?"* It's a good question. After all, it assumes the most general origin state: nothing. If it assumed *something*, as in, something specific, e.g. "God" or "the universe pretty much as it is," we'd have to ask, "Well, how did we get *that* extremely specific thing?" "Nothing" is assumed in the question as the default assumption for its least loss in generality.
-
-However, there is another assumption tied to nothing in generality: and that's *everything*, including grief, bliss, misery, agony, and suffering. Infinite amounts of everything, all at once. Infinite joy and infinite peace and infinite pain.
-
-Now, "nothing" succumbs to a pretty apparent fallacy. For something to arise from nothing, a function that transforms nothing into something must exist. But that function is in itself something, so our "nothing" assumption is contradicted as soon as any such function is introduced.
-
-One might posit different origins besides "nothing" and "everything" equally general perhaps, such as cyclicality or infinite "turtles all the way down," but these are all specific somethings and cannot be said to be as general as the two mentioned, leaving the same mysteries, arguably no more general than assuming as default our own universe exactly as it is elementarily outright: "Where did the cycle come from?" or "Where did the infinite recursive turtle-stack come from?"
-
-But assuming everything gives us a path forward.
+> Cosmologists have asked for centuries, *"How did something arise from nothing?"* It's a good question. After all, it assumes the most general origin state: nothing. If it assumed *something*, as in, something specific, e.g. "God" or "the universe pretty much as it is," we'd have to ask, "Well, how did we get *that* extremely specific thing?" "Nothing" is assumed in the question as the default assumption for its least loss in generality.
+>
+> However, there is another assumption tied to nothing in generality: and that's *everything*, including grief, bliss, misery, agony, and suffering. Infinite amounts of everything, all at once. Infinite joy and infinite peace and infinite pain.
+>
+> Now, "nothing" succumbs to a pretty apparent fallacy. For something to arise from nothing, a function that transforms nothing into something must exist. But that function is in itself something, so our "nothing" assumption is contradicted as soon as any such function is introduced.
+>
+> One might posit different origins besides "nothing" and "everything" equally general perhaps, such as cyclicality or infinite "turtles all the way down," but these are all specific somethings and cannot be said to be as general as the two mentioned, leaving the same mysteries, arguably no more general than assuming as default our own universe exactly as it is elementarily outright: "Where did the cycle come from?" or "Where did the infinite recursive turtle-stack come from?"
+>
+> But assuming everything gives us a path forward.
 > ### $\Huge &#8221;$
 
-I described that path with more specifics [here](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/Consciousness.md#cosmogenesis-myth).
+I described that path with some more specifics [here](Consciousness.md#cosmogenesis-myth).
