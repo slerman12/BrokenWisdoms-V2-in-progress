@@ -426,7 +426,7 @@ I'm one person with those principles, so that makes 1 / [global population] = $1
 
 > Do my words know what I want to say? Do they even have a connection to interact with what I’m thinking?
 
-Reducing Paranoia
+### Reducing Paranoia
 
 TVs emit a much higher electromagnetic frequency and at a higher intensity per surrounding the-usual-human-distance surface area. If 5g is dangerous, then regular TVs are far more dangerous. But don’t worry, because horizontally polarized visible light is common in nature, and can be even more intense and having a much higher electromagnetic frequency than 5g. 
 
@@ -436,7 +436,7 @@ The risks of TV screens on the eyes might suggest that electromagnetic signals c
 
 This bodes well for the health safety beliefs around 5g and the future of such technology, though perhaps neural networks could still make the encoding schemes more efficient and allow energy and power consumption savings from lower frequency emissions and higher efficiency encoding schemes based on neural encoders and decoders with respect to the information encoded in the wave modulations<sup>TM</sup>. Then that would possibly make much of the 5g infrastructure redundant and energy-wasteful. Other than that, 5g is a reasonable future. Hopefully that reduces some paranoia. 
 
-Mass Production of Mass Production / Anti-Homogenization and Monopolization
+### Mass Production of Mass Production / Anti-Homogenization and Monopolization
 
 For just aesthetic reasons, I suggest bringing back swivel stands for TVs and more-creative/less-homogenized frame designs for TVs, as mass production with AI is only going to increase the risk of homogenization in manufacturing, and possibly the monopolization of mass production tools. 
 
