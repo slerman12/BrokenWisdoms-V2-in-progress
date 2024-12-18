@@ -512,7 +512,7 @@ As with every topical, my eczema initially got better, then worse and more resil
 
 I haven't tried JAK inhibitors.
 
-Dupilumab, a biologic agent, was mildly effective, combined with good diet and meditation (and possibly wouldn't have been effective at all otherwise), required regularly injecting an agent that laser-targets a specific antibody everywhere in the body, and cost me all of my hair. I came into the medical system for eczema, the University of Rochester's medical system when I graduated college, and had never been hospitalized.
+Dupilumab, a biologic agent, was mildly effective, combined with good diet and meditation (and otherwise didn't help), required regularly injecting an agent that laser-targets a specific antibody everywhere in the body, and cost me all of my hair. I came into the medical system for eczema, the University of Rochester's medical system when I graduated college, and had never been hospitalized.
 
 ### Anti-Bullying Pop-Up
 
