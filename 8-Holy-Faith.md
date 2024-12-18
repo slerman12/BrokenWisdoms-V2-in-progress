@@ -500,7 +500,7 @@ I propose the ["32 Hour Work Week for Kids"](8-Holy-Faith.md#gradually-reducing-
 
 1. Prolonged fast, including water.
 
-Adding this item to the previous 3 provides a cure for every scenario of eczema, one that hasn't been studied yet in a latitudinal sample size.
+Adding this item to the previous 3 provides a cure for extreme scenarios of eczema that might otherwise only react to cortico-steroids. Note: this hasn't been studied yet in a latitudinal sample size.
 
 #### Dangers, but not Necessarily Bad:
 
