@@ -171,6 +171,7 @@ My uncle Slava was the first of my grandparents' descendants to be born, followe
         - Right to Talk About Suicide Seriously
         - Publicly Funded Event Organizing to the Public
         - Hospital Environments
+        - Transcendental Meditation Instructions in Therapy and Schools for Free
         - Intimacy Healing
         - Approach Consent Apps
         - Recognizing Love Starvation
