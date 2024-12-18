@@ -452,9 +452,9 @@ Like certain weapons, automation technologies should sometimes require backgroun
 
 Compare the variety of CRT box TVs and earlier 2000s flat screens compared to TVs today.
 
-Though in terms of physical appearance, the best is the July, 2009 32” LG LH20, LED TV, that I got (my mom paid for) in 2009, as a kid—well researched (by me, and selected by me) and better than my friend’s Samsung who got his around the same time without as much research and price consideration. 
+Though in terms of physical appearance, the best is the July, 2009 32" LG LH20, LED TV, that I got (my mom paid for) in 2009, as a kid—well researched (by me, and selected by me) and better than my friend’s Samsung who got his around the same time without as much research and price consideration. 
 
-The LG characteristic on the bottom right that powers up with a kind of swerving light pattern, on the LH20 one, is what I mean by creative frame designs, and is the best part, can’t find that kind of design touch anymore in the 2024 homogeny, I think—maybe I’m biased. Either way, the mass production technologies are all concentrated into a handful of manufacturers and small store owners, especially as AI has the potential to streamline the process further, should be able to get in on the action, or else Marx’s “means of production” won’t just be not controlled by the workers—it won’t even be controlled by the capitalists. Only the oligarchs. 
+The LG characteristic on the bottom right that powers up with a kind of swerving light pattern, on the LH20 one, is what I mean by creative frame designs, and is the best part, can’t find that kind of design touch anymore in the 2024 homogeny, I think—maybe I’m biased. Either way, the mass production technologies are all concentrated into a handful of manufacturers and small store owners, especially as AI has the potential to streamline the process further, should be able to get in on the action, or else Marx’s "means of production" won’t just be not controlled by the workers—it won’t even be controlled by the capitalists. Only the oligarchs. 
 
 ### Anti-Bullying Pop-Up
 
