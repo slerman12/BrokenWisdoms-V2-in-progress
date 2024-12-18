@@ -506,7 +506,7 @@ Adding this item to the previous 3 provides a treatment for extreme scenarios of
 
 1. Drugs that alter the skin and brain, or more widely systemic parts of the body.
 
-Long-term use of standard pharmaceutical treatments, including anti-histamines, can have permanent, insidious, life-altering consequences. Histamine is a neurotransmitter in the brain. Unlike GABA, it is not one of the most ubiquitous two. But altering histaminergic functions in the body can play an equally insidious long-term role on the brain's alertness and perceived clarity, I've found.
+Long-term use of standard pharmaceutical treatments, including anti-histamines, can have insidious, life-altering, possibly permanent neurological consequences. Histamine is a neurotransmitter in the brain. Unlike GABA, it is not one of the most ubiquitous two. But altering histaminergic functions in the body can play an equally insidious long-term role on the brain's alertness and perceived clarity, I've found.
 
 ### Anti-Bullying Pop-Up
 
