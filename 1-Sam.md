@@ -176,6 +176,8 @@ My uncle Slava was the first of my grandparents' descendants to be born, followe
         - Recognizing Love Starvation
         - Normalizing Truths and the Processes Therein
         - Ashkenazi, not Nazi!
+        - Reducing Paranoia
+        - Mass Production of Mass Production / Anti-Homogenization and Monopolization
         - Anti-Bullying Pop-Up
       - Rituals, Religion, & Hell
     - Synchronicities (Part 3)
