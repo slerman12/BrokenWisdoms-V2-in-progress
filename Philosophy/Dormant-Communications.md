@@ -65,7 +65,7 @@ That seems redundant, and contrary to the default assumption. Isn't lack of thei
 
 In humanity, no. Animism is the default assumption.
 
-In logic, definitely no. [More elaboration here](Consciousness.md#cosmogenesis-myth), but to quote part of my elaboration here:
+In logic, definitely no. [More elaboration here](Consciousness.md#cosmogenesis-myth), but to quote different elaboration of my own:
 
 > ### $\Huge &#8220;$
 > Cosmologists have asked for centuries, *"How did something arise from nothing?"* It's a good question. After all, it assumes the most general origin state: nothing. If it assumed *something*, as in, something specific, e.g. "God" or "the universe pretty much as it is," we'd have to ask, "Well, how did we get *that* extremely specific thing?" "Nothing" is assumed in the question as the default assumption for its least loss in generality.
