@@ -488,7 +488,7 @@ So to summarize:
 
 1. Prolonged fast, including water.
 
-These 4 account for every possible scenario. The first 3 can also be alopathic.
+These 4 account for every possible scenario, short of financial limitations and other economic factors. The 4th might be more controversial for kids. The first 3 can also be alopathic.
 
 #### Dangers, but not Necessarily Bad:
 
