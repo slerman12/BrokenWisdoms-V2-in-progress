@@ -467,7 +467,7 @@ The other methods I’ll list are preventative, but that heals a severe flare-up
 Preventative methods:
 
 1. Abstaining from porn and masturbation.
-2. Good diet, organic type foods, no breads or dairy.
+2. Good diet, organic type foods, no breads, dairy, chocolates, or sugary drinks.
 3. Another preventative method, besides those two, is not working as intensely. Rest and natural optimism. This one disproportionately depends on systems and environment conditions beyond individual control. 
 
 The medical system relies on anti-histamines, topicals, cortico-steroids, JAK inhibitors, and biologic agents which can all make eczema worse after initially making it better or have unforeseen side effects.
