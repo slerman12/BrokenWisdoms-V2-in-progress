@@ -334,6 +334,10 @@ Lots more plants. Trees especially.
 
 <!--Feng shui.-->
 
+### Transcendental Meditation Instructions in Therapy and Schools for Free
+
+TM is science-backed and, for many people, far more effective than Vipassana-meditation based DBT standardized in therapy and not usually taught to kids for free at schools.
+
 ### Intimacy Healing
 
 <!--#### Ketamine vs. Intimacy-->
@@ -476,7 +480,7 @@ These are prescribed after a flare-up rather than only-preventatively. The most 
 
 These fasts exclude water, which I wouldn't recommend (for eczema).
 
-So to summarize:
+So to summarize and elaborate:
 
 #### Preventative Treatments:
 
@@ -487,6 +491,8 @@ So to summarize:
 All 3 can be "curative," meaning used at treatment once a flare-up is already occuring, but are also helpful preventatively.
 
 I propose ("Health Insurers Including Medicaid nad Medicare Covering Dietary Prescriptions")[8-Holy-Faith.md#health-insurers-including-medicaid-and-medicare-covering-dietary-prescriptions] to financially incentivize 2.
+
+3 can be supported by meditation and yoga (see ["Transcendental Meditation Instructions in Therapy and Schools for Free"](8-Holy-Faith.md#transcendental-meditation-instructions-in-therapy-and-schools-for-free)).
 
 I propose the ["32 Hour work Week for Kids"](8-Holy-Faith.md#gradually-reducing-the-coercion-on-kids-by-schools) to make 3 possible for kids, who might be more at risk when it comes to curative treatments and dangershttps://github.com/slerman12/BrokenWisdoms-V2-in-progress/edit/main/8-Holy-Faith.md#gradually-reducing-the-coercion-on-kids-by-schools:
 
