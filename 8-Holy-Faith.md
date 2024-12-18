@@ -481,12 +481,14 @@ So to summarize:
 #### Preventative treatments:
 
 1. Abstaining from porn and masturbation.
-2. Good diet, organic type foods, no breads or dairy.
+2. Good diet, organic type foods, no breads, dairy, chocolates, or sugary drinks.
 3. Not working as intensely. Rest and natural optimism. Disproportionately depends on systems.
 
 #### Alopathic treatments:
 
 1. Prolonged fast, including water.
+
+These 4 account for every possible scenario. The first 3 can also be alopathic.
 
 #### Dangers, but not Necessarily Bad:
 
