@@ -456,6 +456,8 @@ Though in terms of physical appearance, the best is the July, 2009 32" LG LH20, 
 
 The LG characteristic on the bottom right that powers up with a kind of swerving light pattern, on the LH20 one, is what I mean by creative frame designs, and is the best part, can’t find that kind of design touch anymore in the 2024 homogeny, I think—maybe I’m biased. Either way, the mass production technologies are all concentrated into a handful of manufacturers and small store owners, especially as AI has the potential to streamline the process further, should be able to get in on the action, or else Marx’s "means of production" won’t just be not controlled by the workers—it won’t even be controlled by the capitalists. Only the oligarchs. 
 
+### Curing Eczema
+
 Oh! I forgot to mention the most effective eczema treatment I have found:
 
 A one-week or more fast. Water-only. 
@@ -486,7 +488,7 @@ So to summarize:
 
 1. Prolonged fast, including water.
 
-#### Dangers, but Not Necessarily Bad:
+#### Dangers, but not Necessarily Bad:
 
 1. Drugs that alter the skin and brain.
 
