@@ -500,7 +500,7 @@ This bodes well for the health safety beliefs around 5g and the future of such t
 
 For just aesthetic reasons, I suggest bringing back swivel stands for TVs and more-creative/less-homogenized frame designs for TVs, as mass production with AI is only going to increase the risk of homogenization in manufacturing, and possibly the monopolization of mass production tools. 
 
-For more serious reasons, I suggest attention to the issue of homogenization and the lack of vendors and competition of mass production technologies, which are becoming ever more monopolized and capitalism’s choices becoming more controlled and less creative.  
+For more serious reasons, I suggest attention to the issue of homogenization and the lack of vendors and competition of mass production technologies, which are becoming ever more monopolized and capitalism’s choices becoming narrower, more controlled and less creative.  
 
 When AIs can manufacture TVs without workers, the big tech companies need to mass produce mass production technologies, technologies that are built to build. 
 
