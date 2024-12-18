@@ -514,6 +514,8 @@ I haven't tried JAK inhibitors.
 
 Dupilumab, a biologic agent, was mildly effective, combined with good diet and meditation (and otherwise didn't help), required regularly injecting an agent that laser-targets a specific antibody everywhere in the body, and cost me all of my hair. I came into the medical system for eczema, the University of Rochester's medical system when I graduated college, and had never had a history of mental illness besides social anxiety and depression and had never been hospitalized.
 
+Most recently, being terminated severely worsened my eczema.
+
 ### Anti-Bullying Pop-Up
 
 What if the criminal justice system imprisoned ordinary people permanently without trial and without a path to redemption?
