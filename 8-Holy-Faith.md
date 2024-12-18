@@ -456,6 +456,40 @@ Though in terms of physical appearance, the best is the July, 2009 32" LG LH20, 
 
 The LG characteristic on the bottom right that powers up with a kind of swerving light pattern, on the LH20 one, is what I mean by creative frame designs, and is the best part, can’t find that kind of design touch anymore in the 2024 homogeny, I think—maybe I’m biased. Either way, the mass production technologies are all concentrated into a handful of manufacturers and small store owners, especially as AI has the potential to streamline the process further, should be able to get in on the action, or else Marx’s "means of production" won’t just be not controlled by the workers—it won’t even be controlled by the capitalists. Only the oligarchs. 
 
+Oh! I forgot to mention the most effective eczema treatment I have found:
+
+A one-week or more fast. Water-only. 
+
+The other methods I’ll list are preventative, but that heals a severe flare-up. 
+
+Preventative methods:
+
+1. Abstaining from porn and masturbation.
+2. Good diet, organic type foods, no breads or dairy.
+3. Another preventative method, besides the ones I mentioned, is not working as intensely. Rest and natural optimism. This one disproportionately depends on systems and environment conditions beyond individual control. 
+
+The medical system relies on anti-histamines, topicals, and cortico-steroids, which can all make eczema worse after initially making it better.
+
+These are prescribed after a flare-up rather than only-preventatively. The most effective treatment for a flare-up I’ve found, more so than even cortico-steroids, is fasting. A good fast, of a week or more, gets rid of an eczema outbreak. Prolonged fasts like that are sometimes considered dangerous by the medical system, and haven’t been studied in dermatology. Regarding whether they are ethical for kids, that depends. Each of the drugs I mentioned can start a viscious cycle that affects a kid for a lifetime and alters the functioning of the brain, ultimately worsening eczema and increasing brain fog and mental health problems. Prolonged fats are customarily practiced by adults and children in different religious traditions, including Yom Kippur (one-day fast) and Ramadam (one-month intermittent fast).
+
+Excluding water during these fasts for eczema is a bad idea.
+
+So to summarize:
+
+#### Preventative treatments:
+
+1. Abstaining from porn and masturbation.
+2. Good diet, organic type foods, no breads or dairy.
+3. Not working as intensely. Rest and natural optimism. Disproportionately depends on systems.
+
+#### Alopathic treatments:
+
+1. Prolonged fast, including water.
+
+#### Dangers, but Not Necessarily Bad:
+
+1. Drugs that alter the skin and brain.
+
 ### Anti-Bullying Pop-Up
 
 What if the criminal justice system imprisoned ordinary people permanently without trial and without a path to redemption?
