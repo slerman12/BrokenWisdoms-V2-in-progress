@@ -178,6 +178,7 @@ My uncle Slava was the first of my grandparents' descendants to be born, followe
         - Ashkenazi, not Nazi!
         - Reducing Paranoia
         - Mass Production of Mass Production / Anti-Homogenization and Monopolization
+        - Curing Eczema
         - Anti-Bullying Pop-Up
       - Rituals, Religion, & Hell
     - Synchronicities (Part 3)
