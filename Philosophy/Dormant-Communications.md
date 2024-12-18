@@ -81,10 +81,10 @@ In logic, definitely no. [More elaboration here](Consciousness.md#cosmogenesis-m
 
 I described that path with some more specifics [here](Consciousness.md#cosmogenesis-myth).
 
-<!--
 ### Logic
 
 In logic, one can’t assume “no assumption.” “No assumption” would also be an assumption. One can only assume the axioms that incur the least loss in generality. “Nothing” is not the lack of an axiom, but an axiom. “Everything” is not the lack of an axiom, but an axiom. Both are defined only in relation to each other, as opposites. One cannot exist without the other, no more than the backward direction can if there’s no forward direction. “Nothing” is distinct from empty space—it’s undefinable without an “everything” in reference to it.
 
 In fact, an assumption/axiom can be defined as "a loss in generality."
--->
+
+> This is a deleted scene that I'm cutting for poetic purpose
