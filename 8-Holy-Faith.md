@@ -468,7 +468,7 @@ Preventative methods:
 
 1. Abstaining from porn and masturbation.
 2. Good diet, organic type foods, no breads or dairy.
-3. Another preventative method, besides the ones I mentioned, is not working as intensely. Rest and natural optimism. This one disproportionately depends on systems and environment conditions beyond individual control. 
+3. Another preventative method is not working as intensely. Rest and natural optimism. This one disproportionately depends on systems and environment conditions beyond individual control. 
 
 The medical system relies on anti-histamines, topicals, and cortico-steroids, which can all make eczema worse after initially making it better.
 
