@@ -163,7 +163,7 @@ My uncle Slava was the first of my grandparents' descendants to be born, followe
     - Part 2
       - Comedic Aside: Sexier Moments During Chenliang Advising:
         - Psyche Hospitalization
-      - Actual Methods of Mental Healthcare, All Proposed by Me
+      - Actual Methods of Mental Healthcare, Proposed by Me
         - Gradually Reducing the Coercion on Kids by Schools
         - Socialization Workers
         - Health Insurers, Including Medicaid and Medicare, Covering Dietary Prescriptions
