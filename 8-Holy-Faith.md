@@ -478,19 +478,19 @@ These fasts exclude water, which I wouldn't recommend (for eczema).
 
 So to summarize:
 
-#### Preventative treatments:
+#### Preventative Treatments:
 
 1. Abstaining from porn and masturbation.
 2. Good diet, organic type foods, no breads, dairy, chocolates, or sugary drinks.
 3. Not working as intensely. Rest and natural optimism. Disproportionately depends on systems.
 
-All 3 can be "alopathic," meaning used at treatment once a flare-up is already occuring, but are also helpful preventatively.
+All 3 can be "curative," meaning used at treatment once a flare-up is already occuring, but are also helpful preventatively.
 
 I propose ("Health Insurers Including Medicaid nad Medicare Covering Dietary Prescriptions")[8-Holy-Faith.md#health-insurers-including-medicaid-and-medicare-covering-dietary-prescriptions] to financially incentivize 2.
 
-I propose the ["32 Hour work Week for Kids"](8-Holy-Faith.md#gradually-reducing-the-coercion-on-kids-by-schools) to make 3 possible for kids, who might be more at risk when it comes to alopathic treatments and dangershttps://github.com/slerman12/BrokenWisdoms-V2-in-progress/edit/main/8-Holy-Faith.md#gradually-reducing-the-coercion-on-kids-by-schools:
+I propose the ["32 Hour work Week for Kids"](8-Holy-Faith.md#gradually-reducing-the-coercion-on-kids-by-schools) to make 3 possible for kids, who might be more at risk when it comes to curative treatments and dangershttps://github.com/slerman12/BrokenWisdoms-V2-in-progress/edit/main/8-Holy-Faith.md#gradually-reducing-the-coercion-on-kids-by-schools:
 
-#### Alopathic treatments:
+#### Curative Treatments:
 
 1. Prolonged fast, including water.
 
@@ -498,7 +498,7 @@ Adding this item to the previous 3 provides a cure for every scenario of eczema,
 
 #### Dangers, but not Necessarily Bad:
 
-1. Drugs that alter the skin and brain.
+1. Drugs that alter the skin and brain, or more widely systemic parts of the body.
 
 ### Anti-Bullying Pop-Up
 
