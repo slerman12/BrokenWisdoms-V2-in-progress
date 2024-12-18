@@ -65,7 +65,7 @@ That seems redundant, and contrary to the default assumption. Isn't lack of thei
 
 In humanity, no. Animism is the default assumption.
 
-In logic, definitely no. [More elaboration here](Consciousness.md#cosmogenesis-myth), but to quote different elaboration of my own:
+In logic, definitely no. [More elaboration from me here](Consciousness.md#cosmogenesis-myth), but to quote different elaboration of my own:
 
 > ### $\Huge &#8220;$
 > Cosmologists have asked for centuries, *"How did something arise from nothing?"* It's a good question. After all, it assumes the most general origin state: nothing. If it assumed *something*, as in, something specific, e.g. "God" or "the universe pretty much as it is," we'd have to ask, "Well, how did we get *that* extremely specific thing?" "Nothing" is assumed in the question as the default assumption for its least loss in generality.
@@ -79,9 +79,10 @@ In logic, definitely no. [More elaboration here](Consciousness.md#cosmogenesis-m
 > But assuming everything gives us a path forward.
 > ### $\Huge &#8221;$
 
-<!--In logic, one can’t assume “no assumption.” “No assumption” would also be an assumption. One can only assume the axioms that incur the least loss in generality. “Nothing” is not the lack of an axiom, but an axiom. “Everything” is not the lack of an axiom, but an axiom. Both are defined only in relation to each other, as opposites. One cannot exist without the other, no more than the backward direction can if there’s no forward direction. “nothing” is distinct from empty space—it’s undefinable without an “everything” in reference to it.
+I described that path with some more specifics [here](Consciousness.md#cosmogenesis-myth).
+
+### Logic
+
+In logic, one can’t assume “no assumption.” “No assumption” would also be an assumption. One can only assume the axioms that incur the least loss in generality. “Nothing” is not the lack of an axiom, but an axiom. “Everything” is not the lack of an axiom, but an axiom. Both are defined only in relation to each other, as opposites. One cannot exist without the other, no more than the backward direction can if there’s no forward direction. “Nothing” is distinct from empty space—it’s undefinable without an “everything” in reference to it.
 
 In fact, an assumption/axiom can be defined as "a loss in generality."
--->
-
-I described that path with some more specifics [here](Consciousness.md#cosmogenesis-myth).
