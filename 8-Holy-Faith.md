@@ -476,7 +476,7 @@ Adding this item to the previous 3 provides a treatment for extreme scenarios of
 
 1. Drugs that alter the skin and brain, or more widely systemic parts of the body.
 
-Long-term use of standard pharmaceutical treatments, including anti-histamines, can have insidious, life-altering, possibly permanent neurological consequences. Histamine is a neurotransmitter in the brain. Unlike GABA, it's not one of the two most ubiquitous and well-understood. Altering histaminergic function can play an insidious long-term role on the brain, inducing brain fog and lack of mental clarity without one's realizing, I've found as I got older and studied myself with interaction of the drug more.
+Long-term use of standard pharmaceutical treatments, including anti-histamines, can have insidious, life-altering, possibly permanent neurological consequences. Histamine is a neurotransmitter in the brain. Unlike GABA, it's not one of the two most ubiquitous and well-understood. Altering histaminergic function can play an insidious long-term role on the brain, inducing brain fog and lack of mental clarity without one's realizing, I've found as I got older and studied myself with interaction of the drug past and present more.
 
 As with every topical, my eczema initially got better, then worse and more resilient. Those have an extreme effect on cognition, mood, and mental clarity as well.
 
