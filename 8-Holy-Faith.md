@@ -478,7 +478,7 @@ Adding this item to the previous 3 provides a treatment for extreme scenarios of
 
 Long-term use of standard pharmaceutical treatments, including anti-histamines, can have insidious, life-altering, possibly permanent neurological consequences. Histamine is a neurotransmitter in the brain. Unlike GABA, it's not one of the two most ubiquitous and well-understood. Altering histaminergic function can play an insidious long-term role on the brain, inducing brain fog and lack of mental clarity without one's realizing, I've found as I got older and studied myself with interaction of the drug more.
 
-As with every topical, my eczema initially got better, then worse and more resilient. Those have an extreme effect on cognition, mood, and mental clarity as well, I've found.
+As with every topical, my eczema initially got better, then worse and more resilient. Those have an extreme effect on cognition, mood, and mental clarity as well.
 
 I haven't tried JAK inhibitors.
 
