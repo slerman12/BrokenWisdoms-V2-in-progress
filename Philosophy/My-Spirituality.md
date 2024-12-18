@@ -1,4 +1,4 @@
-# December, 2017 (originally shared [here](https://www.facebook.com/share/p/15eA95NgUV/))
+# December, 2017 (Originally Shared [here](https://www.facebook.com/share/p/15eA95NgUV/))
 
 At the core of my spirituality is the... observation... that humanity has severed its connection to nature.
 
