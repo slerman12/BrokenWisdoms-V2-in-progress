@@ -502,7 +502,7 @@ I propose the ["32 Hour Work Week for Kids"](8-Holy-Faith.md#gradually-reducing-
 
 Adding this item to the previous 3 provides a treatment for extreme scenarios of eczema that might otherwise only react to cortico-steroids. Note: this hasn't been studied yet in a latitudinal sample size.
 
-#### Dangers, but not Necessarily Bad Curative Treatments:
+#### Dangers, but not Necessarily Bad Treatments:
 
 1. Drugs that alter the skin and brain, or more widely systemic parts of the body.
 
