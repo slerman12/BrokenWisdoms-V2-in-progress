@@ -472,9 +472,9 @@ Preventative methods:
 
 The medical system relies on anti-histamines, topicals, cortico-steroids, JAK inhibitors, and biologic agents which can all make eczema worse after initially making it better or have unforeseen side effects.
 
-These are prescribed after a flare-up rather than only-preventatively. The most effective treatment for a flare-up I’ve found, more so than even cortico-steroids, is fasting. A good fast, of a week or more, gets rid of an eczema outbreak. Prolonged fasts like that are sometimes considered dangerous by the medical system, and haven’t been studied in dermatology. Regarding whether they are ethical for kids, that depends. Each of the drugs I mentioned can start a viscious cycle that affects a kid for a lifetime and alters the functioning of the brain, ultimately worsening eczema and increasing brain fog and mental health problems. Prolonged fats are customarily practiced by adults and children in different religious traditions, including Yom Kippur (one-day fast) and Ramadam (one-month intermittent fast).
+These are prescribed after a flare-up rather than only-preventatively. The most effective treatment for a flare-up I’ve found, more so than meds that work really well initially like cortico-steroids, is fasting. Cortico-steroids, as with all topicals, and anti-histamines, make my eczema worse in the long-term, as well as cognition and other physical and mental issues. A good fast, of a week or more, gets rid of my severe and resilient eczema outbreaks. Prolonged fasts like that are sometimes considered dangerous by the medical system, and haven’t been studied in dermatology. Regarding whether they are ethical for kids, that depends. Each of the drugs I mentioned can start a viscious cycle that affects a kid for a lifetime and alters the functioning of their brain, insidiously worsening eczema and increasing brain fog and mental health problems and challenges. Prolonged fats are customarily practiced by adults and children in different religious traditions, including Yom Kippur (one-day fast) and Ramadam (one-month intermittent fast).
 
-Excluding water during these fasts for eczema is a bad idea.
+These fasts exclude water, which I wouldn't recommend (for eczema).
 
 So to summarize:
 
