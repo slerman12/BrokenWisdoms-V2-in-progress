@@ -440,7 +440,7 @@ The other methods I’ll list are preventative, but that heals a severe flare-up
 
 Preventative methods:
 
-1. Abstaining from porn and masturbation.
+1. Abstaining from porn, masturbation, sex, movies, and/or TV shows is sometimes preventative.
 2. Good diet, organic type foods, less breads, less dairy, no chocolates, no candies, no pop drinks.
 3. Another preventative method, besides those two, is not working as intensely. Rest and natural optimism. This one disproportionately depends on systems and environment conditions beyond individual control. 
 
@@ -454,7 +454,7 @@ So to summarize and elaborate:
 
 #### Preventative Treatments:
 
-1. Abstaining from porn and masturbation.
+1. Abstaining from porn, masturbation, sex, movies, and/or TV shows is sometimes preventative.
 2. Good diet, organic type foods, less breads, less dairy, no chocolates, no candies, no pop drinks.
 3. Not working as intensely. Rest and natural optimism. Disproportionately depends on systems.
 
