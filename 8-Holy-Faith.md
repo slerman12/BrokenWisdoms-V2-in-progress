@@ -490,7 +490,7 @@ So to summarize and elaborate:
 
 All 3 can be "curative," meaning used at treatment once a flare-up is already occuring, but are also helpful preventatively.
 
-I propose ("Health Insurers Including Medicaid nad Medicare Covering Dietary Prescriptions")[8-Holy-Faith.md#health-insurers-including-medicaid-and-medicare-covering-dietary-prescriptions] to financially incentivize 2.
+I propose ["Health Insurers Including Medicaid and Medicare Covering Dietary Prescriptions"](8-Holy-Faith.md#health-insurers-including-medicaid-and-medicare-covering-dietary-prescriptions) to financially incentivize 2.
 
 3 can be supported by meditation and yoga (see ["Transcendental Meditation Instructions in Therapy and Schools for Free"](8-Holy-Faith.md#transcendental-meditation-instructions-in-therapy-and-schools-for-free)).
 
