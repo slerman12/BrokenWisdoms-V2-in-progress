@@ -120,6 +120,8 @@ add details about vision and dental coverage in the student insurance policy, an
 - And that I had to pay out of pocket for glasses, but with deadlines from the university, I missed the prescription filing deadline for the prescription I got for those glasses, and had to pay the full sum anyway, without even receiving the glasses I needed
 - I was seeing my therapist who I'd seen since 12th grade of high school, and Aetna (the university's health insurance policy) was charging me about $10 per session. Without warning, they stopped covering my therapist's regular prices and I ended up getting multiple bills in the hundreds of dollars from them. So I couldn't afford to see him anymore. This price gouging was already after all of my hospitalizations, and unjustified by any reason. Not to mention, the severest of the traumas were all induced by the university who was providing the health insurance as part of my employment. [add link to photo of bills with charges suddenly hiked by hundreds of dollars per session]. Nothing on my therapist's end changed. According to him, "[...] they started adding a coinsurance amount."
 
+The healthcare system considers eating, seeing, and hearing to be privileges.
+
 ## You should probably protest
 
 Protest my unjust firing, negotiate for the dignity of graduate employees (higher pay, basic healthcare including vision and dental, parking, resuming the pre-Trump W2 tax statement form status), and bring back to spotlight the student loan debt cancellation plan that was passed, then unconstitutionally shut down by the Republican-dominated Supreme Court.
