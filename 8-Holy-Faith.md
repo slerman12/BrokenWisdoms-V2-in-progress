@@ -494,7 +494,7 @@ I propose ["Health Insurers Including Medicaid and Medicare Covering Dietary Pre
 
 3 can be supported by meditation and yoga (and further with ["Transcendental Meditation Instructions in Therapy and Schools for Free"](8-Holy-Faith.md#transcendental-meditation-instructions-in-therapy-and-schools-for-free)).
 
-I propose the ["32 Hour work Week for Kids"](8-Holy-Faith.md#gradually-reducing-the-coercion-on-kids-by-schools) to make 3 possible for kids, who might be more at risk when it comes to curative treatments and dangershttps://github.com/slerman12/BrokenWisdoms-V2-in-progress/edit/main/8-Holy-Faith.md#gradually-reducing-the-coercion-on-kids-by-schools:
+I propose the ["32 Hour Work Week for Kids"](8-Holy-Faith.md#gradually-reducing-the-coercion-on-kids-by-schools) to make 3 possible for kids, who might be more at risk when it comes to curative treatments and dangershttps://github.com/slerman12/BrokenWisdoms-V2-in-progress/edit/main/8-Holy-Faith.md#gradually-reducing-the-coercion-on-kids-by-schools:
 
 #### Curative Treatments:
 
