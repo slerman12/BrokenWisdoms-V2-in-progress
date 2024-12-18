@@ -234,6 +234,8 @@ My uncle Slava was the first of my grandparents' descendants to be born, followe
   - [Imagination Theory](Philosophy/Imagination-Theory.md)
     - A philosophical breakdown of simulation theory
   - [My Spirituality](Philosophy/My-Spirituality.md)
+    - December, 2017
+    - December, 2024
   - [Velocity Addition Formula](Philosophy/Velocity-Addition-Formula.md)
     - Practice and principle
       - Velocity-addition formula
