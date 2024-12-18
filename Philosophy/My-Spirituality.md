@@ -44,8 +44,6 @@ When this holistic, primal state of consciousness is achieved, the experience is
 
 Beyond that, I take inspiration from eastern religion, transcendentalism, shamanism, Rousseau, Nietzsche, Marx, Jung, and Campbell.
 
-> Originally shared [here](https://www.facebook.com/share/p/15eA95NgUV/).
-
 # December, 2024
 
 There are people to feel
