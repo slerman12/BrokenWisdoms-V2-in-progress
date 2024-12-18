@@ -484,11 +484,17 @@ So to summarize:
 2. Good diet, organic type foods, no breads, dairy, chocolates, or sugary drinks.
 3. Not working as intensely. Rest and natural optimism. Disproportionately depends on systems.
 
+All 3 can be "alopathic," meaning used at treatment once a flare-up is already occuring, but are also helpful preventatively.
+
+I propose ("Health Insurers Including Medicaid nad Medicare Covering Dietary Prescriptions")[8-Holy-Faith.md#health-insurers-including-medicaid-and-medicare-covering-dietary-prescriptions] to financially incentivize 2.
+
+I propose the ["32 Hour work Week for Kids"](8-Holy-Faith.md#gradually-reducing-the-coercion-on-kids-by-schools) to make 3 possible for kids, who might be more at risk when it comes to alopathic treatments and dangershttps://github.com/slerman12/BrokenWisdoms-V2-in-progress/edit/main/8-Holy-Faith.md#gradually-reducing-the-coercion-on-kids-by-schools:
+
 #### Alopathic treatments:
 
 1. Prolonged fast, including water.
 
-These 4 account for every possible scenario, short of financial limitations and other economic factors. The 4th might be more controversial for kids. The first 3 can also be alopathic.
+Adding this item to the previous 3 provides a cure for every scenario of eczema, one that hasn't been studied yet in a latitudinal sample size.
 
 #### Dangers, but not Necessarily Bad:
 
