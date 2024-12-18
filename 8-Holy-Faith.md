@@ -502,11 +502,17 @@ I propose the ["32 Hour Work Week for Kids"](8-Holy-Faith.md#gradually-reducing-
 
 Adding this item to the previous 3 provides a treatment for extreme scenarios of eczema that might otherwise only react to cortico-steroids. Note: this hasn't been studied yet in a latitudinal sample size.
 
-#### Dangers, but not Necessarily Bad:
+#### Dangers, but not Necessarily Bad Curative Treatments:
 
 1. Drugs that alter the skin and brain, or more widely systemic parts of the body.
 
 Long-term use of standard pharmaceutical treatments, including anti-histamines, can have insidious, life-altering, possibly permanent neurological consequences. Histamine is a neurotransmitter in the brain. Unlike GABA, it's not one of the two most ubiquitous and well-understood. Altering histaminergic function can play an insidious long-term role on the brain, inducing brain fog and lack of mental clarity without one's realizing, I've found as I got older and studied myself more.
+
+As with every topical, my eczema initially got better, then worse and more resilient. Those have an extreme effect on cognition, mood, and mental clarity as well, I've found.
+
+I haven't tried JAK inhibitors.
+
+Dupilumab was mildly effective, combined with good diet and meditation (and possibly wouldn't have been effective at all otherwise), required regularly injecting an agent that laser-targets a specific antibody everywhere in the body, and cost me all of my hair. I came into the medical system for eczema, the University of Rochester's medical system when I graduated college, and had never been hospitalized.
 
 ### Anti-Bullying Pop-Up
 
