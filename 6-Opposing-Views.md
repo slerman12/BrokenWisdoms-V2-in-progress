@@ -142,6 +142,8 @@ One other thing my uncle told me was that he spent longer than usual on his PhD,
 Since being terminated, I came up with a diffraction model that is unified with Einstein in a physics theory I credit to my uncle's spirit, most likely, but it was hard work to sit and learn all the material and derive it, and in this book, I've just included some trace evidence of that knowledge — again, all my work, not my uncle's — [here](Philosophy/Velocity-Addition-Formula.md). 
 -->
 
+More work than anyone, literal torture, no thank yous. 
+
 ## Niaz Abdolrahim
 
 <p align="center">
