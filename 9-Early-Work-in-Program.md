@@ -8,6 +8,7 @@
 ## Persistent Biologically-Inspired RNN Cell 
 **2018**
 
+<!-- 
 > Add/link diagram/video/code here as well
 >
 > Computational Benzos Model
@@ -45,6 +46,7 @@
 > Point: Begins defining neurological psychological phenomena based on neurotransmitters in computational models—for the first time
 > 
 > Can also show a time lapse heat map of the green/blue Glutamate/GABA spiking regions
+-->
 
 ## Long-Term Memory
 **2018 - today**
