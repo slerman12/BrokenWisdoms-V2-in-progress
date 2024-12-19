@@ -46,6 +46,8 @@
 > 
 > Can also show a time lapse heat map of the green/blue Glutamate/GABA spiking regions
 
+Note: This would be somebody's thesis in 2018. 
+
 ## Long-Term Memory
 **2018 - today**
 
