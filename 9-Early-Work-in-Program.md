@@ -14,7 +14,7 @@
 >
 > (Medical Computational Neuroscience pioneering model)
 >
-> Possibly a good ANN memory model 
+> Is probably a good ANN memory model 
 > 
 > Experiments:
 > 
