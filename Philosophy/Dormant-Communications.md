@@ -102,7 +102,7 @@ I described that path with some more specifics [here](Consciousness.md#cosmogene
 
 > To do: Maybe another reason for consistency of physics, is so that history and memory can be perennial. The dumbest example I can think of, is so that TV shows from the 1900s and 2000s stay relevant in the 3000s and so on. 
 >
-> There might be deeper patterns that construct the "monomyth," the structures at the root of stories and psychological meaning, from archetypes to specific transitions/transformations, and perhsp poetic symmetry between those and physics—people/social patterns as images of physics, not just God, and for that perennial story to exist yesterday, today, and tomorrow might have a stricter divergence limit constraint, than would be justified by "avoiding preferrentialism" and "biases" alone.
+> There might be deeper patterns that construct the "monomyth," the structures at the root of stories and psychological meaning, from archetypes to specific transitions/transformations, and perhaps poetic symmetry between those and physics—people/social patterns as images of physics, not just God, and for that perennial story to exist yesterday, today, and tomorrow might have a stricter divergence limit constraint, than would be justified by "avoiding preferrentialism" and "biases" alone.
 
 > And need to point out how many interactions there are to account for, and why divided experiences are better than just a singular one, resulting in those many interaction problems
 
