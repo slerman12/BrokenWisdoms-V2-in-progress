@@ -104,3 +104,5 @@ I described that path with some more specifics [here](Consciousness.md#cosmogene
 >
 > There might be deeper patterns that construct the "monomyth," the structures at the root of stories, from archetypes to specific transition/transformation processes, and perhsp poetic symmetry between those and physics—people/social patterns as images of physics, not just God, and for that perennial story to exist yesterday, today, and tomorrow might have a stricter divergence limit constraint, than would be justified by "avoiding preferrentialism" and "biases" alone.
 
+> And need to point out how many interactions there are to account for, and why divided experiences are better than just a singular one, resulting in those many interaction problems
+
