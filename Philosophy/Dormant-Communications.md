@@ -100,7 +100,7 @@ I described that path with some more specifics [here](Consciousness.md#cosmogene
 
 ### So God is Avoiding Preferentialism?
 
-> Maybe another reason for consistency of physics, is so that history and memory can be perennial. The dumbest example I can think of, is so that TV shows from the 1900s and 2000s stay relevant in the 3000s and so on. 
+> To do: Maybe another reason for consistency of physics, is so that history and memory can be perennial. The dumbest example I can think of, is so that TV shows from the 1900s and 2000s stay relevant in the 3000s and so on. 
 >
 > There might be deeper patterns that construct the "monomyth," the structures at the root of stories, from archetypes to specific transition/transformation processes, and perhsp poetic symmetry between those and physics—people/social patterns as images of physics, not just God, and for that perennial story to exist yesterday, today, and tomorrow might have a stricter divergence limit constraint, than would be justified by "avoiding preferrentialism" and "biases" alone.
 
