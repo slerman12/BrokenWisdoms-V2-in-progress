@@ -96,5 +96,5 @@ In fact, an assumption/axiom can be defined as "a loss in generality."
 
 > To do: Also add some point, on teh question of why not create a universe of only pleasure, about given the choice to have a morphine drip, and Eternal Sunshine of the Spotless Mind, a movie where Jim Carrey forgets all of his pain, and forget your grandparents, and parents, and griefs and heartaches and rejections, and have a morphine drip for the rest of your life, starting today, would you do it? Would your highest wisdom do it? So if not, perhaps for the same reason, the universe was not chosen as a morphine drip only
 
-> And if haven't enough already, specify how the intelligent super being can interact with universe through limited statistical divergence of quantum particle sampling, without breaking the known and observed laws of nature
+> And if haven't enough already, specify how the intelligent super being can interact with universe through limited statistical divergence of quantum particle sampling, without breaking the known and observed laws of nature (that sufficiently explains it, "limited statistical divergence of quantum particle sampling")
 -->
