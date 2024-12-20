@@ -84,9 +84,9 @@ I described that path with some more specifics [here](Consciousness.md#cosmogene
 
 ### Logic
 
-> To do: Maybe something more formal deduction-based: In logic, one can’t assume “no assumption.” “No assumption” would also be an assumption. One can only assume the axioms that incur the least loss in generality. “Nothing” is not the lack of an axiom, but an axiom. “Everything” is not the lack of an axiom, but an axiom. Both are defined only in relation to each other, as opposites. One cannot exist without the other, no more than the backward direction can if there’s no forward direction. “Nothing” is distinct from empty space—it’s undefinable without an “everything” in reference to it.
+> To do: Maybe something more formal deduction-based: In logic, one can’t assume "no assumption." "No assumption" would also be an assumption. One can only assume the axioms that incur the least loss in generality. "Nothing" is not the lack of an axiom, but an axiom. "Everything" is not the lack of an axiom, but an axiom. Both are defined only in relation to each other, as opposites. One cannot exist without the other, no more than the backward direction can if there’s no forward direction. "Nothing" is distinct from empty space—it’s undefinable without an "everything" in reference to it.
 >
-> An assumption/axiom is always "a loss in generality," and the latter is always an assumption/axiom.
+> An assumption/axiom is always "a loss in generality," and "a loss in generality" is always an assumption/axiom.
 
 ### The Huge Value of Atheism and Skepticism
 
@@ -105,4 +105,3 @@ I described that path with some more specifics [here](Consciousness.md#cosmogene
 > There might be deeper patterns that construct the "monomyth," the structures at the root of stories and psychological meaning, from archetypes to specific transitions/transformations, and perhaps poetic symmetry between those and physics—people/social patterns as images of physics, not just abstractly-God, and for that perennial story to exist yesterday, today, and tomorrow might have a stricter divergence limit constraint, than would be justified by "avoiding preferrentialism" and "biases" alone.
 
 > And need to point out how many interactions there are to account for, and why divided experiences are better than just a singular one, resulting in those many interaction problems
-
