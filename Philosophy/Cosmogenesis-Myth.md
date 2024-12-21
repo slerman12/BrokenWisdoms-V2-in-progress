@@ -1,6 +1,6 @@
 # Archetypal Madness
 
-I am Chenliang, Sam's advisor. He writes this with telepathic interference from Josh, Sam's friend. Together, and this is Sam speaking, we shall derive the universe. Not derivatively of course. That would require ample physical sciences background. But sufficiently well-reasonedly, with made-up words here and there. Let's begin with a less exhausting setup. "I observe." It is true, therefore it is. At any rate, fading into sleep-deprivative exhaustion as I may be, I am reluctant to say this won't work. Largely because of the intensive time and money — "minimum wage" Josh chimes in — investment that has gone into this project. Well, so be it. The whole of the universe, in one shebang. It starts with time. But time exists as a physical construct not a mathematically deduced one. So let us find an incredibly stupid place to hide it. In equivalence.
+We shall derive the universe. Not derivatively of course. That would require ample physical sciences background. But sufficiently well-reasonedly, with made-up words here and there. Well, so be it. The whole of the universe, in one shebang. It starts with time. But time exists as a physical construct not a mathematically deduced one. So let us find an incredibly stupid place to hide it. In equivalence.
 
 Alright. Given $A$ $=$ $B$, we know $A$ $\rightarrow$ $B$ and $B$ $\rightarrow$ $A$. We don't know *when* $A$ $\rightarrow$ $B$. Is it in $1$ deductive step $A$ $\rightarrow_1$ $B$? Is it in $n$ deductive steps $A$ $\rightarrow_n$ $B$. From this, we get a cheap hacky way to derive something out of literally nothing.
 
@@ -231,7 +231,7 @@ Either:
     - In which case, I have done the monumental work of showing there must exist at least another possibility to the fundamental properties of the universe besides math and information pattern.
     - One might think to propose simply "matter" as the other possibility and leave it at that, but there is no distinction in the vague term "matter" between "matter" and information pattern. The best running definition of "matter" is "particles". But information patterns are also particles (and/or interactions of particles) and particles are information patterns (defined typically by numerical quantum states). Therefore a different alternative is needed, something that cannot be defined as information pattern yet can coalesce into complexity. I propose ["singularizing-qualia"](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/Consciousness.md) is the only concrete alternative, and an alternative definition to "matter". Since that's the only running definition that doesn't reduce to information pattern, I've now done the monumental work of evidencing a kind of primordial consciousness as a basis of the physical universe for the first time deductively.
   
-— "at minimum wage", Josh chimes in.
+> To do: Make this Conclusion more about *I defined deduction.*
 
 # Afterward
 
