@@ -490,6 +490,8 @@ Most recently, being terminated severely worsened my eczema.
 
 ### The Need for Withdrawal Specialists for Every Type of Prescription, Monitoring Med Usage, Regulating Presence of Thorough Safety Procedures for Withdrawing, and Informing and Helping Patient with Discontinuations of Treatment from a Patient-is-Always-Right Perspective, As a Checks and Balances to Doctors
 
+As described. 
+
 ### Reducing Paranoia
 
 TVs emit a much higher electromagnetic frequency and at a higher intensity per surrounding the-usual-human-distance surface area. If 5g is dangerous, then regular TVs are far more dangerous. But don’t worry, because horizontally polarized visible light is common in nature, and can be even more intense and having a much higher electromagnetic frequency than 5g. 
