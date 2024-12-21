@@ -490,9 +490,7 @@ Most recently, being terminated severely worsened my eczema.
 
 ### The Need for Withdrawal Specialists for Every Type of Prescription, Monitoring Med Usage, Regulating Presence of Thorough Safety Procedures for Withdrawing, and Informing and Helping Patient with Discontinuations of Treatment from a Patient-is-Always-Right Perspective, As a Checks and Balances to Doctors
 
-As described. 
-
-they should make sure the patient knows going into the medication the processes of withdrawing and risks. There is more than one part to every prescription. There's the med use. Then there's the med withdrawal. Both involve their own serious physiological and neurological changes, that cannot in medical accuracy be entangled in one. 
+They should make sure the patient knows going into the medication the processes of withdrawing and risks. There is more than one part to every prescription. There's the med use. Then there's the med withdrawal. Both involve their own serious physiological and neurological changes, that cannot in medical accuracy be entangled in one. 
 
 ### Reducing Paranoia
 
