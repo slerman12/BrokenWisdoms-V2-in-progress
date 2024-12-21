@@ -492,7 +492,8 @@ Most recently, being terminated severely worsened my eczema.
 ### The Need for Withdrawal Specialists for Every Type of Prescription, Monitoring Med Usage, Regulating Presence of Thorough Safety Procedures for Withdrawing, and Informing and Helping Patient with Discontinuations of Treatment from a Patient-is-Always-Right Perspective, As a Checks and Balances to Doctors
 
 also have measures for rare scenarios like sudden cessation of access to drug. They should also monitor such events carefully according to the data available to the institution. Generally, most of the medical system is wasteful, but for the medical system the way it is, short of major other reforms, perhaps wiser, this cannot be an oversight. If withdrawal is not understood, nor is the continuance. That especially includes rare withdrawal scenarios. And varying time spans. One might argue this may never be understood. Well, then neither is the continuance. Continuance has unmeasurable insidious effects. The body, brain, and psychology are too complicated over a long-term time span for any evaluations or metrics to thoroughly determine how much benefits outweigh costs. All studies are by necessity methodologically flawed in this regard. There's also a huge limit to how much causality can be inferred from correlation. If the rare withdrawals aren't understood, neither is the continuance.
--->
+
+I'd recommend this, but I don't believe in encouraging the current system.-->
 ### Reducing Paranoia
 
 TVs emit a much higher electromagnetic frequency and at a higher intensity per surrounding the-usual-human-distance surface area. If 5g is dangerous, then regular TVs are far more dangerous. But don’t worry, because horizontally polarized visible light is common in nature, and can be even more intense and having a much higher electromagnetic frequency than 5g. 
