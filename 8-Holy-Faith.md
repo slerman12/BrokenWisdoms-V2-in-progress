@@ -492,6 +492,8 @@ Most recently, being terminated severely worsened my eczema.
 
 As described. 
 
+they should make sure the patient knows going into the medication the processes of withdrawing and risks. There is more than one part to every prescription. There's the med use. Then there's the med withdrawal. Both involve their own serious physiological and neurological changes, that cannot in medical accuracy be entangled in one. 
+
 ### Reducing Paranoia
 
 TVs emit a much higher electromagnetic frequency and at a higher intensity per surrounding the-usual-human-distance surface area. If 5g is dangerous, then regular TVs are far more dangerous. But don’t worry, because horizontally polarized visible light is common in nature, and can be even more intense and having a much higher electromagnetic frequency than 5g. 
