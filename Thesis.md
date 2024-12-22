@@ -72,7 +72,7 @@ The University of Rochester: **Saruman**
 
 The mallet's head breaks, **wisdoms** in its alder, and the <!--cracked-->**broken** wood sprouts with roots<!--,--> and branches<!--, and moss-->.
 
-In a thunder, the Alder Tree, awoken<!-- from the mallet-->, says, $\mathfrak{\color{green}\text{\color{green}`` Y}o{\color{green}u}'r{\color{green}e} \ \text{\color{green}w}r{\color{green}o}n{\color{green}g.\text{''}}}$
+The Alder Tree, awoken<!-- from the mallet-->, says, $\mathfrak{\color{green}\text{\color{green}`` Y}o{\color{green}u}'r{\color{green}e} \ \text{\color{green}w}r{\color{green}o}n{\color{green}g.\text{''}}}$
 
 > ### $\Huge &#8220;$
 > "To the dismay of those that stood by, about the body of Saruman a grey mist gathered, and rising slowly to a great height like smoke from a fire, as a pale shrouded figure it loomed over the Hill. For a moment it wavered, looking to the West; but out of the West came a cold wind, and it bent away, and with a sigh dissolved into nothing."</br>
