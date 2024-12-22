@@ -68,7 +68,7 @@ The University of Rochester: **Saruman**
 
 "Who is Sam?" the Congress asks.
 
-"He’s a PhD flunkee," the Alderman decides, and slams his gavel against the ivory surface of his desk.
+"He’s a PhD flunkee," the Alderman decides, slams his gavel against the ivory surface of his desk.
 
 The mallet's head breaks with the **wisdoms** in its alder, and the <!--cracked-->**broken** wood sprouts with roots<!--,--> and branches<!--, and moss-->.
 
