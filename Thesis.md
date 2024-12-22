@@ -76,6 +76,7 @@ In a thunder, the Alder Tree, awoken<!-- from the mallet-->, says, $\mathfrak{\c
 
 > ### $\Huge &#8220;$
 > "To the dismay of those that stood by, about the body of Saruman a grey mist gathered, and rising slowly to a great height like smoke from a fire, as a pale shrouded figure it loomed over the Hill. For a moment it wavered, looking to the West; but out of the West came a cold wind, and it bent away, and with a sigh dissolved into nothing."
+> &ensp;&ensp;- J.R.R. Tolkien
 >
 > …symbolizing that Saruman was not permitted into the Grey Havens and Undying Lands to the West after Wormtongue cut his throat with a knife. In the East, lie Mordor. But to the West, where the mist of Saruman‘s living spirit wanted to go, lay the lands beyond the grey sea, those to which Frodo, Bilbo, Gandalf, and the Elves went where grey mists may find haven.
 >
