@@ -75,8 +75,8 @@ The mallet's head breaks with the **wisdoms** in its alder, and the <!--cracked-
 In a thunder, the Alder Tree, awoken<!-- from the mallet-->, says, $\mathfrak{\color{green}\text{\color{green}`` Y}o{\color{green}u}'r{\color{green}e} \ \text{\color{green}w}r{\color{green}o}n{\color{green}g.\text{''}}}$
 
 > ### $\Huge &#8220;$
-> "To the dismay of those that stood by, about the body of Saruman a grey mist gathered, and rising slowly to a great height like smoke from a fire, as a pale shrouded figure it loomed over the Hill. For a moment it wavered, looking to the West; but out of the West came a cold wind, and it bent away, and with a sigh dissolved into nothing."
-> &ensp;&ensp;- J.R.R. Tolkien
+> "To the dismay of those that stood by, about the body of Saruman a grey mist gathered, and rising slowly to a great height like smoke from a fire, as a pale shrouded figure it loomed over the Hill. For a moment it wavered, looking to the West; but out of the West came a cold wind, and it bent away, and with a sigh dissolved into nothing."</br>
+> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;- J.R.R. Tolkien
 >
 > …symbolizing that Saruman was not permitted into the Grey Havens and Undying Lands to the West after Wormtongue cut his throat with a knife. In the East, lie Mordor. But to the West, where the mist of Saruman‘s living spirit wanted to go, lay the lands beyond the grey sea, those to which Frodo, Bilbo, Gandalf, and the Elves went where grey mists may find haven.
 >
@@ -92,6 +92,6 @@ In a thunder, the Alder Tree, awoken<!-- from the mallet-->, says, $\mathfrak{\c
   <source width="25%" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alder-tree/Assets/refs/heads/main/BrokenWisdoms/The-Death-of-Saruman-by-Joan-Wyatt.jpeg">
   <img width="25%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://raw.githubusercontent.com/alder-tree/Assets/refs/heads/main/BrokenWisdoms/The-Death-of-Saruman-by-Joan-Wyatt.jpeg">
 </picture></a>
-<br><i>The Death of Saruman</i>, painting by Joan Wyatt
+<br><i>The Death of Saruman</i>, by Joan Wyatt
 </a>
 </p>
