@@ -82,6 +82,6 @@ In a thunder, the Alder Tree, awoken<!-- from the mallet-->, says, $\mathfrak{\c
   <source width="25%" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alder-tree/Assets/refs/heads/main/BrokenWisdoms/The-Death-of-Saruman-by-Joan-Wyatt.jpeg">
   <img width="25%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://raw.githubusercontent.com/alder-tree/Assets/refs/heads/main/BrokenWisdoms/The-Death-of-Saruman-by-Joan-Wyatt.jpeg">
 </picture></a>
-<br><i><a href='https://qr.ae/psDqOz'>The Death of Saruman</a></i> by Joan Wyatt
+<br><i><a href='https://qr.ae/psDqOz'>The Death of Saruman</a></i> <i>by Joan Wyatt</i>
 </a>
 </p>
