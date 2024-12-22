@@ -75,3 +75,13 @@ The mallet's head breaks with the **wisdoms** in its alder, and the <!--cracked-
 In a thunder, the Alder Tree, awoken<!-- from the mallet-->, says, $\mathfrak{\color{green}\text{\color{green}`` Y}o{\color{green}u}'r{\color{green}e} \ \text{\color{green}w}r{\color{green}o}n{\color{green}g.\text{''}}}$
 
 <p align='center'>𖥸</p>
+
+<p align="left">
+<a href="https://raw.githubusercontent.com/alder-tree/Assets/refs/heads/main/BrokenWisdoms/The-Death-of-Saruman-by-Joan-Wyatt.jpeg">
+<picture>
+  <source width="25%" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alder-tree/Assets/refs/heads/main/BrokenWisdoms/The-Death-of-Saruman-by-Joan-Wyatt.jpeg">
+  <img width="25%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://raw.githubusercontent.com/alder-tree/Assets/refs/heads/main/BrokenWisdoms/The-Death-of-Saruman-by-Joan-Wyatt.jpeg">
+</picture></a>
+<br><i>The Death of Saruman</i> by Joan Wyatt
+</a>
+</p>
