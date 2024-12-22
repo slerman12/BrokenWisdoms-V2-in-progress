@@ -70,7 +70,7 @@ The University of Rochester: **Saruman**
 
 "He’s a PhD flunkee," the Alderman decides, slams his gavel against the ivory surface of his desk.
 
-The mallet's head breaks with the **wisdoms** in its alder, and the <!--cracked-->**broken** wood sprouts with roots<!--,--> and branches<!--, and moss-->.
+The mallet's head breaks, **wisdoms** in its alder, and the <!--cracked-->**broken** wood sprouts with roots<!--,--> and branches<!--, and moss-->.
 
 In a thunder, the Alder Tree, awoken<!-- from the mallet-->, says, $\mathfrak{\color{green}\text{\color{green}`` Y}o{\color{green}u}'r{\color{green}e} \ \text{\color{green}w}r{\color{green}o}n{\color{green}g.\text{''}}}$
 
