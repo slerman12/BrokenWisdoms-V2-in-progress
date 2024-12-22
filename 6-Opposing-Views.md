@@ -438,6 +438,38 @@ Chenliang, having recognized UnifiedML as being impressive by itself for a PhD s
 
 Regarding these 4 artworks, Michael did respond with a "negative non-consent," and I adhered to his and Chenliang's recommendation, submitting the "Bittle Bots" picture story. It lost. It got rejected. I was there at the Art of Science Competition and there were many better submissions that deserved the democratic vote over mine. I walked out upset, but don't disagree.
 
+### Petoi CEO
+
+I even got a scheduled video meeting with the [Petoi](https://www.petoi.com/) CEO and access to the app [WeChat](https://en.wikipedia.org/wiki/WeChat), a Chinese app that requires invitation to join, with which to interact with him, or, my friends in Chenliang’s lab. 
+
+Of course, he programmed the whole thing, and built it—Bittle I mean—amazing he answers Issues, emails, and offers video calls directly for troubleshooting, and he was helpful and patient as we/I got the Bittle bot to work after an initial failed setup by another one of Chenliang’s students, that they labeled with some name on a piece of masking tape (e.g., like "Andy") that I had to remove because I thought the robot was sacred, that it was the fore way to building a good robotics library. 
+
+Generally applicable to more expensive and specialized robots, but accessible to everybody. Bittle understands the importance of pedagogy. I have no sponsorship, deals, or arrangements with Petoi. Not only do they provide just robotics lessons, an actually really good [crash course](https://www.yuque.com/tinkergen-help-en/bittle_course/lesson_1) that even teaches about "bionics" (when technology is learned from nature), and is provided, by him or somebody interestingly, (and, not only that) but it’s also meant to be easy for a child to use and learn, which is essential for the safety and transparency of the technologies that are likely to automate the future. 
+
+I discuss more on this [here](4-Holy-Faith/3-Medical-Policies.md#mass-production-of-mass-production--anti-homogenization-and-monopolization). However, he doesn’t provide robotics training software, or software otherwise (had to rebuild, [simpler](https://github.com/AGI-init/UnifiedML/blob/main/ML/World/Environments/Bittle.py)), that necessarily generalizes to the same goal. That’s where I come in, or was coming in.
+
+There was a synchronicity when I got access to that WeChat app. When I initially asked, the approval got rejected and my screen [was white](https://raw.githubusercontent.com/alder-tree/Assets/refs/heads/main/BrokenWisdoms/WeChat-Yang.png), then we tried again—it was [black](https://raw.githubusercontent.com/alder-tree/Assets/refs/heads/main/BrokenWisdoms/WeChat-Yin.png)—yin—in the screenshot sent to Chenliang’s Slack group that [it](https://raw.githubusercontent.com/alder-tree/Assets/refs/heads/main/BrokenWisdoms/Verification-Successful.png) worked. 
+
+Much maybe what [I had to integrate](https://raw.githubusercontent.com/alder-tree/Assets/refs/heads/main/BrokenWisdoms/Group-1.png) (link to initial point image) in his group ([group photo with crooked hat](https://raw.githubusercontent.com/alder-tree/Assets/refs/heads/main/BrokenWisdoms/Group-2.png)) was [my dark side](https://raw.githubusercontent.com/alder-tree/Assets/refs/heads/main/BrokenWisdoms/Group-3.jpeg) (the last one maybe went a little too far, and [here is where I started from Henry](https://raw.githubusercontent.com/alder-tree/Assets/refs/heads/main/BrokenWisdoms/Henry-Group.jpeg)). Gravity, not just light.  The Word, not words. Or the theory and active practice discipline therein.
+
+When we took that photo, over Chinese food in Chenliang’s lab, there was murmur of all being "synchronized," as I sat and listened. 
+
+And walked a bit. That time not with my peers. Other times, good walk, in Chenliang’s trail behind his house, and got to pluck a pear from his own garden trees. 
+
+I said, "Wow, if I had a tree like this, I would eat these all the time!"
+
+One time, running, I kicked a soccer ball that Chenliang passed to me. I never scored in my life. I kicked it and shot it through the goalpost. I felt the sense of him to my left, and my kick was clumsy but didn’t land clumsy. The rest of his group was better. 
+
+I once shot a basketball—that I was good at—from half court as a kid. Shortest kid on the team, end seconds of the match, down 3 (wait, 2) points. It flew, and if it landed, that would’ve been the victory. I didn’t get the ball the whole game. It appeared in my hands then at the end and I threw. From half court—even professionals don’t make that. It shot. My mom was in the audience. The buzzer rang. The game was over. The ball flew, up over the court and dead center on the rim, bounced up, and curved. Just barely didn’t make it. But everyone in the audience knew I did. 
+
+My family had a basketball hoop-4 or 5–in the courts further outside from our apartment, in the grassy field. Today they’re just cement. Were removed for some reason. Guess the apartment complex can’t bother to provide kids with playgrounds anymore—even the center playground is now just a fence. 
+
+Meanwhile, they inspect our apartment every week—or so it feels, every year or some months, periodically. My mom keeps track. And they refine the carpet with a much better carpet—oh yes, and I’m being sarcastic, we had a nice carpet and they "refined" it with this grey coarse thing. Our kitchen sink broke several times due to the piping, kitchen flooded. We had to clean up neighbor food. 
+
+This happened once after I was terminated, and the maintenance guy said it was our problem, and that it was fixed now. My mom was sure it wasn’t our problem and that evening it flooded again. The first time, shame on us. The second time, the guy came back and remarked that yeah, it was the piping. 
+
+The University of Rochester might think I flooded their email inboxes with bad emails, trying to explain to them all of this. But they flooded those emails—the upstairs people of them, whose food ranked the floor of my kitchen. And I was the embarrassment, ignored and terminated. 
+
 ## Charles Venuto
 
 <p align="center">
