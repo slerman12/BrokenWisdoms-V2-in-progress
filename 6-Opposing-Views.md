@@ -361,20 +361,29 @@ The actual six-month review was **May 5th, 2023**. Then Chenliang notified me of
 
 ### Does no "no" mean no?
 
-What do I mean by 'without their "no"'? I mean, I told them I wasn't going to make the make-up meeting, and gave them the reason why. They didn't reply affirmatively or negatively. As my employers, given one-month's advance notice, it's their responsibility to reply "no," or otherwise, no news is good news in the workplace, and missing that meeting, as I'd warned in advance I would do and had more than enough jutification, cannot be used as the termination reason, let alone pretty-much-sole termination reason not disproven by the information provided. However, even if it is, that will later be addressed too, in accord with their own policy.
+What do I mean by 'without their "no"'? I mean, I told them I wasn't going to make the make-up meeting, and gave them the reason why. They didn't reply affirmatively or negatively. As my employers, given one-month's advance notice, it's their responsibility to reply "no," or otherwise, no news is good news in the workplace, and missing that meeting, as I'd warned in advance I would do and had more than enough justification, cannot be used as the termination reason, let alone pretty-much-sole termination reason not disproven by the information provided them. However, even if it is, that will later be addressed too, in accord with their own policy.
 
-Also, the meeting itself was based on their false premise.
+Also, the meeting itself was based on their false premise, that I hadn't satisfied what was requested in the six-month review. And it is ridiculous to demand a make-up for a six-month review where you are a brand new committee. Just wait six months, especially as the student is finding a new advisor!
 
-For the most part, they ignored all of my emails where I explained everything to them, and want me to what—sit by their bedside and read everything word by word to them? More than 3 major emails (the advance notice one that I was going to miss the meeting, as well two other pretty long, exhaustively descriptive ones, and others, more than 3), that all of them, or at least Michael and Chenliang, got. Others about my research specifically that my committee got. 
+They ignored so many of my emails, including the major descriptive ones.
 
 The truth is, these academics want to be seduced (e.g., "flying colors") or given courtesies (even when it's at the huge sacrifice cost of the employee). They don't care about research quality, and, as will be shown later, their own policy, by which they justify their employee injuries and termination.
 
-...especially on a notified inaction, employer's requiring a student telepathically empathize with them isn't a thing, when information went far beyond one's way to be communicated.
+...especially on a notified inaction, employer's requiring a student telepathically empathize with them isn't a thing, when information went far beyond one's way to be communicated—no "no" is not a no.
+
+Wait, but what about affirmative consent?
+
+This is the workplace!
+
+Well, isn't affirmative consent—
+
+Shut up—this is the workplace! This isn't courtship or a romantic encounter. These are my employers, *employers*. I'm the employee. They're the ones wanting "affirmative consent" for an action I notified them of 3 weeks in advance by email. For an inaction. That would be like if a woman said, "I'm not coming to your house," and her powerful boss failed to respond "No," and as a result she was fired.
 
 1. 3 week's advance notice from employee. <!--(after advisor deserts)-->
 2. With a *really* good provided excuse<!--, due to one of the employers in the first place-->. <!--(second advisor deserted)-->
 3. And as will be shown later, the employer violated the policy handbook that requires the action.
 4. And the action itself, in the employee's case, wasn't justified. <!--(advisor writes in reply that student is ready to defend)-->
+
 
 ### Real-Time RL Robotics
 
