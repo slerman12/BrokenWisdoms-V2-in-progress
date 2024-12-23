@@ -363,7 +363,7 @@ The actual six-month review was **May 5th, 2023**. Then Chenliang notified me of
 
 What do I mean by 'without their "no"'? I mean, I told them I wasn't going to make the make-up meeting, and gave them the reason why. They didn't reply affirmatively or negatively. As my employers, given one-month's advance notice, it's their responsibility to reply "no," or otherwise, no news is good news in the workplace, and missing that meeting, as I'd warned in advance I would do and had more than enough justification, cannot be used as the termination reason, let alone pretty-much-sole termination reason not disproven by the information provided them. However, even if it is, that will later be addressed too, in accord with their own policy.
 
-Also, the meeting itself was based on their false premise, that I hadn't satisfied what was requested in the six-month review. And it is ridiculous to demand a make-up for a six-month review where you are a brand new committee. Just wait six months, especially as the student is finding a new advisor!
+Also, the meeting itself was based on their false premise, that I hadn't satisfied what was requested in the six-month review. And it is ridiculous to demand a make-up for a six-month review where you are a brand new committee. Just wait six months, especially as the student is finding a new advisor for the second time in his sixth year through no faut of his own!
 
 They ignored so many of my emails, including the major descriptive ones.
 
