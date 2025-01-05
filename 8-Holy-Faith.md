@@ -505,8 +505,11 @@ While people are worried about 5g, much stronger EM signals are passing through 
 The risks of TV screens on the eyes might suggest that electromagnetic signals can be dangerous to biology at high intensities and/or high polarizations. That’s true, but the sun produces higher intensities, and horizontally polarized glares in nature such as from lakes are perhaps comparable as carrying photons with the same nature/quantum attributes (including additive electromagnetic fields, though besides some possible unknown decoherence difference). CRT, Plasma, and QD-OLED TVs have lower electromagnetic field magnitudes due to their exclusion of polarizing filters, meaning the randomized polarization outputs sum their conflicting electromagnetic forces to a lower electromagnetic total, by Newton’s second law, regarding the polarization difference. 
 
 This bodes well for the health safety beliefs around 5g and the future of such technology, though perhaps neural networks could still make the encoding schemes more efficient and allow energy and power consumption savings from lower frequency emissions and higher efficiency encoding schemes based on neural encoders and decoders with respect to the wave modulation information encoding scheme as neurally wave-modulated<sup>TM</sup>. Then that would possibly make much of the 5g infrastructure redundant and energy-wasteful. Other than that, 5g is a reasonable future. Hopefully that reduces some paranoia. 
+- Neural Wireless Fidelity<sup>TM</sup>
 
-### Mass Production of Mass Production / Anti-Homogenization and Monopolization
+### Mass Production of Mass Production / Anti-Homogenization / Anti-Monopolization
+
+> The conclusions and ideas in this are good, but the example used of TVs isn't super good since how would AI and robotics simplify TV engineering beyond the current technologies? 3D printers maybe
 
 For just aesthetic reasons, I suggest bringing back swivel stands for TVs and more-creative/less-homogenized frame designs for TVs, as mass production with AI is only going to increase the risk of homogenization in manufacturing, and possibly the monopolization of mass production tools. 
 
